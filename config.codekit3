@@ -55,6 +55,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/docs\/style.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/style.css.map",
+		"oF": 0
+		},
 	"\/ma_theme\/.editorconfig": {
 		"ft": 8192,
 		"oA": 2,
@@ -127,7 +133,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/site\/docs\/style.css",
+		"oAP": "\/docs\/style.css",
 		"oF": 2,
 		"oS": 0,
 		"uL": 1
