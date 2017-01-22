@@ -5,7 +5,7 @@
   <title>    Mass Affection
 </title>
 
-  <meta property="og:url" content="" />
+  <meta property="og:url" content="http://www.massaffection.com" />
   <meta property="og:title" content="Mass Affection" />
   <meta property="og:description" content="A husband and wife play-through of the Mass Effect games. Laughter, romance, and hijinks ensue. Biweekly episodes discussing plot, character, gameplay—the whole gamut!" />
   <meta property="og:image" content="//cdn.massaffection.com/cover.jpg" />
@@ -18,7 +18,6 @@
 
   <link rel="stylesheet" type="text/css" href="/style.css" charset="utf-8">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-  <script src='/mtiFontTrackingCode.js'></script>
 </head>
 <body>
 
@@ -1026,35 +1025,61 @@
   </div>
 
   <nav class='main-nav'>
-    <!-- TODO: use logo for Home, only show it when header out of sight -->
-    <a href='/' class='main-nav__item main-nav__item--home main-nav__item--current'>Home</a>
-    <a href='/about/' class='main-nav__item main-nav__item--about'>About</a>
-    <a href='/archive/' class='main-nav__item main-nav__item--archive'>Archive</a>
-    <a href='/support/' class='main-nav__item main-nav__item--support'>Support</a>
-    <a href='/feed.xml' class='main-nav__item main-nav__item--feed'>Feed</a>
-    <a href='https://twitter.com/mass_affection' class='main-nav__item main-nav__item--twitter'>Twitter</a>
+    <ul class='main-nav__list'>
+      <li class='main-nav__item main-nav__item--home main-nav__item--current'>
+        <a href='/' class='main-nav__link main-nav__link--current'>
+          <img src='http://cdn.massaffection.com/cover.jpg' class='main-nav__icon main-nav__icon--home'/>
+          <span class='main-nav__text main-nav__text--home'>Home</span>
+        </a>
+      </li>
+      <li class='main-nav__item main-nav__item--about'>
+        <a href='/about/' class='main-nav__link'>
+          <i class='fa fa-fw fa-user main-nav__icon'></i>
+          <span class='main-nav__text'>About</span>
+        </a>
+      </li>
+      <li class='main-nav__item main-nav__item--support'>
+        <a href='https://patreon.com/massaffection' class='main-nav__link'>
+          <i class='fa fa-fw fa-dollar main-nav__icon'></i>
+          <span class='main-nav__text'>Support</span>
+        </a>
+      </li>
+      <li class='main-nav__item main-nav__item--feed'>
+        <a href='/feed.xml' class='main-nav__link'>
+          <i class='fa fa-fw fa-rss main-nav__icon'></i>
+          <span class='main-nav__text'>Feed</span>
+        </a>
+      </li>
+      <li class='main-nav__item main-nav__item--twitter'>
+        <a href='https://twitter.com/mass_affection' class='main-nav__link'>
+          <i class='fa fa-fw fa-twitter main-nav__icon'></i>
+          <span class='main-nav__text'>Twitter</span>
+        </a>
+      </li>
+    </ul>
+
   </nav>
 
   <div class='content'>
-      <header class='site-header'>
+    <header class='site-header'>
     <!-- TODO: generate srcset images, set them correctly -->
-    <h1 class='site-header__site-name'>
-      <img
-        src='http://cdn.massaffection.com/cover-small.jpg'
-        srcset='http://cdn.massaffection.com/cover-medium.jpg 400w, http://cdn.massaffection.com/cover.jpg'
-        alt='Mass Affection'
-        title='Mass Affection'
-        class='site-header__image' />
-    </h1>
-    <h2 class='site-header__subtitle'>
-      <span class='site-header__description site-header__description--first'>
-        Chris and Jaimie Krycho play <i>Mass Effect</i>.
-      </span>
-      <span class='site-header__description site-header__description--second'>
-        Romance and hilarities ensue.
-      </span>
-    </h2>
-  </header>
+      <h1 class='site-header__site-name'>
+        <img
+          src='http://cdn.massaffection.com/cover-small.jpg'
+          srcset='http://cdn.massaffection.com/cover-medium.jpg 400w, http://cdn.massaffection.com/cover.jpg'
+          alt='Mass Affection'
+          title='Mass Affection'
+          class='site-header__image' />
+      </h1>
+      <h2 class='site-header__subtitle'>
+        <span class='site-header__description site-header__description--first'>
+          Chris and Jaimie Krycho play <cite>Mass Effect</cite>.
+        </span>
+        <span class='site-header__description site-header__description--second'>
+          Romance and hilarities ensue.
+        </span>
+      </h2>
+    </header>
 
 <div class='archive'>
     <h1 class='archive__title'>All episodes</h1>
