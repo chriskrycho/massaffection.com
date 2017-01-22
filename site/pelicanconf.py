@@ -7,7 +7,10 @@ SITENAME = 'Mass Affection'
 SITE_DESCRIPTION = 'A husband and wife play-through of the Mass Effect games. Laughter, romance, and hijinks ensue. Biweekly episodes discussing plot, character, gameplay—the whole gamut!'
 SITEURL = ''
 
-LOGO = '//cdn.massaffection.com/cover.jpg'
+CDN_DOMAIN = 'cdn.massaffection.com'
+CDN_URL = '//' + CDN_DOMAIN
+
+LOGO_URL = CDN_URL + '/cover.jpg'
 
 PATH = 'content'
 

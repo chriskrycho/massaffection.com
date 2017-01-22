@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+{% if article is defined %}
+  {% include 'helpers/audio.html' %}
+{% endif %}
+
+{{item.content}}
+
+{% endblock %}

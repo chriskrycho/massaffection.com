@@ -52,8 +52,9 @@ $item-border: 3px;
     &:hover {
       color: $word-pink;
       border-bottom-color: $word-pink;
+      background-image: linear-gradient(to top, $space-pink 0%, transparent 60%);
     }
-
+    
     &--current {
       color: $word-pink;
     }

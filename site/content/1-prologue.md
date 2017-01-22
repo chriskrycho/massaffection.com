@@ -11,8 +11,10 @@ Category: Mass Effect
 <!-- TODO: Shepard picture -->
 
 - [Opening music](https://soundcloud.com/chriskrycho/mass-affection-theme)
-
-- [Seth Green]() (Joker)
-- [Raphael Sbarge]() (Kaidan)
-- [Jennifer Hale]() (FemShep)
-- [Keith David]() (Anderson)
+- Voice actors
+    - [Seth Green](https://en.wikipedia.org/wiki/Seth_Green) (Joker)
+    - [Raphael Sbarge](https://en.wikipedia.org/wiki/Raphael_Sbarge) (Kaidan)
+    - [Jennifer Hale](https://en.wikipedia.org/wiki/Jennifer_Hale) (FemShep)
+    - [Keith David](https://en.wikipedia.org/wiki/Keith_David) (Anderson)
+- [_Doctor Who_](http://www.bbc.co.uk/programmes/b006q2x0)
+    - [Companions](https://en.wikipedia.org/wiki/Companion_(Doctor_Who))
