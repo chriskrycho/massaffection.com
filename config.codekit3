@@ -21,39 +21,11 @@
 		"oAP": "\/.python-version",
 		"oF": 0
 		},
-	"\/docs\/.nojekyll": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/docs\/.nojekyll",
+	"\/docs": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/docs\/docs",
 		"oF": 0
-		},
-	"\/docs\/categories.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/docs\/categories.html",
-		"oF": 0
-		},
-	"\/docs\/CNAME": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/docs\/CNAME",
-		"oF": 0
-		},
-	"\/docs\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/docs\/index.html",
-		"oF": 0
-		},
-	"\/docs\/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/docs\/style-min.css",
-		"oF": 0,
-		"oS": 0
 		},
 	"\/ma_theme\/.editorconfig": {
 		"ft": 8192,
@@ -153,7 +125,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/docs\/style.css",
+		"oAP": "\/ma_theme\/static\/style.css",
 		"oF": 2,
 		"oS": 0,
 		"uL": 1
@@ -163,10 +135,16 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/ma_theme\/static\/style-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/ma_theme\/static\/style.css.map": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/ma_theme\/static\/style.css.map",
+		"oF": 0
 		},
 	"\/ma_theme\/templates\/archives.html": {
 		"ft": 8192,
@@ -381,7 +359,8 @@
 	"creationDate": 506803732,
 	"displayValue": "massaffection.com",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-hart"
+	"iconImageName": "meme-hart",
+	"lastBuiltDate": 506809271
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -637,7 +616,7 @@
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"buildFolderActive": 0,
-	"buildFolderName": "build",
+	"buildFolderName": "docs",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
 		"arrow_spacing": {
@@ -2299,8 +2278,8 @@
 	"languageDefaultsUserDefined": [
 		],
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
-	"sourceFolderName": "source",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules, \/docs",
+	"sourceFolderName": "site",
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
 		"ascii-only": {

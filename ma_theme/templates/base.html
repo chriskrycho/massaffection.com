@@ -24,19 +24,12 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 </head>
 <body>
-
-  <div class='stars'>
-    {% for n in range(1000) %}
-      <div class='stars__star'></div>
-    {% endfor %}
-  </div>
-
   <nav class='main-nav'>
     <ul class='main-nav__list'>
       {# TODO: use logo for Home, only show it when header out of sight #}
       <li class='main-nav__item main-nav__item--home main-nav__item--current'>
         <a href='/' class='main-nav__link main-nav__link--current'>
-          <img src='http://cdn.massaffection.com/cover.jpg' class='main-nav__icon main-nav__icon--home'/>
+          <i class='fa fa-fw fa-home main-nav__icon'></i>
           <span class='main-nav__text main-nav__text--home'>Home</span>
         </a>
       </li>
@@ -70,11 +63,11 @@
 
   <div class='content'>
     <header class='site-header'>
-    <!-- TODO: generate srcset images, set them correctly -->
+      {#-- TODO: generate srcset images, set them correctly }
+      {# srcset='http://cdn.massaffection.com/cover-medium.jpg 400w, http://cdn.massaffection.com/cover.jpg' #}
       <h1 class='site-header__site-name'>
         <img
-          src='http://cdn.massaffection.com/cover-small.jpg'
-          srcset='http://cdn.massaffection.com/cover-medium.jpg 400w, http://cdn.massaffection.com/cover.jpg'
+          src='http://cdn.massaffection.com/cover.jpg'
           alt='Mass Affection'
           title='Mass Affection'
           class='site-header__image' />
@@ -102,5 +95,11 @@
       </li>
     </ul>
   </footer>
+  
+  <div class='stars'>
+    {% for n in range(1000) %}
+      <div class='stars__star'></div>
+    {% endfor %}
+  </div>
 </body>
 </html>

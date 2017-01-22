@@ -1,17 +1,16 @@
 $item-border: 3px;
 
 .main-nav {
-  position: fixed; top: 0; left: 0; right: 0;
   width: 100%;
-  color: #FAFAFA;
+  color: $text;
 
   &__list {
     list-style: none;
-    max-height: calc(3em + 3px);
     width: 100%;
     background-color: $background;
     $color: $text;
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
   }
 
@@ -20,15 +19,13 @@ $item-border: 3px;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 1rem;
     line-height: 2;
-    flex: 1 0 auto;
+    flex: 1 0 7em;
     text-align: center;
     text-decoration: none;
-    margin-bottom: -#{$item-border};
   }
   
   &__icon {
     display: inline-block;
-    padding-right: 0.5em;
     vertical-align: middle;
     
     &.fa { vertical-align: middle; }

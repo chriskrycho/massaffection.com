@@ -11,22 +11,27 @@
   {% else %}
     <h1 class='archive__title'>All episodes</h1>
   {% endif %}
+  
+  {% for article in articles_page.object_list %}
+    <article class='podcast'>
+      <audio class='podcast__audio' controls preload='metadata'>
+        {#<source src='{{helpers/audio_url}}'>#}
+      </audio>
+      <h1 class='podcast__title'><a class='podcast__link podcast__link--permalink' href='/{{article.url}}'>
+        {{article.title}}
+      </a></h1>
+      <h2 class='podcast__subtitle'>{{article.description}}</h2>
 
+      <span class='podcast__meta podcast__meta--date'>
+        Published: <a class='podcast__link podcast__link--permalink' href='/{{article.url}}'>{{article.locale_date}}</a>
+      </span>
+      <span class='podcast__meta podcast__meta--category'>
+        Game: <a class='podcast__link podcast__link--game' href='/mass-effect/'>Mass Effect</a>
+      </span>
+    </article>
+  {% endfor %}
 
   <div class='archive__body'>
-    <ul class='article-list'>
-    {% for article in articles_page.object_list %}
-      <li class='article-list__item'><a href="/{{article.url}}"><i class='fa fa-fw fa-play'></i>
-      {# Don't include the category if *on* a category page. #}
-      {% if category %}
-        {{article.title}}
-      {% else %}
-        {% include 'helpers/article_title.html' %}
-      {% endif %}
-
-      </a> ({{article.locale_date}})</li>
-    {% endfor %}
-    </ul>
     {% if articles_page.has_other_pages() %}
       <nav role='navigation' class='page-nav'>
         <nav-item class='page-nav__item'>
