@@ -1,6 +1,7 @@
 # site-specific pieces
 recordings
 resources
+ma_theme/static
 
 
 # Created by https://www.gitignore.io/api/code,jetbrains,python,sass,sublimetext,rust,ruby
