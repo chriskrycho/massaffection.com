@@ -21,10 +21,10 @@
 		"oAP": "\/.python-version",
 		"oF": 0
 		},
-	"\/docs\/.gitkeep": {
+	"\/docs\/.nojekyll": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/docs\/.gitkeep",
+		"oAP": "\/docs\/.nojekyll",
 		"oF": 0
 		},
 	"\/docs\/categories.html": {
@@ -55,12 +55,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/style.css.map": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/docs\/style.css.map",
-		"oF": 0
-		},
 	"\/ma_theme\/.editorconfig": {
 		"ft": 8192,
 		"oA": 2,
@@ -73,7 +67,7 @@
 		"oAP": "\/ma_theme\/.ruby-version",
 		"oF": 0
 		},
-	"\/ma_theme\/sass\/_main-nav.scss": {
+	"\/ma_theme\/sass\/_colors.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -81,12 +75,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/ma_theme\/sass\/_main-nav.css",
+		"oAP": "\/ma_theme\/sass\/_colors.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/ma_theme\/sass\/_podcast.scss": {
+	"\/ma_theme\/sass\/_reset.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -94,12 +88,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/ma_theme\/sass\/_podcast.css",
+		"oAP": "\/ma_theme\/sass\/_reset.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/ma_theme\/sass\/_site-header.scss": {
+	"\/ma_theme\/sass\/components\/_main-nav.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -107,12 +101,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/ma_theme\/sass\/_site-header.css",
+		"oAP": "\/ma_theme\/sass\/components\/_main-nav.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/ma_theme\/sass\/_stars.scss": {
+	"\/ma_theme\/sass\/components\/_podcast.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -120,7 +114,33 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/ma_theme\/sass\/_stars.css",
+		"oAP": "\/ma_theme\/sass\/components\/_podcast.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/ma_theme\/sass\/components\/_site-header.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/ma_theme\/sass\/components\/_site-header.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/ma_theme\/sass\/components\/_stars.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/ma_theme\/sass\/components\/_stars.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -238,6 +258,12 @@
 		"oAP": "\/site\/__pycache__\/pelicanconf.cpython-35.pyc",
 		"oF": 0
 		},
+	"\/site\/__pycache__\/publishconf.cpython-35.pyc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/site\/__pycache__\/publishconf.cpython-35.pyc",
+		"oF": 0
+		},
 	"\/site\/content\/1-prologue.md": {
 		"cS": 0,
 		"eF": 1,
@@ -256,6 +282,18 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/site\/content\/extra\/.nojekyll": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/site\/content\/extra\/.nojekyll",
+		"oF": 0
+		},
+	"\/site\/content\/extra\/CNAME": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/site\/content\/extra\/CNAME",
+		"oF": 0
+		},
 	"\/site\/content\/pages\/about.md": {
 		"cS": 0,
 		"eF": 1,
@@ -273,12 +311,6 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
-		},
-	"\/site\/extra\/CNAME": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/site\/extra\/CNAME",
-		"oF": 0
 		},
 	"\/site\/index.html": {
 		"ft": 8192,
