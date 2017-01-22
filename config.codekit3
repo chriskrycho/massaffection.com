@@ -21,6 +21,40 @@
 		"oAP": "\/.python-version",
 		"oF": 0
 		},
+	"\/docs\/.gitkeep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/.gitkeep",
+		"oF": 0
+		},
+	"\/docs\/categories.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/categories.html",
+		"oF": 0
+		},
+	"\/docs\/CNAME": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/CNAME",
+		"oF": 0
+		},
+	"\/docs\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/index.html",
+		"oF": 0
+		},
+	"\/docs\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/docs\/style-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/ma_theme\/.editorconfig": {
 		"ft": 8192,
 		"oA": 2,
@@ -233,40 +267,6 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
-		},
-	"\/site\/docs\/.gitkeep": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/site\/docs\/.gitkeep",
-		"oF": 0
-		},
-	"\/site\/docs\/categories.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/site\/docs\/categories.html",
-		"oF": 0
-		},
-	"\/site\/docs\/CNAME": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/site\/docs\/CNAME",
-		"oF": 0
-		},
-	"\/site\/docs\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/site\/docs\/index.html",
-		"oF": 0
-		},
-	"\/site\/docs\/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/site\/docs\/style-min.css",
-		"oF": 0,
-		"oS": 0
 		},
 	"\/site\/extra\/CNAME": {
 		"ft": 8192,
