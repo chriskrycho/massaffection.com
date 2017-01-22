@@ -1,14 +1,14 @@
-@function random-star-color() {
-  @return 255 - 10 * random();
+@function random-star-color($range-from-white) {
+  @return 255 - random($range-from-white);
 }
 
 @mixin stars($start, $end, $max-size, $duration) {
   @for $star from $start through $end {
     $size: #{random($max-size)}px;
-    $shadow-size: #{random($max-size * 5)}px;
-    $red: random-star-color();
-    $blue: random-star-color();
-    $green: random-star-color();
+    $shadow-size: #{random($max-size * 2)}px;
+    $red: random-star-color($range-from-white: 50);
+    $blue: random-star-color($range-from-white: 25);
+    $green: random-star-color($range-from-white: 50);
     $color: rgb($red, $blue, $green);
     
     &:nth-child(#{$star}) {
@@ -38,6 +38,8 @@
   bottom: 0;
   left: 0;
   right: 0;
+
+  background: radial-gradient(ellipse at bottom, #2c1a2b 0%, #090A0F 50%, #000 100%);
 
   &__star {
     position: absolute;

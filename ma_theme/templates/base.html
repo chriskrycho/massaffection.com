@@ -42,8 +42,29 @@
     <a href='https://twitter.com/mass_affection' class='main-nav__item main-nav__item--twitter'>Twitter</a>
   </nav>
 
-  {% block content %}{% endblock %}
+  <div class='content'>
+      <header class='site-header'>
+    <!-- TODO: generate srcset images, set them correctly -->
+    <h1 class='site-header__site-name'>
+      <img
+        src='http://cdn.massaffection.com/cover-small.jpg'
+        srcset='http://cdn.massaffection.com/cover-medium.jpg 400w, http://cdn.massaffection.com/cover.jpg'
+        alt='Mass Affection'
+        title='Mass Affection'
+        class='site-header__image' />
+    </h1>
+    <h2 class='site-header__subtitle'>
+      <span class='site-header__description site-header__description--first'>
+        Chris and Jaimie Krycho play <i>Mass Effect</i>.
+      </span>
+      <span class='site-header__description site-header__description--second'>
+        Romance and hilarities ensue.
+      </span>
+    </h2>
+  </header>
 
+  {% block content %}{% endblock %}
+  </div>
   <footer>
     <ul class="plain_list colophon_list">
       <li>

@@ -1,0 +1,13 @@
+.podcast {
+  &__audio {}
+  
+  &__title {
+    text-align: center;
+    font-family: Slider, sans-serif;
+  }
+
+  &__subtitle { text-align: center; }
+  &__meta {}
+  &__meta--date {}
+  &__meta--game {}
+}

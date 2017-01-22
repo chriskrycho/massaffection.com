@@ -6,28 +6,17 @@ html {
   margin: 0;
   height: 100vh;
   width: 100vw;
-  background: radial-gradient(ellipse at bottom, rgb(93, 38, 65) 0%, #090A0F 100%);
+  background: #000;
 }
 
 .content {
-  margin-left: 1em; margin-right: 1em;
+  margin: { left: auto; right: auto; }
+  max-width: 48rem;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   background: hsla(0, 0%, 20%, 0.25);
 }
 
-.podcast {}
-.podcast__audio {}
-
-.podcast__title { 
-  text-align: center;
-  font-family: Slider, sans-serif;
-}
-
-.podcast__subtitle { text-align: center; }
-.podcast__meta {}
-.podcast__meta--date {}
-.podcast__meta--game {}
-
 @import "main-nav";
+@import "podcast";
 @import "site-header";
 @import "stars";
