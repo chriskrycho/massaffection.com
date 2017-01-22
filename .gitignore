@@ -3,6 +3,8 @@ recordings
 resources
 ma_theme/static
 
+# Mac
+.DS_Store  # seriously, go away already
 
 # Created by https://www.gitignore.io/api/code,jetbrains,python,sass,sublimetext,rust,ruby
 
