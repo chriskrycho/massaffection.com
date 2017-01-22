@@ -1,0 +1,143 @@
+<html lang='en'>
+<head>
+  <title>Mass Affection</title>
+  
+  <meta charset='utf-8'>
+  
+  <style>
+  html {
+    margin: 0;
+  }
+  
+  .main-nav { 
+    position: fixed; top: 0; left: 0; right: 0;
+    width: 100%;
+    background-color: #000;
+    color: #FAFAFA;
+    display: flex;
+    justify-content: space-between;
+  }
+   
+  .main-nav__item {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 1rem;
+    line-height: 2;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    flex: 1 0 auto;
+    text-align: center;
+    text-decoration: none;
+    color: #FAFAFA;
+    transition: 500ms all ease-in-out;
+  }
+  
+  .main-nav__item:hover {
+    color: hotpink;
+  }
+  
+  .main-nav__item--current {
+    color: hotpink;
+  }
+  
+  .main-nav__item--home {}
+  .main-nav__item--about {}
+  .main-nav__item--archive {}
+  .main-nav__item--support {}
+  .main-nav__item--feed {}
+  .main-nav__item--twitter {}
+  
+  .site-header {}
+  .site-header__site-name {}
+  .site-header__image { max-width: 40vw; }
+  .site-header__subtitle {}
+
+  .site-header__description {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+
+  .site-header__description--first {}
+  .site-header__description--second {}
+  
+  .content {
+    margin-left: 1em; margin-right: 1em;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+  
+  .podcast {}
+  .podcast__audio {}
+
+  .podcast__title { 
+    text-align: center;
+    font-family: Slider, sans-serif;
+  }
+  
+  .podcast__subtitle { text-align: center; }
+  .podcast__meta {}
+  .podcast__meta--date {}
+  .podcast__meta--game {}
+  </style>
+</head>
+<body>
+  <nav class='main-nav'>
+    <!-- TODO: use logo for Home, only show it when header out of sight -->
+    <a href='/' class='main-nav__item main-nav__item--home main-nav__item--current'>Home</a>
+    <a href='/about/' class='main-nav__item main-nav__item--about'>About</a>
+    <a href='/archive/' class='main-nav__item main-nav__item--archive'>Archive</a>
+    <a href='/support/' class='main-nav__item main-nav__item--support'>Support</a>
+    <a href='/feed.xml' class='main-nav__item main-nav__item--feed'>Feed</a>
+    <a href='https://twitter.com/mass_affection' class='main-nav__item main-nav__item--twitter'>Twitter</a>
+  </nav>
+  
+  <header class='site-header'>
+    <!-- TODO: generate srcset images, set them correctly -->
+    <h1 class='site-header__site-name'>
+      <img
+        src='http://cdn.massaffection.com/cover-small.jpg'
+        srcset='http://cdn.massaffection.com/cover-medium.jpg 400w, http://cdn.massaffection.com/cover.jpg'
+        alt='Mass Affection'
+        title='Mass Affection'
+        class='site-header__image' />
+    </h1>
+    <h2 class='site-header__subtitle'>
+      <span class='site-header__description site-header__description--first'>
+        Chris and Jaimie Krycho play <i>Mass Effect</i>.
+      </span>
+      <span class='site-header__description site-header__description--second'>
+        Romance and hilarities ensue.
+      </span>
+    </h2>
+  </header>
+
+  <div class='content'>
+    <article class='podcast'>
+      <audio class='podcast__audio'>
+      </audio>
+      <h1 class='podcast__title'>3: The Citadel, Part 2</h1>
+      <h2 class='podcast__subtitle'>Saren is a jerk. Tali is weird.</h2>
+      <span class='podcast__meta podcast__meta--date'>February 16, 2017</span>
+      <a class='podcast__meta podcast__meta--game' href='/me/'>Mass Effect</a>
+    </article>
+
+    <article class='podcast'>
+      <audio class='podcast__audio'>
+      </audio>
+      <h1 class='podcast__title'>2: The Citadel, Part 1</h1>
+      <h2 class='podcast__subtitle'>Our hero argues with the bureaucracy.</h2>
+      <span class='podcast__meta podcast__meta--date'>February 2, 2017</span>
+      <a class='podcast__meta podcast__meta--game' href='/me/'>Mass Effect</a>
+    </article>
+
+    <article class='podcast'>
+      <audio class='podcast__audio'>
+      </audio>
+      <h1 class='podcast__title'>1: Prologue</h1>
+      <h2 class='podcast__subtitle'>Danäe Shepard hears a lot of exposition.</h2>
+      <span class='podcast__meta podcast__meta--date'>January 19, 2017</span>
+      <a class='podcast__meta podcast__meta--game' href='/me/'>Mass Effect</a>
+    </article>
+  </div>
+  
+  <footer class='site-meta'>
+  </footer>
+</body>
+</html>
