@@ -1,0 +1,12 @@
+.site-header {
+  &__site-name {}
+  &__image { max-width: 40vw; }
+  &__subtitle {}
+
+  &__description {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+    &--first {}
+    &--second {}
+  }
+}

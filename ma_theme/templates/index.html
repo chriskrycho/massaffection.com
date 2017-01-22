@@ -17,10 +17,9 @@
     <ul class='article-list'>
     {% for article in articles_page.object_list %}
       <li class='article-list__item'><a href="/{{article.url}}"><i class='fa fa-fw fa-play'></i>
+      {# Don't include the category if *on* a category page. #}
       {% if category %}
-        {# Don't include the category if *on* a category page. #}
-        {% set article_title = article.number ~ ": " ~ article.title %}
-        {{article_title}}
+        {{article.title}}
       {% else %}
         {% include 'helpers/article_title.html' %}
       {% endif %}

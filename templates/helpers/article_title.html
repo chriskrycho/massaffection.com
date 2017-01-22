@@ -1,8 +1,0 @@
-{# Set a prefix for all non-'runs' categories #}
-{% if article.category.name != 'runs' %}
-  {% set prefix = "[" ~ article.category.name | upper ~ "]" %}
-{% else %}
-  {% set prefix = '' %}
-{% endif %}
-{% set article_title = prefix ~ article.number ~ ": " ~ article.title %}
-{{article_title}}

@@ -1,0 +1,36 @@
+.main-nav { 
+  position: fixed; top: 0; left: 0; right: 0;
+  width: 100%;
+  background-color: #000;
+  color: #FAFAFA;
+  display: flex;
+  justify-content: space-between;
+
+  &__item {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 1rem;
+    line-height: 2;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    flex: 1 0 auto;
+    text-align: center;
+    text-decoration: none;
+    color: #FAFAFA;
+    transition: 500ms all ease-in-out;
+
+    &:hover {
+      color: hotpink;
+    }
+
+    &--current {
+      color: hotpink;
+    }
+
+    &--home {}
+    &--about {}
+    &--archive {}
+    &--support {}
+    &--feed {}
+    &--twitter {}
+  }
+}

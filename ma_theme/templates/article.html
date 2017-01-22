@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% set mp3 = article.title ~ '.mp3' %}
+
+{% block title %}
+{%include 'helpers/article_title.html' %} – {{SITENAME}}
+{% endblock %}
+
+{% block meta %}
+<meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
+<meta property="og:title" content="{{ article.title|striptags }}" />
+{% if article.description %}
+<meta property="og:description" content="{{ article.description|striptags }}" />    
+{% endif %}
+<meta property="og:type" content="article" />
+<meta property="og:image" content="{{LOGO}}" />
+<meta property="og:audio" content="{{ SITEURL }}/{{m4a}}"/>
+<meta property="og:audio:type" content="audio/aac" />
+{% endblock %}
+
+{% block content %}
+<article class="podcast">
+  <h1 class="podcast__title">{%include 'helpers/article_title.html' %}</h1>
+
+  <section class="podcast__body">
+    {{article.content}}
+
+    <audio class='run-audio' title="{{article.title}}" controls="controls" preload="metadata">
+      <source src="http://www.podtrac.com/pts/redirect.mp3/cdn.chriskrycho.com/runwith/{{ mp3 }}" />
+    </audio>
+  </section>
+</article>
+{% endblock %}

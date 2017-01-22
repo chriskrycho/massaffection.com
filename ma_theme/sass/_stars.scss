@@ -1,0 +1,56 @@
+@function random-star-color() {
+  @return 255 - 10 * random();
+}
+
+@mixin stars($start, $end, $max-size, $duration) {
+  @for $star from $start through $end {
+    $size: #{random($max-size)}px;
+    $shadow-size: #{random($max-size * 5)}px;
+    $red: random-star-color();
+    $blue: random-star-color();
+    $green: random-star-color();
+    $color: rgb($red, $blue, $green);
+    
+    &:nth-child(#{$star}) {
+      animation-duration: #{$duration - random() * ($duration / 2)}s;
+      animation-delay: -#{$duration * random()}s;
+      height: $size;
+      width: $size;
+      border-radius: $size;
+      background: $color;
+      box-shadow: 0 0 $shadow-size $color;
+      left: random() * 100vw;
+      bottom: 0;
+    }
+  }
+}
+
+@keyframes hyperspace {
+  from { transform: translateY(50px); }
+  to { transform: translateY(-200vh); }
+}
+
+.stars {
+  height: 100vh;
+  width:  100vw;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  &__star {
+    position: absolute;
+    animation: hyperspace 60s linear infinite;
+    
+    @include stars($start: 1, $end: 250, $max-size: 2, $duration: 240);
+    @include stars($start: 251, $end: 500, $max-size: 2, $duration: 480);
+    @include stars($start: 501, $end: 750, $max-size: 2, $duration: 960);
+    @include stars($start: 751, $end: 825, $max-size: 3, $duration: 600);
+    @include stars($start: 826, $end: 900, $max-size: 3, $duration: 1920);
+    @include stars($start: 901, $end: 940, $max-size: 5, $duration: 300);
+    @include stars($start: 941, $end: 980, $max-size: 5, $duration: 900);
+    @include stars($start: 981, $end: 990, $max-size: 7, $duration: 240);
+    @include stars($start: 991, $end: 1000, $max-size: 7, $duration: 540);
+  }
+}

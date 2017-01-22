@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{% block title %}
+    {{SITENAME}}
+  {% endblock %}</title>
+
+  {% block meta %}
+  <meta property="og:url" content="{{ SITEURL }}" />
+  <meta property="og:title" content="{{ SITENAME }}" />
+  <meta property="og:description" content="{{ SITE_DESCRIPTION }}" />
+  <meta property="og:image" content="{{ LOGO }}" />
+  <meta property="og:type" content="website" />
+  {% endblock %}
+
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+  <link href="/favicon.png" type="image/png" rel="icon">
+  <link href="/favicon.ico" type="image/ico" rel="icon">
+
+  {# CSS #}
+  <link rel="stylesheet" type="text/css" href="/style.css" charset="utf-8">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+  <script src='/mtiFontTrackingCode.js'></script>
+</head>
+<body>
+
+  <div class='stars'>
+    {% for n in range(1000) %}
+      <div class='stars__star'></div>
+    {% endfor %}
+  </div>
+
+  <nav class='main-nav'>
+    <!-- TODO: use logo for Home, only show it when header out of sight -->
+    <a href='/' class='main-nav__item main-nav__item--home main-nav__item--current'>Home</a>
+    <a href='/about/' class='main-nav__item main-nav__item--about'>About</a>
+    <a href='/archive/' class='main-nav__item main-nav__item--archive'>Archive</a>
+    <a href='/support/' class='main-nav__item main-nav__item--support'>Support</a>
+    <a href='/feed.xml' class='main-nav__item main-nav__item--feed'>Feed</a>
+    <a href='https://twitter.com/mass_affection' class='main-nav__item main-nav__item--twitter'>Twitter</a>
+  </nav>
+
+  {% block content %}{% endblock %}
+
+  <footer>
+    <ul class="plain_list colophon_list">
+      <li>
+        Landing page design by <a href="//www.chriskrycho.com">Chris Krycho</a>.
+      </li>
+      <li>
+        All content licensed under a Creative Commons Attribution license: do
+        whatever you like with this; just credit me!
+      </li>
+    </ul>
+  </footer>
+</body>
+</html>
