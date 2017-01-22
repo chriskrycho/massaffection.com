@@ -1,15 +1,14 @@
 Title: "1 - Prologue"
 Description: An introduction to the podcast, and the mission on Eden Prime!
-Date: 2017-01-21 07:00
+Date: 2017-01-22 19:00
 Author: Chris and Jaimie Krycho
 Category: Mass Effect
 
 ## Show Notes
 
+![Our Shepard](http://cdn.massaffection.com/shepard.jpg "Shepard screenshot")
+
 - Media OS: our name (probably picked up from *somewhere*, but we don't know where) for the operating systems you see on television and in movies---which are *nothing* like real operating systems.
-
-<!-- TODO: Shepard picture -->
-
 - [Opening music](https://soundcloud.com/chriskrycho/mass-affection-theme)
 - Voice actors
     - [Seth Green](https://en.wikipedia.org/wiki/Seth_Green) (Joker)
@@ -18,3 +17,9 @@ Category: Mass Effect
     - [Keith David](https://en.wikipedia.org/wiki/Keith_David) (Anderson)
 - [_Doctor Who_](http://www.bbc.co.uk/programmes/b006q2x0)
     - [Companions](https://en.wikipedia.org/wiki/Companion_(Doctor_Who))
+
+## Interact!
+
+- [Patreon](https://www.patreon.com/massaffection)
+- [@mass_affection](https://twitter.com/mass_affection)
+- [hello@massaffection.com](mailto:hello@massaffection.com)

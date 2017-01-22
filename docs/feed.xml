@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Mass Affection</title>
+        <link>http://www.massaffection.com</link>
+        <description>A husband and wife play-through of the Mass Effect games. Laughter, romance, and hijinks ensue.</description>
+        <generator>Feeder 3 3.4(2912); Mac OS X Version 10.12.2 (Build 16C67) http://reinventedsoftware.com/feeder/</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>en</language>
+        <copyright>2017 Chris and Jaimie Krycho</copyright>
+        <managingEditor>chris@chriskrycho.com (Chris Krycho)</managingEditor>
+        <webMaster>chris@chriskrycho.com (Chris Krycho)</webMaster>
+        <pubDate>Sun, 22 Jan 2017 18:44:05 -0500</pubDate>
+        <lastBuildDate>Sun, 22 Jan 2017 18:44:06 -0500</lastBuildDate>
+        <image>
+            <url>http://www.massaffection.com/cover-144px.jpg</url>
+            <title>Mass Affection</title>
+            <link>http://www.massaffection.com</link>
+            <width>144</width>
+            <height>144</height>
+        </image>
+        <atom:link href="http://www.massaffection.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <itunes:author>Chris and Jaimie Krycho</itunes:author>
+        <itunes:summary><![CDATA[A husband and wife play-through of the Mass Effect games. Laughter, romance, and hijinks ensue. Biweekly episodes discussing plot, character, gameplay—the whole gamut!]]></itunes:summary>
+        <itunes:keywords>games,mass effect,video games,couple,romance,playthrough</itunes:keywords>
+        <itunes:image href="http://www.massaffection.com/cover.jpg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:owner>
+            <itunes:name>Chris and Jaimie Krycho</itunes:name>
+            <itunes:email>hello@massaffection.com</itunes:email>
+        </itunes:owner>
+        <itunes:block>no</itunes:block>
+        <itunes:category text="Games &amp; Hobbies">
+            <itunes:category text="Video Games"/>
+        </itunes:category>
+        <item>
+            <title>Welcome Aboard, Commander!</title>
+            <link>http://www.massaffection.com/</link>
+            <description><![CDATA[<p>An introduction to the podcast, and the mission on Eden Prime!</p>
+<h2>Show Notes</h2>
+<p><img src="http://cdn.massaffection.com/shepard.jpg" alt="Our Shepard" title="Shepard screenshot" /></p>
+<ul>
+<li>Media OS: our name (probably picked up from <em>somewhere</em>, but we don't know where) for the operating systems you see on television and in movies---which are <em>nothing</em> like real operating systems.</li>
+<li><a href="https://soundcloud.com/chriskrycho/mass-affection-theme">Opening music</a></li>
+<li>Voice actors
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Seth_Green">Seth Green</a> (Joker)</li>
+<li><a href="https://en.wikipedia.org/wiki/Raphael_Sbarge">Raphael Sbarge</a> (Kaidan)</li>
+<li><a href="https://en.wikipedia.org/wiki/Jennifer_Hale">Jennifer Hale</a> (FemShep)</li>
+<li><a href="https://en.wikipedia.org/wiki/Keith_David">Keith David</a> (Anderson)</li>
+</ul>
+</li>
+<li><a href="http://www.bbc.co.uk/programmes/b006q2x0"><em>Doctor Who</em></a>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Companion_(Doctor_Who)">Companions</a></li>
+</ul>
+</li>
+</ul>
+<h2>Interact!</h2>
+<ul>
+<li><a href="https://www.patreon.com/massaffection">Patreon</a></li>
+<li><a href="https://twitter.com/mass_affection">@mass_affection</a></li>
+<li><a href="mailto:hello@massaffection.com">hello@massaffection.com</a></li>
+</ul>
+]]></description>
+            <pubDate>Sun, 22 Jan 2017 19:00:00 -0500</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/cdn.massaffection.com/1-prologue.mp3" length="24796654" type="audio/mpeg"/>
+            <guid isPermaLink="false">260FCE49-23E4-408A-81EA-0060B462FF40</guid>
+            <itunes:subtitle>An introduction to the podcast, and the mission on Eden Prime!</itunes:subtitle>
+            <itunes:summary><![CDATA[An introduction to the podcast, and the mission on Eden Prime!
+
+
+Show Notes
+
+* Media OS: our name (probably picked up from somewhere, but we don't know where) for the operating systems you see on television and in movies—which are nothing like real operating systems.
+
+* Opening music
+
+* Voice actors
+
+* Seth Green (Joker)
+
+* Raphael Sbarge (Kaidan)
+
+* Jennifer Hale (FemShep)
+
+* Keith David (Anderson)
+
+* Doctor Who
+
+* Companions
+
+
+Interact!
+
+* Patreon.com/massaffection
+
+* @mass_affection
+
+* hello@massaffection.com]]></itunes:summary>
+            <itunes:duration>28:13</itunes:duration>
+        </item>
+    </channel>
+</rss>
