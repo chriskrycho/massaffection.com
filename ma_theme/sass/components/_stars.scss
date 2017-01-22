@@ -31,9 +31,11 @@
 }
 
 .stars {
-  height: 100vh;
-  width:  100vw;
+  height: 100%;
+  width:  100%;
+  overflow: hidden;
   position: absolute;
+  z-index: -1;
   top: 0;
   bottom: 0;
   left: 0;
@@ -45,14 +47,14 @@
     position: absolute;
     animation: hyperspace 60s linear infinite;
     
-    @include stars($start: 1, $end: 250, $max-size: 2, $duration: 240);
-    @include stars($start: 251, $end: 500, $max-size: 2, $duration: 480);
-    @include stars($start: 501, $end: 750, $max-size: 2, $duration: 960);
-    @include stars($start: 751, $end: 825, $max-size: 3, $duration: 600);
-    @include stars($start: 826, $end: 900, $max-size: 3, $duration: 1920);
-    @include stars($start: 901, $end: 940, $max-size: 5, $duration: 300);
-    @include stars($start: 941, $end: 980, $max-size: 5, $duration: 900);
-    @include stars($start: 981, $end: 990, $max-size: 7, $duration: 240);
-    @include stars($start: 991, $end: 1000, $max-size: 7, $duration: 540);
+    @include stars($start: 1, $end: 250, $max-size: 2, $duration: 480);
+    @include stars($start: 251, $end: 500, $max-size: 2, $duration: 960);
+    @include stars($start: 501, $end: 750, $max-size: 2, $duration: 1920);
+    @include stars($start: 751, $end: 825, $max-size: 3, $duration: 1200);
+    @include stars($start: 826, $end: 900, $max-size: 3, $duration: 3840);
+    @include stars($start: 901, $end: 940, $max-size: 5, $duration: 600);
+    @include stars($start: 941, $end: 980, $max-size: 5, $duration: 1800);
+    @include stars($start: 981, $end: 990, $max-size: 7, $duration: 480);
+    @include stars($start: 991, $end: 1000, $max-size: 7, $duration: 1120);
   }
 }

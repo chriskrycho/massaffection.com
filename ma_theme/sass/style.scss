@@ -2,6 +2,9 @@
 * Mass Affection theme.
 */
 
+@import 'reset';
+@import 'colors';
+
 html {
   margin: 0;
   height: 100vh;
@@ -9,14 +12,22 @@ html {
   background: #000;
 }
 
+body {}
+
 .content {
-  margin: { left: auto; right: auto; }
+  margin: {
+    top: 5em;
+    left: auto;
+    right: auto;
+    bottom: 0;
+  }
   max-width: 48rem;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  background: hsla(0, 0%, 20%, 0.25);
+  color: $text;
+  background: $background;
 }
 
-@import "main-nav";
-@import "podcast";
-@import "site-header";
-@import "stars";
+@import 'components/main-nav';
+@import 'components/podcast';
+@import 'components/site-header';
+@import 'components/stars';
