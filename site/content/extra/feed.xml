@@ -10,8 +10,8 @@
         <copyright>2017 Chris and Jaimie Krycho</copyright>
         <managingEditor>chris@chriskrycho.com (Chris Krycho)</managingEditor>
         <webMaster>chris@chriskrycho.com (Chris Krycho)</webMaster>
-        <pubDate>Sun, 22 Jan 2017 18:44:05 -0500</pubDate>
-        <lastBuildDate>Sun, 22 Jan 2017 18:44:06 -0500</lastBuildDate>
+        <pubDate>Sun, 22 Jan 2017 19:00:01 -0500</pubDate>
+        <lastBuildDate>Sun, 22 Jan 2017 19:00:01 -0500</lastBuildDate>
         <image>
             <url>http://www.massaffection.com/cover-144px.jpg</url>
             <title>Mass Affection</title>
@@ -34,7 +34,7 @@
             <itunes:category text="Video Games"/>
         </itunes:category>
         <item>
-            <title>Welcome Aboard, Commander!</title>
+            <title>1: Prologue</title>
             <link>http://www.massaffection.com/</link>
             <description><![CDATA[<p>An introduction to the podcast, and the mission on Eden Prime!</p>
 <h2>Show Notes</h2>
@@ -64,7 +64,7 @@
 </ul>
 ]]></description>
             <pubDate>Sun, 22 Jan 2017 19:00:00 -0500</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/cdn.massaffection.com/1-prologue.mp3" length="24796654" type="audio/mpeg"/>
+            <enclosure url="http://cdn.massaffection.com/1-prologue.mp3" length="24796654" type="audio/mpeg"/>
             <guid isPermaLink="false">260FCE49-23E4-408A-81EA-0060B462FF40</guid>
             <itunes:subtitle>An introduction to the podcast, and the mission on Eden Prime!</itunes:subtitle>
             <itunes:summary><![CDATA[An introduction to the podcast, and the mission on Eden Prime!
