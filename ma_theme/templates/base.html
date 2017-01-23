@@ -35,7 +35,6 @@
 <body>
   <nav class='main-nav'>
     <ul class='main-nav__list'>
-      {# TODO: use logo for Home, only show it when header out of sight #}
       <li class='main-nav__item main-nav__item--home {% if isHome %}main-nav__item--current{% endif %}'>
         <a href='/' class='main-nav__link {% if isHome %}main-nav__link--current{% endif %}'>
           <i class='fa fa-fw fa-home main-nav__icon'></i>
@@ -73,10 +72,16 @@
   <div class='content'>
     <header class='site-header'>
       {#-- TODO: generate srcset images, set them correctly }
-      {# srcset='http://cdn.massaffection.com/cover-medium.jpg 400w, http://cdn.massaffection.com/cover.jpg' #}
+      {# srcset='{{CDN_URL}}/cover-medium.jpg 400w, http://cdn.massaffection.com/cover.jpg' #}
       <h1 class='site-header__site-name'>
         <img
           src='{{LOGO_URL}}'
+          srcset='
+            {{CDN_URL}}/cover-100-2x.jpg 200w, 
+            {{CDN_URL}}/cover-200-2x.jpg 400w,
+            {{CDN_URL}}/cover-400-2x.jpg 800w,
+            {{CDN_URL}}/cover-800-2x.jpg 1600w,
+            http://cdn.massaffection.com/cover.jpg'
           alt='Mass Affection'
           title='Mass Affection'
           class='site-header__image' />

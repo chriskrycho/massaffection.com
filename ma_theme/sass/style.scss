@@ -21,10 +21,33 @@ body {}
     right: auto;
     bottom: 0;
   }
+  line-height: 1.4;
   max-width: 48rem;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: $text;
   background: $background;
+  
+  a {
+    display: inline-block;
+    text-decoration: none;
+    color: $word-pink;
+    border-bottom: 1px solid $text;
+    margin-bottom: 1px;
+    
+    &:hover,
+    &:active {
+      border-bottom: {
+        width: 2px;
+        color: $word-pink;
+      }
+      margin-bottom: 0;
+      background-image: linear-gradient(to top, $space-pink 0%, transparent 60%);
+    }
+  }
+}
+
+img {
+  max-width: 100%;
 }
 
 @import 'components/main-nav';
