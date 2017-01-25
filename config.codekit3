@@ -39,6 +39,72 @@
 		"oAP": "\/ma_theme\/.ruby-version",
 		"oF": 0
 		},
+	"\/ma_theme\/.sass-cache\/7d90c2898c73bb527a0c1a487e7669413cdcd9e5\/_main-nav.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/ma_theme\/.sass-cache\/7d90c2898c73bb527a0c1a487e7669413cdcd9e5\/_main-nav.scssc",
+		"oF": 0
+		},
+	"\/ma_theme\/.sass-cache\/7d90c2898c73bb527a0c1a487e7669413cdcd9e5\/_podcast.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/ma_theme\/.sass-cache\/7d90c2898c73bb527a0c1a487e7669413cdcd9e5\/_podcast.scssc",
+		"oF": 0
+		},
+	"\/ma_theme\/.sass-cache\/7d90c2898c73bb527a0c1a487e7669413cdcd9e5\/_site-header.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/ma_theme\/.sass-cache\/7d90c2898c73bb527a0c1a487e7669413cdcd9e5\/_site-header.scssc",
+		"oF": 0
+		},
+	"\/ma_theme\/.sass-cache\/7d90c2898c73bb527a0c1a487e7669413cdcd9e5\/_stars.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/ma_theme\/.sass-cache\/7d90c2898c73bb527a0c1a487e7669413cdcd9e5\/_stars.scssc",
+		"oF": 0
+		},
+	"\/ma_theme\/.sass-cache\/edd3e2155c880ea6b134264b305c6ce2d403cc6b\/_colors.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/ma_theme\/.sass-cache\/edd3e2155c880ea6b134264b305c6ce2d403cc6b\/_colors.scssc",
+		"oF": 0
+		},
+	"\/ma_theme\/.sass-cache\/edd3e2155c880ea6b134264b305c6ce2d403cc6b\/_main-nav.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/ma_theme\/.sass-cache\/edd3e2155c880ea6b134264b305c6ce2d403cc6b\/_main-nav.scssc",
+		"oF": 0
+		},
+	"\/ma_theme\/.sass-cache\/edd3e2155c880ea6b134264b305c6ce2d403cc6b\/_podcast.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/ma_theme\/.sass-cache\/edd3e2155c880ea6b134264b305c6ce2d403cc6b\/_podcast.scssc",
+		"oF": 0
+		},
+	"\/ma_theme\/.sass-cache\/edd3e2155c880ea6b134264b305c6ce2d403cc6b\/_reset.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/ma_theme\/.sass-cache\/edd3e2155c880ea6b134264b305c6ce2d403cc6b\/_reset.scssc",
+		"oF": 0
+		},
+	"\/ma_theme\/.sass-cache\/edd3e2155c880ea6b134264b305c6ce2d403cc6b\/_site-header.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/ma_theme\/.sass-cache\/edd3e2155c880ea6b134264b305c6ce2d403cc6b\/_site-header.scssc",
+		"oF": 0
+		},
+	"\/ma_theme\/.sass-cache\/edd3e2155c880ea6b134264b305c6ce2d403cc6b\/_stars.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/ma_theme\/.sass-cache\/edd3e2155c880ea6b134264b305c6ce2d403cc6b\/_stars.scssc",
+		"oF": 0
+		},
+	"\/ma_theme\/.sass-cache\/edd3e2155c880ea6b134264b305c6ce2d403cc6b\/style.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ma_theme\/.sass-cache\/edd3e2155c880ea6b134264b305c6ce2d403cc6b\/style.scssc",
+		"oF": 0
+		},
 	"\/ma_theme\/sass\/_colors.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -65,6 +131,32 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/ma_theme\/sass\/_typography.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/ma_theme\/sass\/_typography.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/ma_theme\/sass\/components\/_colophon.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/ma_theme\/sass\/components\/_colophon.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/ma_theme\/sass\/components\/_main-nav.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -74,6 +166,32 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/ma_theme\/sass\/components\/_main-nav.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/ma_theme\/sass\/components\/_page.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/ma_theme\/sass\/components\/_page.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/ma_theme\/sass\/components\/_podcast-list.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/ma_theme\/sass\/components\/_podcast-list.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -113,6 +231,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/ma_theme\/sass\/components\/_stars.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/ma_theme\/sass\/helpers\/_content.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/ma_theme\/sass\/helpers\/_content.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -188,11 +319,47 @@
 		"oAP": "\/ma_theme\/templates\/category.html",
 		"oF": 1
 		},
+	"\/ma_theme\/templates\/components\/colophon.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ma_theme\/templates\/components\/colophon.html",
+		"oF": 0
+		},
+	"\/ma_theme\/templates\/components\/main-nav.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ma_theme\/templates\/components\/main-nav.html",
+		"oF": 0
+		},
+	"\/ma_theme\/templates\/components\/podcast_header.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ma_theme\/templates\/components\/podcast_header.html",
+		"oF": 0
+		},
+	"\/ma_theme\/templates\/components\/site-header.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ma_theme\/templates\/components\/site-header.html",
+		"oF": 0
+		},
+	"\/ma_theme\/templates\/components\/stars.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ma_theme\/templates\/components\/stars.html",
+		"oF": 0
+		},
 	"\/ma_theme\/templates\/helpers\/article_title.html": {
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/ma_theme\/templates\/helpers\/article_title.html",
 		"oF": 1
+		},
+	"\/ma_theme\/templates\/helpers\/audio.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ma_theme\/templates\/helpers\/audio.html",
+		"oF": 0
 		},
 	"\/ma_theme\/templates\/index.html": {
 		"ft": 8192,
@@ -223,6 +390,1790 @@
 		"oA": 1,
 		"oAP": "\/ma_theme\/templates\/tags.html",
 		"oF": 1
+		},
+	"\/recordings\/1-prologue\/1-prologue.aif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.aif",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Autosave\/.dummy": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Autosave\/.dummy",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/DisplayState.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/DisplayState.plist",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/DisplayStateArchive": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/DisplayStateArchive",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/MetaData.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/MetaData.plist",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/00\/MetaData.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/00\/MetaData.plist",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/00\/ProjectData": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/00\/ProjectData",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/01\/MetaData.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/01\/MetaData.plist",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/01\/ProjectData": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/01\/ProjectData",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/02\/MetaData.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/02\/MetaData.plist",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/02\/ProjectData": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/02\/ProjectData",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/03\/MetaData.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/03\/MetaData.plist",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/03\/ProjectData": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/03\/ProjectData",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/04\/MetaData.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/04\/MetaData.plist",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/04\/ProjectData": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/04\/ProjectData",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/05\/MetaData.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/05\/MetaData.plist",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/05\/ProjectData": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/05\/ProjectData",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/06\/MetaData.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/06\/MetaData.plist",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/06\/ProjectData": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/06\/ProjectData",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/07\/MetaData.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/07\/MetaData.plist",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/07\/ProjectData": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/07\/ProjectData",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/08\/MetaData.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/08\/MetaData.plist",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/08\/ProjectData": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/08\/ProjectData",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/09\/MetaData.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/09\/MetaData.plist",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/09\/ProjectData": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Project File Backups\/09\/ProjectData",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/ProjectData": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/ProjectData",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/008B9233-BAB5-4D3B-98EC-3B78A1FA7D7A.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/008B9233-BAB5-4D3B-98EC-3B78A1FA7D7A.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/0132BB4C-5B8C-41E6-AB7B-CCA39FF4FFF3.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/0132BB4C-5B8C-41E6-AB7B-CCA39FF4FFF3.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/0764937C-D876-40F4-9B70-BC2DE52B511B.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/0764937C-D876-40F4-9B70-BC2DE52B511B.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/0970841F-F110-4725-AA77-9FCD2295518D.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/0970841F-F110-4725-AA77-9FCD2295518D.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/11EC5B64-1FDD-4A9F-802A-96C0BFF572F8.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/11EC5B64-1FDD-4A9F-802A-96C0BFF572F8.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/123E9A79-8B4A-468E-A07A-7A98FF68374A.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/123E9A79-8B4A-468E-A07A-7A98FF68374A.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/1A3A84A8-7495-478D-B972-9489F208D8AF.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/1A3A84A8-7495-478D-B972-9489F208D8AF.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/1A8F6522-BF9B-4DCB-A24A-B5E79B1B64D5.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/1A8F6522-BF9B-4DCB-A24A-B5E79B1B64D5.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/1DBD5052-6A55-423A-85E1-A017FCD034AA.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/1DBD5052-6A55-423A-85E1-A017FCD034AA.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/1E82C1F1-B5AD-435A-AA5E-D21908FC630E.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/1E82C1F1-B5AD-435A-AA5E-D21908FC630E.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/215E51E3-F9A7-46F8-BA36-90C65F8C468A.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/215E51E3-F9A7-46F8-BA36-90C65F8C468A.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/23E4536D-2F64-4C50-B80A-49BA323321B6.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/23E4536D-2F64-4C50-B80A-49BA323321B6.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/25701C0C-97E9-49D0-8987-F1BEDD713A4A.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/25701C0C-97E9-49D0-8987-F1BEDD713A4A.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/26309303-FA30-488F-A47A-A99AE46D78A5.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/26309303-FA30-488F-A47A-A99AE46D78A5.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/266109CC-595F-40D7-B015-ED3BA795D080.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/266109CC-595F-40D7-B015-ED3BA795D080.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/28E547C8-9FB3-4760-8735-D47611072612.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/28E547C8-9FB3-4760-8735-D47611072612.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/29BF22DC-E990-49A6-AF84-08313386A8C6.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/29BF22DC-E990-49A6-AF84-08313386A8C6.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/2C7D43AC-1BBF-46D7-B743-BD6501743108.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/2C7D43AC-1BBF-46D7-B743-BD6501743108.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/2C8F0248-42B8-4795-B2D0-6A59A0464B5C.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/2C8F0248-42B8-4795-B2D0-6A59A0464B5C.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/2E7AFBE7-2707-418B-88F0-ACDF7D59F5CD.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/2E7AFBE7-2707-418B-88F0-ACDF7D59F5CD.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/2FEEF413-79A5-4C84-867E-4CEE23DAEDB0.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/2FEEF413-79A5-4C84-867E-4CEE23DAEDB0.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/31341F0E-B57E-426E-9AC0-DB6A2F3A1E5D.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/31341F0E-B57E-426E-9AC0-DB6A2F3A1E5D.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/31A82536-2C32-4E8A-885C-10A45A983414.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/31A82536-2C32-4E8A-885C-10A45A983414.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/3265C103-119E-4EF2-8964-EE53A9832855.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/3265C103-119E-4EF2-8964-EE53A9832855.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/33F9EEA4-D69D-41E8-B085-C09746F207A0.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/33F9EEA4-D69D-41E8-B085-C09746F207A0.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/3B6C0C91-8112-48AC-9DD8-00EEB9E0580C.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/3B6C0C91-8112-48AC-9DD8-00EEB9E0580C.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/41DD3E33-6B83-4597-B0C6-538251978722.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/41DD3E33-6B83-4597-B0C6-538251978722.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/431F82EC-AA71-475C-BA13-EEDFFA2AF42C.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/431F82EC-AA71-475C-BA13-EEDFFA2AF42C.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/44E69FA7-52D0-4027-9109-D4F5ACA0F5AF.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/44E69FA7-52D0-4027-9109-D4F5ACA0F5AF.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/47571E43-3EC1-4C14-A90D-2F8EA4834E30.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/47571E43-3EC1-4C14-A90D-2F8EA4834E30.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/48127C26-973A-4FAC-896A-3F976F6AB514.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/48127C26-973A-4FAC-896A-3F976F6AB514.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/4A292212-B818-4522-9C50-069471AB6078.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/4A292212-B818-4522-9C50-069471AB6078.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/4A96EEDD-4076-410E-8247-C9A3EC009031.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/4A96EEDD-4076-410E-8247-C9A3EC009031.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/4C4C397B-3C31-4D8C-A07F-7CB8CBE141BA.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/4C4C397B-3C31-4D8C-A07F-7CB8CBE141BA.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/4D213DFD-DBBB-44BB-9142-7F8CA1DF22BE.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/4D213DFD-DBBB-44BB-9142-7F8CA1DF22BE.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/4D7E905A-C7D2-4DEE-BD73-55A866BAD720.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/4D7E905A-C7D2-4DEE-BD73-55A866BAD720.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/4E4507EB-2C2F-4041-BABE-3F75F6DF421E.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/4E4507EB-2C2F-4041-BABE-3F75F6DF421E.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/538CE95C-4EF1-4E7B-AF98-DD87E4824C94.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/538CE95C-4EF1-4E7B-AF98-DD87E4824C94.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/593B1BB0-3A08-4134-B2E7-A097A845A73A.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/593B1BB0-3A08-4134-B2E7-A097A845A73A.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/5FDAE02E-81DD-4E3C-89A4-0D5B33D6E809.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/5FDAE02E-81DD-4E3C-89A4-0D5B33D6E809.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/6227A39C-AB1F-49C0-9919-D50AEDBC8261.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/6227A39C-AB1F-49C0-9919-D50AEDBC8261.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/63F34375-BBCA-4093-BDF1-B424CFFEEB8D.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/63F34375-BBCA-4093-BDF1-B424CFFEEB8D.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/67ADD789-92DB-4551-A4D9-45DCF20B46A3.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/67ADD789-92DB-4551-A4D9-45DCF20B46A3.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/69357D6E-2C79-4ADB-B30E-6FE7A90C0EB2.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/69357D6E-2C79-4ADB-B30E-6FE7A90C0EB2.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/6C57A8FF-6A7A-4370-982A-D61846EAFD8E.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/6C57A8FF-6A7A-4370-982A-D61846EAFD8E.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/6D921F0E-8515-451C-A936-ACF272BE24D3.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/6D921F0E-8515-451C-A936-ACF272BE24D3.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/7689ABDA-3FA8-49E0-8F55-C0FD2B67FC8F.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/7689ABDA-3FA8-49E0-8F55-C0FD2B67FC8F.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/78A53921-5BC9-4B4A-A4BB-948166EB173A.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/78A53921-5BC9-4B4A-A4BB-948166EB173A.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/78D4052C-646E-4781-96BB-0599A946E00A.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/78D4052C-646E-4781-96BB-0599A946E00A.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/78D6C7AD-C888-4E72-A8C5-26B010CFED71.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/78D6C7AD-C888-4E72-A8C5-26B010CFED71.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/79279139-9EB7-48A7-8B92-2E6CFABB133D.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/79279139-9EB7-48A7-8B92-2E6CFABB133D.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/808FE6C7-E877-4855-AD44-92BD6B551F19.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/808FE6C7-E877-4855-AD44-92BD6B551F19.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/84AA9E9D-28E1-4D83-A7E5-DC6A8EA1ACE2.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/84AA9E9D-28E1-4D83-A7E5-DC6A8EA1ACE2.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/8500C4D3-160D-4906-8247-E47BF97DB0B7.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/8500C4D3-160D-4906-8247-E47BF97DB0B7.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/87EECEAF-24CA-40C7-BA34-E32E340F944D.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/87EECEAF-24CA-40C7-BA34-E32E340F944D.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/88985BD5-A2EC-4FDA-8D2D-4E14E245FF46.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/88985BD5-A2EC-4FDA-8D2D-4E14E245FF46.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/8A56B5E8-2B31-4374-8CEF-D3A84E130F6C.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/8A56B5E8-2B31-4374-8CEF-D3A84E130F6C.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/8CAE45A7-4947-44E1-BE39-E9CB12D97EBC.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/8CAE45A7-4947-44E1-BE39-E9CB12D97EBC.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/8E87EBC5-74BC-4F7F-BE85-48B9BE18CE9C.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/8E87EBC5-74BC-4F7F-BE85-48B9BE18CE9C.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/91004372-EB66-40A0-8637-B1FC3DF0C936.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/91004372-EB66-40A0-8637-B1FC3DF0C936.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/923E2FFA-6174-433F-9A94-1257F148EA4D.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/923E2FFA-6174-433F-9A94-1257F148EA4D.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/942B519E-9A7A-4236-AD3F-B2F511770106.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/942B519E-9A7A-4236-AD3F-B2F511770106.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/95D6C9CF-16CC-473F-BFC7-16FAEA0A42C6.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/95D6C9CF-16CC-473F-BFC7-16FAEA0A42C6.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/971851F8-8C40-4F35-B02E-A7C0BD1273C1.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/971851F8-8C40-4F35-B02E-A7C0BD1273C1.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/99A9F5E2-0449-4059-9B12-2B3235391B22.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/99A9F5E2-0449-4059-9B12-2B3235391B22.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/9B736419-20A6-47B6-AC24-4E0A956C2712.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/9B736419-20A6-47B6-AC24-4E0A956C2712.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/A28281A7-2CD8-4331-B648-4687AEAEC1BF.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/A28281A7-2CD8-4331-B648-4687AEAEC1BF.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/A33BFF5B-00B9-49E2-B644-DBF7A7A86B5C.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/A33BFF5B-00B9-49E2-B644-DBF7A7A86B5C.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/A5E5C5AC-DC00-41F6-BD49-27A3552820CC.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/A5E5C5AC-DC00-41F6-BD49-27A3552820CC.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/A82720E3-9A2F-41EC-AB6B-A87D6B11C4FA.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/A82720E3-9A2F-41EC-AB6B-A87D6B11C4FA.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/A93CE214-B2AF-46AD-A6AB-0C3D73C43BEA.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/A93CE214-B2AF-46AD-A6AB-0C3D73C43BEA.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/B1F5EF5F-1986-45A1-8F5F-CCD7FE82FD79.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/B1F5EF5F-1986-45A1-8F5F-CCD7FE82FD79.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/B2830564-76FB-4DE0-9609-1688DA462BB8.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/B2830564-76FB-4DE0-9609-1688DA462BB8.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/BBA93E98-249D-4A6B-A6CB-D0E092BC6E58.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/BBA93E98-249D-4A6B-A6CB-D0E092BC6E58.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/BD39485C-C632-4F2E-AFC6-306A07B48BB9.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/BD39485C-C632-4F2E-AFC6-306A07B48BB9.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/C1CEE7A6-975F-4708-A465-DFC8E9E2A603.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/C1CEE7A6-975F-4708-A465-DFC8E9E2A603.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/C66C1F07-D37A-44DD-AEFE-127D8ECE1735.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/C66C1F07-D37A-44DD-AEFE-127D8ECE1735.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/C8C77851-27E3-4B8D-811D-9CCB9BCBEAA6.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/C8C77851-27E3-4B8D-811D-9CCB9BCBEAA6.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/C9E22AF6-28E6-4D0A-BE11-098785AFE714.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/C9E22AF6-28E6-4D0A-BE11-098785AFE714.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/CB154AD2-A55E-4140-86D8-0D62CB531BAE.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/CB154AD2-A55E-4140-86D8-0D62CB531BAE.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/CE4A399F-0599-4C7C-B857-304B57D60C05.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/CE4A399F-0599-4C7C-B857-304B57D60C05.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/CEB5F649-8FBB-4BBB-A339-DB7279D1C4F9.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/CEB5F649-8FBB-4BBB-A339-DB7279D1C4F9.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/D12CAB1C-3E34-42C3-B5DC-0B50FCEB9124.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/D12CAB1C-3E34-42C3-B5DC-0B50FCEB9124.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/D2C020C2-E0C2-443A-80DA-17BF66EC74AD.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/D2C020C2-E0C2-443A-80DA-17BF66EC74AD.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/D3B332EF-578F-40EF-AEEE-A19A52B8D6F2.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/D3B332EF-578F-40EF-AEEE-A19A52B8D6F2.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/D460C6D5-E010-4626-8289-4CB85C0DED3A.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/D460C6D5-E010-4626-8289-4CB85C0DED3A.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/D57E09E4-752E-49AB-9D53-56AE6AD14F07.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/D57E09E4-752E-49AB-9D53-56AE6AD14F07.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/D596059E-6AAD-4F77-979A-7B66E5C5D6F1.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/D596059E-6AAD-4F77-979A-7B66E5C5D6F1.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/D6F04181-FF7F-4DAF-9F14-02AFD7EBC9F0.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/D6F04181-FF7F-4DAF-9F14-02AFD7EBC9F0.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/DA3828F4-D593-4424-9CC9-D8B5D25A4344.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/DA3828F4-D593-4424-9CC9-D8B5D25A4344.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/DBAC87F0-EAF4-4AEF-B91A-C5C80C0D2096.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/DBAC87F0-EAF4-4AEF-B91A-C5C80C0D2096.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/ED5B1877-6845-4B0D-8ADB-85AF7DD0FCBF.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/ED5B1877-6845-4B0D-8ADB-85AF7DD0FCBF.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/EF05C3B2-0AA1-4211-B330-F1F695EC3023.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/EF05C3B2-0AA1-4211-B330-F1F695EC3023.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/F109ED32-56C6-42B5-8FA8-A5F32FA04CF4.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/F109ED32-56C6-42B5-8FA8-A5F32FA04CF4.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/F3D995F0-5BB8-4387-B5B1-540BD7328471.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/F3D995F0-5BB8-4387-B5B1-540BD7328471.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/F549CB63-3621-483C-9C56-820CE4B8B52C.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/F549CB63-3621-483C-9C56-820CE4B8B52C.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/F5573FD8-9427-4CBA-ABB7-2034952A5E74.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/F5573FD8-9427-4CBA-ABB7-2034952A5E74.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/F8125FDB-B455-4778-8217-93F35DE45F00.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/F8125FDB-B455-4778-8217-93F35DE45F00.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/FB6914D9-1697-4B36-84DA-D2797EC8B5D3.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/FB6914D9-1697-4B36-84DA-D2797EC8B5D3.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/FCE0E889-E772-4A0E-A713-CA17EB3AAE19.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/Undo Data.nosync\/FCE0E889-E772-4A0E-A713-CA17EB3AAE19.undo",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/WindowImage.jpg": {
+		"ft": 16384,
+		"iS": 2322742,
+		"oA": 0,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Alternatives\/000\/WindowImage.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/20151027_2042.aif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/20151027_2042.aif",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/20160418_2109.aif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/20160418_2109.aif",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/main#02.aif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/main#02.aif",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/main#03.aif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/main#03.aif",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/mass-affection-final.aif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/mass-affection-final.aif",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/mass-affection-final_1.aif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/mass-affection-final_1.aif",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/mass-affection-final_2.aif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/mass-affection-final_2.aif",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/mass-affection-final_3.aif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/mass-affection-final_3.aif",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/mass-affection.aif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/mass-affection.aif",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/mass-affection_1.aif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/mass-affection_1.aif",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/mass-affection_2.aif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/mass-affection_2.aif",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/mass-affection_3.aif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/mass-affection_3.aif",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/theme#01.aif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/theme#01.aif",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/theme#02.aif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/theme#02.aif",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/theme.aif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/theme.aif",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/theme_1.aif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/theme_1.aif",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/theme_2.aif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/theme_2.aif",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/theme_3.aif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/theme_3.aif",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/theme_4.aif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Media\/Audio Files\/theme_4.aif",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.logicx\/Resources\/ProjectInformation.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.logicx\/Resources\/ProjectInformation.plist",
+		"oF": 0
+		},
+	"\/recordings\/1-prologue\/1-prologue.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recordings\/1-prologue\/1-prologue.mp3",
+		"oF": 0
+		},
+	"\/resources\/art\/1284072.png": {
+		"ft": 32768,
+		"iS": 5830,
+		"oA": 0,
+		"oAP": "\/resources\/art\/1284072.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/resources\/art\/artwork.jpg": {
+		"ft": 16384,
+		"iS": 802801,
+		"oA": 0,
+		"oAP": "\/resources\/art\/artwork.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/resources\/art\/artwork.psd": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/art\/artwork.psd",
+		"oF": 0
+		},
+	"\/resources\/art\/cover-100-2x.jpg": {
+		"ft": 16384,
+		"iS": 6153,
+		"oA": 0,
+		"oAP": "\/resources\/art\/cover-100-2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/resources\/art\/cover-200-2x.jpg": {
+		"ft": 16384,
+		"iS": 16575,
+		"oA": 0,
+		"oAP": "\/resources\/art\/cover-200-2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/resources\/art\/cover-400-2x.jpg": {
+		"ft": 16384,
+		"iS": 44450,
+		"oA": 0,
+		"oAP": "\/resources\/art\/cover-400-2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/resources\/art\/cover-800-2x.jpg": {
+		"ft": 16384,
+		"iS": 117388,
+		"oA": 0,
+		"oAP": "\/resources\/art\/cover-800-2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/resources\/art\/cover-avatar.jpg": {
+		"ft": 16384,
+		"iS": 103408,
+		"oA": 0,
+		"oAP": "\/resources\/art\/cover-avatar.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/resources\/art\/cover.jpg": {
+		"ft": 16384,
+		"iS": 1080006,
+		"oA": 0,
+		"oAP": "\/resources\/art\/cover.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/resources\/art\/cover.pxm": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/art\/cover.pxm",
+		"oF": 0
+		},
+	"\/resources\/art\/icon.png": {
+		"ft": 32768,
+		"iS": 1540,
+		"oA": 0,
+		"oAP": "\/resources\/art\/icon.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/resources\/art\/icon.pxm": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/art\/icon.pxm",
+		"oF": 0
+		},
+	"\/resources\/art\/P_Be_our_guest.png": {
+		"ft": 32768,
+		"iS": 4549,
+		"oA": 0,
+		"oAP": "\/resources\/art\/P_Be_our_guest.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/resources\/art\/P_Become_a_patron.png": {
+		"ft": 32768,
+		"iS": 3130,
+		"oA": 0,
+		"oAP": "\/resources\/art\/P_Become_a_patron.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/resources\/intro.aif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/intro.aif",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.aif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.aif",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Autosave\/.dummy": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Autosave\/.dummy",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/DisplayState.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/DisplayState.plist",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/DisplayStateArchive": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/DisplayStateArchive",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/MetaData.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/MetaData.plist",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/00\/MetaData.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/00\/MetaData.plist",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/00\/ProjectData": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/00\/ProjectData",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/01\/MetaData.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/01\/MetaData.plist",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/01\/ProjectData": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/01\/ProjectData",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/02\/MetaData.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/02\/MetaData.plist",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/02\/ProjectData": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/02\/ProjectData",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/03\/MetaData.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/03\/MetaData.plist",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/03\/ProjectData": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/03\/ProjectData",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/04\/MetaData.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/04\/MetaData.plist",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/04\/ProjectData": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/04\/ProjectData",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/05\/MetaData.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/05\/MetaData.plist",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/05\/ProjectData": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/05\/ProjectData",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/06\/MetaData.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/06\/MetaData.plist",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/06\/ProjectData": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/06\/ProjectData",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/07\/MetaData.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/07\/MetaData.plist",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/07\/ProjectData": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/07\/ProjectData",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/08\/MetaData.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/08\/MetaData.plist",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/08\/ProjectData": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/08\/ProjectData",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/09\/MetaData.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/09\/MetaData.plist",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/09\/ProjectData": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Project File Backups\/09\/ProjectData",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/ProjectData": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/ProjectData",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/000B744B-2226-4DF9-9982-2D19F434172F.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/000B744B-2226-4DF9-9982-2D19F434172F.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/01E6A20A-A118-4D9B-83E3-0FEFD40F096C.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/01E6A20A-A118-4D9B-83E3-0FEFD40F096C.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/01F2F7B9-B321-42AD-A159-A333D6086A13.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/01F2F7B9-B321-42AD-A159-A333D6086A13.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/03CC3B81-64DD-4D3B-B209-E770B2D4C86F.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/03CC3B81-64DD-4D3B-B209-E770B2D4C86F.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/042F983B-3B09-4D66-AF17-74C2EC60365B.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/042F983B-3B09-4D66-AF17-74C2EC60365B.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/051DA510-9FAC-4681-965E-28370BA2050E.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/051DA510-9FAC-4681-965E-28370BA2050E.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/0A3C6F30-067C-4BFE-B28D-0D567DF43132.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/0A3C6F30-067C-4BFE-B28D-0D567DF43132.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/0C3C35BF-1418-4449-9DCF-4D1FD195C783.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/0C3C35BF-1418-4449-9DCF-4D1FD195C783.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/0C5AB525-D901-4963-9198-556482D2FCB9.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/0C5AB525-D901-4963-9198-556482D2FCB9.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/0CD242F4-3C85-45FA-A23A-4981B4B39318.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/0CD242F4-3C85-45FA-A23A-4981B4B39318.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/0E637D74-AF1F-4F05-8A08-1FF01DF19A92.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/0E637D74-AF1F-4F05-8A08-1FF01DF19A92.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/1105CCFB-FB4F-4DAB-951A-8D6F13969499.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/1105CCFB-FB4F-4DAB-951A-8D6F13969499.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/179BAFF3-5477-47BE-92D8-9A3D8B79E9B3.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/179BAFF3-5477-47BE-92D8-9A3D8B79E9B3.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/1890FA69-0AE6-4DB3-AADC-F00252F823AB.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/1890FA69-0AE6-4DB3-AADC-F00252F823AB.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/1984DBC7-EC51-4F46-B618-4C8FB2823470.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/1984DBC7-EC51-4F46-B618-4C8FB2823470.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/1DB4DE9B-8B3E-487A-A494-25C025D93D60.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/1DB4DE9B-8B3E-487A-A494-25C025D93D60.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/2623DE0A-2BCF-4A5F-91E3-6AD3EAE32DB0.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/2623DE0A-2BCF-4A5F-91E3-6AD3EAE32DB0.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/297F6994-AB3A-4379-AD2E-DE5311DBCF1C.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/297F6994-AB3A-4379-AD2E-DE5311DBCF1C.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/2A25A10E-0E97-4F77-B9A6-937831755D92.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/2A25A10E-0E97-4F77-B9A6-937831755D92.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/3158FC5A-F336-4743-8C4E-C2E8302AD63D.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/3158FC5A-F336-4743-8C4E-C2E8302AD63D.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/31D577B5-D91F-40F6-92A2-1C45E3CC5881.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/31D577B5-D91F-40F6-92A2-1C45E3CC5881.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/32197552-1A6B-401F-A7EC-B0F8D1AA5D3A.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/32197552-1A6B-401F-A7EC-B0F8D1AA5D3A.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/36217072-3B8D-44D4-8602-2C5E158EAED4.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/36217072-3B8D-44D4-8602-2C5E158EAED4.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/37400F90-C305-401B-A749-7AD9BFEF22CF.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/37400F90-C305-401B-A749-7AD9BFEF22CF.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/3AD137C3-AF17-4C16-9E60-000FD2E89A13.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/3AD137C3-AF17-4C16-9E60-000FD2E89A13.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/3B2A5997-9156-409C-8406-56D920735EB4.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/3B2A5997-9156-409C-8406-56D920735EB4.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/3CBFDB20-D653-4346-BC2D-C78BF453E51E.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/3CBFDB20-D653-4346-BC2D-C78BF453E51E.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/3E8A1E27-380D-4E09-B8F6-468C70BB533E.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/3E8A1E27-380D-4E09-B8F6-468C70BB533E.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/3F15746D-8196-4ED2-BC0E-3CCCC7E0FEDA.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/3F15746D-8196-4ED2-BC0E-3CCCC7E0FEDA.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/4368B4D4-CFE7-4E52-B411-BED81718F420.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/4368B4D4-CFE7-4E52-B411-BED81718F420.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/46D2DA4F-BB3D-4713-BBD2-1A98B46EF8A0.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/46D2DA4F-BB3D-4713-BBD2-1A98B46EF8A0.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/55CAD7B2-15D0-4D93-9E2D-171573FD9C42.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/55CAD7B2-15D0-4D93-9E2D-171573FD9C42.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/573DF64C-EAFA-4B66-8328-C6EC1489245F.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/573DF64C-EAFA-4B66-8328-C6EC1489245F.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/5D6F1120-AB6F-48DC-A3D1-DA80261BBD82.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/5D6F1120-AB6F-48DC-A3D1-DA80261BBD82.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/5FE53539-ECF3-4A7B-832B-88E76763671A.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/5FE53539-ECF3-4A7B-832B-88E76763671A.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/6515E78B-B6E4-40DA-9A20-DDCF2212D5E9.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/6515E78B-B6E4-40DA-9A20-DDCF2212D5E9.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/6B7C31A5-1C17-4FC1-9B5D-E8684C7F2FF7.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/6B7C31A5-1C17-4FC1-9B5D-E8684C7F2FF7.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/6BBB17C3-42D1-440D-889B-DC7E9F3F785E.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/6BBB17C3-42D1-440D-889B-DC7E9F3F785E.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/6E2E4B52-E1FB-409C-B6D8-0455500A172B.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/6E2E4B52-E1FB-409C-B6D8-0455500A172B.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/7720C9A9-5AAD-4CA0-9C7E-D9CDFECD64AE.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/7720C9A9-5AAD-4CA0-9C7E-D9CDFECD64AE.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/798A2E36-3350-4EDD-A143-8CD199C0A5CC.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/798A2E36-3350-4EDD-A143-8CD199C0A5CC.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/7A94CA55-D9A2-44EF-AE4E-C007B2A3DECE.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/7A94CA55-D9A2-44EF-AE4E-C007B2A3DECE.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/7E67288A-A35A-4FA7-A177-90C22AE07986.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/7E67288A-A35A-4FA7-A177-90C22AE07986.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/7F624F19-273E-45E7-9AE7-333A8718FF4B.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/7F624F19-273E-45E7-9AE7-333A8718FF4B.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/838568C0-830C-4189-A082-E5DB6B35D393.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/838568C0-830C-4189-A082-E5DB6B35D393.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/844FE0AD-E48E-424C-9939-0C7FA267374F.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/844FE0AD-E48E-424C-9939-0C7FA267374F.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/8AF83E89-722B-4F38-BAD9-A84854AAAD59.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/8AF83E89-722B-4F38-BAD9-A84854AAAD59.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/8DA4AFC9-9836-44C3-ABE0-77D3046B34C1.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/8DA4AFC9-9836-44C3-ABE0-77D3046B34C1.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/8DA92581-708B-4BDF-8A87-67966C71B1FF.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/8DA92581-708B-4BDF-8A87-67966C71B1FF.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/8DB53573-766A-4598-B472-B1B7C9A032BA.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/8DB53573-766A-4598-B472-B1B7C9A032BA.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/8E6B2F91-F042-4C67-93F3-B6EB28F58783.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/8E6B2F91-F042-4C67-93F3-B6EB28F58783.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/9056DB27-8C57-4C5C-B62E-2713F1DF4018.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/9056DB27-8C57-4C5C-B62E-2713F1DF4018.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/975C82FD-653F-4122-A16D-064B193E17BF.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/975C82FD-653F-4122-A16D-064B193E17BF.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/996DEA3E-862A-4AE2-8C24-9BC3A86A98B4.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/996DEA3E-862A-4AE2-8C24-9BC3A86A98B4.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/9F418267-632C-4BB8-97D5-A2F89F23B215.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/9F418267-632C-4BB8-97D5-A2F89F23B215.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/A240D837-6D13-46C1-960E-1C1ECD31CA93.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/A240D837-6D13-46C1-960E-1C1ECD31CA93.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/A43506C5-CF69-4EA6-B072-0C37DDA67F07.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/A43506C5-CF69-4EA6-B072-0C37DDA67F07.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/A96300C1-805B-4A95-B371-536DFF3A0487.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/A96300C1-805B-4A95-B371-536DFF3A0487.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/AC3A521F-0511-4163-B6FD-6E341BDB7AD8.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/AC3A521F-0511-4163-B6FD-6E341BDB7AD8.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/AF3197AA-40A6-4D45-A491-C4D3F184FCA6.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/AF3197AA-40A6-4D45-A491-C4D3F184FCA6.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/B3AF788A-F17D-4C0C-9585-C2452F70F6A5.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/B3AF788A-F17D-4C0C-9585-C2452F70F6A5.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/B5970553-9C55-4C99-BC15-C64CF8B50A7E.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/B5970553-9C55-4C99-BC15-C64CF8B50A7E.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/B6F7C6F1-586D-4A90-B6D6-C426149FACA7.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/B6F7C6F1-586D-4A90-B6D6-C426149FACA7.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/BD9DAF61-F31B-413A-AEF9-1E829334CF04.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/BD9DAF61-F31B-413A-AEF9-1E829334CF04.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/BE214A27-D0D0-420B-917F-5136753C2DDB.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/BE214A27-D0D0-420B-917F-5136753C2DDB.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/BEE00DD0-CB1A-4BCA-9ABE-0FA7222417B7.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/BEE00DD0-CB1A-4BCA-9ABE-0FA7222417B7.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/BF55DA67-A6E8-4EE3-A998-FDE174276B44.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/BF55DA67-A6E8-4EE3-A998-FDE174276B44.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/C31EF2B5-34EE-46F3-88C7-A6BBAB3A6CE7.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/C31EF2B5-34EE-46F3-88C7-A6BBAB3A6CE7.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/C557903D-2DF1-4323-95E8-0952CB2788D9.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/C557903D-2DF1-4323-95E8-0952CB2788D9.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/C57818E0-3CC7-4F0B-A180-74D15D9333DB.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/C57818E0-3CC7-4F0B-A180-74D15D9333DB.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/C8E259E8-5555-4605-9D03-23593CF15DFD.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/C8E259E8-5555-4605-9D03-23593CF15DFD.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/C96625BE-36AF-45CF-81AA-6DDCC63E127F.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/C96625BE-36AF-45CF-81AA-6DDCC63E127F.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/CBF5A0D2-ACB4-4B2E-BE05-3DE63C19620A.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/CBF5A0D2-ACB4-4B2E-BE05-3DE63C19620A.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/CD1C47C2-A4E5-4C4E-9B3E-B90D09554C22.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/CD1C47C2-A4E5-4C4E-9B3E-B90D09554C22.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/CE8118A8-6535-4EC0-91E6-37C5C7D7EC12.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/CE8118A8-6535-4EC0-91E6-37C5C7D7EC12.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/D0CF09B4-893D-4888-AB5A-28081E452DC8.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/D0CF09B4-893D-4888-AB5A-28081E452DC8.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/D2A8D8EC-103D-4C02-8E0A-7FAB4642A77A.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/D2A8D8EC-103D-4C02-8E0A-7FAB4642A77A.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/D58CAD4A-5754-4D04-95CF-0F571E78DE17.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/D58CAD4A-5754-4D04-95CF-0F571E78DE17.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/D726DEE9-B0F6-4098-B15E-BF6CCAD2ED0B.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/D726DEE9-B0F6-4098-B15E-BF6CCAD2ED0B.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/D7D696CE-69E2-4B18-AA5D-6C595DD30326.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/D7D696CE-69E2-4B18-AA5D-6C595DD30326.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/D80BE4C8-8BC0-4E70-BF60-8BAD78A19181.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/D80BE4C8-8BC0-4E70-BF60-8BAD78A19181.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/D8A2DB23-ABE4-44FC-8DAB-3EFFECE6EF14.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/D8A2DB23-ABE4-44FC-8DAB-3EFFECE6EF14.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/DBB09D08-9B67-4375-9F72-5CAA0B174116.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/DBB09D08-9B67-4375-9F72-5CAA0B174116.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/DE65EC99-1FDC-4962-ACA4-C71EEBFDF1E3.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/DE65EC99-1FDC-4962-ACA4-C71EEBFDF1E3.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/DE8047C5-BFAD-41EF-8F03-D9BE188EE1A5.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/DE8047C5-BFAD-41EF-8F03-D9BE188EE1A5.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/E303A9F8-C84E-4CE7-BAEC-677FB3BFEB28.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/E303A9F8-C84E-4CE7-BAEC-677FB3BFEB28.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/EA127D93-72CA-442C-880E-669C7AB7C625.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/EA127D93-72CA-442C-880E-669C7AB7C625.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/EB99CEF1-8723-4796-BCE4-5A76D881D893.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/EB99CEF1-8723-4796-BCE4-5A76D881D893.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/ECD3F0C2-2C91-474C-80F9-A9EFEFD63CA1.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/ECD3F0C2-2C91-474C-80F9-A9EFEFD63CA1.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/ED507A27-8C65-4CF2-B9DB-B2213AE550FF.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/ED507A27-8C65-4CF2-B9DB-B2213AE550FF.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/EE75E5A7-D8CA-4163-8383-15F61C607908.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/EE75E5A7-D8CA-4163-8383-15F61C607908.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/F1E41D2C-798B-4160-B377-D40E415E572F.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/F1E41D2C-798B-4160-B377-D40E415E572F.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/F1F479E5-A8A1-421D-AF6A-DE9298822DCE.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/F1F479E5-A8A1-421D-AF6A-DE9298822DCE.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/F3E31269-AE17-4DFC-B140-00074BC95810.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/F3E31269-AE17-4DFC-B140-00074BC95810.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/F45F1022-0310-485D-8C53-F19D97EEAEF1.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/F45F1022-0310-485D-8C53-F19D97EEAEF1.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/F5068DAE-A00E-4778-B47C-3CC7E3891DF4.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/F5068DAE-A00E-4778-B47C-3CC7E3891DF4.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/F60B550F-6C43-4179-A52F-73ED02040947.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/F60B550F-6C43-4179-A52F-73ED02040947.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/F709AA2D-83BB-47D6-993B-6C4F959E021A.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/F709AA2D-83BB-47D6-993B-6C4F959E021A.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/F82E30FD-8F74-4809-A6BD-6EF5AA141B9F.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/F82E30FD-8F74-4809-A6BD-6EF5AA141B9F.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/FCBD6DE8-2A66-477E-9E55-492D40A31E46.undo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/Undo Data.nosync\/FCBD6DE8-2A66-477E-9E55-492D40A31E46.undo",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/WindowImage.jpg": {
+		"ft": 16384,
+		"iS": 1477590,
+		"oA": 0,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Alternatives\/000\/WindowImage.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Media\/Audio Files\/Untitled_1#01.aif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Media\/Audio Files\/Untitled_1#01.aif",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.logicx\/Resources\/ProjectInformation.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.logicx\/Resources\/ProjectInformation.plist",
+		"oF": 0
+		},
+	"\/resources\/music\/mass-affection.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/music\/mass-affection.mp3",
+		"oF": 0
 		},
 	"\/site\/.python-version": {
 		"ft": 8192,
@@ -272,6 +2223,12 @@
 		"oAP": "\/site\/content\/extra\/CNAME",
 		"oF": 0
 		},
+	"\/site\/content\/extra\/feed.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/site\/content\/extra\/feed.xml",
+		"oF": 0
+		},
 	"\/site\/content\/pages\/about.md": {
 		"cS": 0,
 		"eF": 1,
@@ -294,6 +2251,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/site\/index.html",
+		"oF": 0
+		},
+	"\/site\/LICENSE.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/site\/LICENSE.html",
 		"oF": 0
 		},
 	"\/site\/LICENSE.md": {
@@ -332,6 +2295,12 @@
 		"oAP": "\/site\/publishconf.py",
 		"oF": 0
 		},
+	"\/site\/README.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/site\/README.html",
+		"oF": 0
+		},
 	"\/site\/README.md": {
 		"cS": 0,
 		"eF": 1,
@@ -357,7 +2326,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 506803732,
-	"displayValue": "massaffection.com",
+	"displayValue": "massaffection",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-hart",
 	"lastBuiltDate": 506809271

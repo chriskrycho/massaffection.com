@@ -17,8 +17,8 @@ $item-border: 3px;
   &__item {
     display: inline-block;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-size: 1rem;
-    line-height: 2;
+    font-size: 0.9em;
+    line-height: 1.2;
     flex: 1 0 7em;
     text-align: center;
     text-decoration: none;
@@ -29,11 +29,6 @@ $item-border: 3px;
     vertical-align: middle;
     
     &.fa { vertical-align: middle; }
-    
-    &--home {
-      height: 2em;
-      width: 2em;
-    }
   }
   
   &__text { vertical-align: middle; }
@@ -65,5 +60,14 @@ $item-border: 3px;
     &--support {}
     &--feed {}
     &--twitter {}
+  }
+}
+
+@media (min-width: 600px) and (min-height: 600px) {
+  .main-nav {
+    &__item {
+      font-size: 1em;
+      line-height: 2;
+    }
   }
 }

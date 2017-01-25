@@ -41,7 +41,7 @@
   left: 0;
   right: 0;
 
-  background: radial-gradient(ellipse at bottom, #2c1a2b 0%, #090A0F 50%, #000 100%);
+  background: linear-gradient(to left, transparent 0%, $space-pink 50%, transparent 100%);
 
   &__star {
     position: absolute;

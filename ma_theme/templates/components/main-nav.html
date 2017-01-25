@@ -1,0 +1,34 @@
+<nav class='main-nav'>
+  <ul class='main-nav__list'>
+    <li class='main-nav__item main-nav__item--home {% if isHome %}main-nav__item--current{% endif %}'>
+      <a href='/' class='main-nav__link {% if isHome %}main-nav__link--current{% endif %}'>
+        <i class='fa fa-fw fa-home main-nav__icon'></i>
+        <span class='main-nav__text main-nav__text--home'>Home</span>
+      </a>
+    </li>
+    <li class='main-nav__item main-nav__item--about {% if isAbout %}main-nav__item--current{% endif %}'>
+      <a href='/about/' class='main-nav__link {% if isAbout %}main-nav__link--current{% endif %}'>
+        <i class='fa fa-fw fa-user main-nav__icon'></i>
+        <span class='main-nav__text'>About</span>
+      </a>
+    </li>
+    <li class='main-nav__item main-nav__item--support'>
+      <a href='https://patreon.com/massaffection' class='main-nav__link'>
+        <i class='fa fa-fw fa-dollar main-nav__icon'></i>
+        <span class='main-nav__text'>Support</span>
+      </a>
+    </li>
+    <li class='main-nav__item main-nav__item--feed'>
+      <a href='/feed.xml' class='main-nav__link'>
+        <i class='fa fa-fw fa-rss main-nav__icon'></i>
+        <span class='main-nav__text'>Feed</span>
+      </a>
+    </li>
+    <li class='main-nav__item main-nav__item--twitter'>
+      <a href='https://twitter.com/mass_affection' class='main-nav__link'>
+        <i class='fa fa-fw fa-twitter main-nav__icon'></i>
+        <span class='main-nav__text'>Twitter</span>
+      </a>
+    </li>
+  </ul>
+</nav>

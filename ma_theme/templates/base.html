@@ -33,87 +33,16 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 </head>
 <body>
-  <nav class='main-nav'>
-    <ul class='main-nav__list'>
-      <li class='main-nav__item main-nav__item--home {% if isHome %}main-nav__item--current{% endif %}'>
-        <a href='/' class='main-nav__link {% if isHome %}main-nav__link--current{% endif %}'>
-          <i class='fa fa-fw fa-home main-nav__icon'></i>
-          <span class='main-nav__text main-nav__text--home'>Home</span>
-        </a>
-      </li>
-      <li class='main-nav__item main-nav__item--about {% if isAbout %}main-nav__item--current{% endif %}'>
-        <a href='/about/' class='main-nav__link {% if isAbout %}main-nav__link--current{% endif %}'>
-          <i class='fa fa-fw fa-user main-nav__icon'></i>
-          <span class='main-nav__text'>About</span>
-        </a>
-      </li>
-      <li class='main-nav__item main-nav__item--support'>
-        <a href='https://patreon.com/massaffection' class='main-nav__link'>
-          <i class='fa fa-fw fa-dollar main-nav__icon'></i>
-          <span class='main-nav__text'>Support</span>
-        </a>
-      </li>
-      <li class='main-nav__item main-nav__item--feed'>
-        <a href='/feed.xml' class='main-nav__link'>
-          <i class='fa fa-fw fa-rss main-nav__icon'></i>
-          <span class='main-nav__text'>Feed</span>
-        </a>
-      </li>
-      <li class='main-nav__item main-nav__item--twitter'>
-        <a href='https://twitter.com/mass_affection' class='main-nav__link'>
-          <i class='fa fa-fw fa-twitter main-nav__icon'></i>
-          <span class='main-nav__text'>Twitter</span>
-        </a>
-      </li>
-    </ul>
-
-  </nav>
+  {% include 'components/main-nav.html' %}
 
   <div class='content'>
-    <header class='site-header'>
-      {#-- TODO: generate srcset images, set them correctly }
-      {# srcset='{{CDN_URL}}/cover-medium.jpg 400w, http://cdn.massaffection.com/cover.jpg' #}
-      <h1 class='site-header__site-name'>
-        <img
-          src='{{LOGO_URL}}'
-          srcset='
-            {{CDN_URL}}/cover-100-2x.jpg 200w, 
-            {{CDN_URL}}/cover-200-2x.jpg 400w,
-            {{CDN_URL}}/cover-400-2x.jpg 800w,
-            {{CDN_URL}}/cover-800-2x.jpg 1600w,
-            http://cdn.massaffection.com/cover.jpg'
-          alt='Mass Affection'
-          title='Mass Affection'
-          class='site-header__image' />
-      </h1>
-      <h2 class='site-header__subtitle'>
-        <span class='site-header__description site-header__description--first'>
-          Chris and Jaimie Krycho play <cite>Mass Effect</cite>.
-        </span>
-        <span class='site-header__description site-header__description--second'>
-          Romance and hilarities ensue.
-        </span>
-      </h2>
-    </header>
+    {% include 'components/site-header.html' %}
 
     {% block content %}{% endblock %}
   </div>
-  <footer>
-    <ul class="plain_list colophon_list">
-      <li>
-        Landing page design by <a href="//www.chriskrycho.com">Chris Krycho</a>.
-      </li>
-      <li>
-        All content licensed under a Creative Commons Attribution license: do
-        whatever you like with this; just credit me!
-      </li>
-    </ul>
-  </footer>
+
+  {% include 'components/colophon.html' %}
   
-  <div class='stars'>
-    {% for n in range(1000) %}
-      <div class='stars__star'></div>
-    {% endfor %}
-  </div>
+  {% include 'components/stars.html' %}
 </body>
 </html>

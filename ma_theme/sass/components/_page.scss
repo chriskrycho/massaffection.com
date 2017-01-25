@@ -1,0 +1,7 @@
+.page {
+  @extend %content;
+}
+
+@media (min-width: 600px) and (min-height: 600px) {
+  .page { @extend %expanded-content-margin; }
+}

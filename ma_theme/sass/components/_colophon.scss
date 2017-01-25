@@ -1,0 +1,19 @@
+.colophon {
+  margin-top: $fs1;
+  padding: {
+    top: $fs3;
+    bottom: $fs3;
+  }
+  background: $background;
+  color: $text;
+  font: {
+    family: $text-stack;
+    size: $fs-small;
+  }
+  line-height: $lh-s;
+  text-align: center;
+  
+  a {
+    @extend %content-link;
+  }
+}

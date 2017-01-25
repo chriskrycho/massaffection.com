@@ -1,0 +1,45 @@
+%content-link {
+  display: inline-block;
+  text-decoration: none;
+  color: $word-pink;
+  border-bottom: 1px solid $text;
+  margin-bottom: 1px;
+  
+  &:hover,
+  &:active {
+    color: $text;
+    border-bottom: {
+      width: 2px;
+      color: $word-pink;
+    }
+    margin-bottom: 0;
+    background-image: linear-gradient(to top, $space-pink 0%, transparent 100%);
+  }
+}
+
+%content {
+  margin: {
+    top: $fsp;
+    left: auto;
+    right: auto;
+    bottom: $fsp;
+  }
+  padding: {
+    top: $fsp;
+    bottom: $fsp;
+  }
+  line-height: $lh;
+  max-width: 48rem;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: $text;
+  background: $background;
+}
+
+@media (min-width: 600px) and (min-height: 600px) {
+  %expanded-content-margin {
+    margin: {
+      top: $fs1;
+      bottom: $fs1;
+    }  
+  }
+}

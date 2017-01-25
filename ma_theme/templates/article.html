@@ -1,29 +1,27 @@
-{% extends "item.html" %}
+{% extends 'base.html' %}
 
 {% block title %}
 {%include 'helpers/article_title.html' %} – {{SITENAME}}
 {% endblock %}
 
 {% block meta %}
-<meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
-<meta property="og:title" content="{{ article.title|striptags }}" />
+<meta property='og:url' content='{{ SITEURL }}/{{ article.url }}' />
+<meta property='og:title' content='{{ article.title|striptags }}' />
 {% if article.description %}
-<meta property="og:description" content="{{ article.description|striptags }}" />    
+<meta property='og:description' content='{{ article.description|striptags }}' />    
 {% endif %}
-<meta property="og:type" content="article" />
-<meta property="og:image" content="{{LOGO}}" />
-<meta property="og:audio" content="{{ SITEURL }}/{{mp3}}"/>
-<meta property="og:audio:type" content="audio/mp3" />
+<meta property='og:type' content='article' />
+<meta property='og:image' content='{{LOGO}}' />
+<meta property='og:audio' content='{{ SITEURL }}/{{mp3}}'/>
+<meta property='og:audio:type' content='audio/mp3' />
 {% endblock %}
 
 {% block content %}
-<article class="podcast">
-  <h1 class="podcast__title">{%include 'helpers/article_title.html' %}</h1>
+<article class='podcast'>
+  {% include 'components/podcast_header.html' %}
   
-  {% include 'helpers/audio.html' %}
-  
-  <section class="podcast__body">
+  <section class='podcast__notes'>
     {{article.content}}
-  </section>
+  </section>    
 </article>
 {% endblock %}

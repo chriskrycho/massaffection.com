@@ -1,12 +1,66 @@
 .site-header {
+  @extend %content;
+
   &__site-name {}
-  &__image { max-width: 40vw; }
-  &__subtitle {}
+  
+  font-size: $fs5;
 
   &__description {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-
+    font: {
+      family: $text-stack;
+      weight: 300;
+    }
+    
+    display: block;
+    
     &--first {}
     &--second {}
+  }
+  
+  &__game-title {
+    display: block;
+    font: {
+      family: $title-stack; 
+      weight: normal;
+    }
+  }
+  
+  &__home-link {
+    display: block;
+    border-bottom: 3px solid transparent;
+    
+    &:hover,
+    &:active {
+      border-bottom-color: $word-pink;
+      background-image: linear-gradient(to top, $space-pink 0%, transparent 60%);
+    }
+  }
+  
+  &__image { 
+    padding: 0;
+    margin: 0 auto;
+    display: block;
+    max-width: calc(100% - 4em);
+  }
+  
+  &__subtitle {
+    margin: {
+      top: 0.4em;
+      left: 1em;
+      right: 1em;
+    }
+    
+    text-align: center;
+  }
+}
+
+@media (min-width: 600px) and (min-height: 600px) {
+  .site-header {
+    @extend %expanded-content-margin;
+    font-size: $fs1;
+
+    &__image {
+      max-width: 40%;
+    }
   }
 }
