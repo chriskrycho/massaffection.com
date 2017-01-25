@@ -62,11 +62,21 @@ DEFAULT_PAGINATION = 12  # roughly 3 months. Ish.
 STATIC_PATHS = ['extra/CNAME',
                 'extra/favicon.ico',
                 'extra/.nojekyll',
-                'extra/feed.xml']
+                'extra/feed.xml',
+                ]
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
                        'extra/favicon.ico': {'path': 'favicon.ico'},
                        'extra/feed.xml': {'path': 'feed.xml'},
-                       'extra/.nojekyll': {'path': '.nojekyll'}}
+                       'extra/.nojekyll': {'path': '.nojekyll'},
+                       }
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.extra': {},
+        'markdown.extensions.smarty': {},
+        'markdown.extensions.meta': {},
+    },
+}

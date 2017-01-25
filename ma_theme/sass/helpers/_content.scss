@@ -24,15 +24,68 @@
     right: auto;
     bottom: $fsp;
   }
-  padding: {
-    top: $fsp;
-    bottom: $fsp;
-  }
+  padding: $fsp $fsp $fs1;
   line-height: $lh;
   max-width: 48rem;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: $text;
   background: $background;
+}
+
+%content-inner {
+  padding-top: $fsp;
+  
+  & > * {
+    max-width: 38rem;
+    margin: { left: auto; right: auto; }
+    padding: { left: $fsp; right: $fsp; }
+  }
+  
+  h2 {
+    font: {
+      family: $title-stack;
+      size: $fs4;
+    }
+    text-align: center;
+    line-height: $lh;
+    margin-bottom: 0.4em;
+  }
+  
+  img {
+    padding: {
+      top: $fsp;
+      bottom: $fsp;
+    }
+  }
+  
+  ul {
+    padding-left: $fsp;
+    margin: {
+      top: 0.4em;
+      bottom: 0.4em;
+    }
+    list-style: disc;
+  }
+  
+  li {
+    margin-bottom: 0.4em;
+  }
+  
+  p {
+    margin: {
+      top: $fsp;
+      bottom: $fsp;
+    }
+  }
+}
+
+%item-title {
+  text-align: center;
+  font: {
+    family: $title-stack;
+    size: $fs3;
+  }
+  margin-bottom: 0.4em;
 }
 
 @media (min-width: 600px) and (min-height: 600px) {

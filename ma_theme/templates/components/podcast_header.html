@@ -1,8 +1,8 @@
-<h1 class='podcast__title'>
-  <a class='podcast__link podcast__link--permalink' href='/{{article.url}}'>
+<a class='podcast__link podcast__link--permalink podcast__link--title' href='/{{article.url}}'>
+  <h1 class='podcast__title'>
     {% include 'helpers/article_title.html' %}
-  </a>
-</h1>
+  </h1>
+</a>
 
 {% include 'helpers/audio.html' %}
 

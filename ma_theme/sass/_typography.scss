@@ -1,4 +1,14 @@
-$title-stack: Slider, sans-serif;
+@font-face {
+    font-family: 'Slider-Regular';
+    src:url('/fonts/Slider-Regular.ttf.woff') format('woff'),
+        url('/fonts/Slider-Regular.ttf.svg#Slider-Regular') format('svg'),
+        url('/fonts/Slider-Regular.ttf.eot'),
+        url('/fonts/Slider-Regular.ttf.eot?#iefix') format('embedded-opentype'); 
+    font-weight: normal;
+    font-style: normal;
+}
+
+$title-stack: 'Slider-Regular', sans-serif;
 $text-stack: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
 $lh: 1.4;

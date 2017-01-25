@@ -21,12 +21,6 @@
 		"oAP": "\/.python-version",
 		"oF": 0
 		},
-	"\/docs": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/docs\/docs",
-		"oF": 0
-		},
 	"\/ma_theme\/.editorconfig": {
 		"ft": 8192,
 		"oA": 2,
@@ -260,6 +254,28 @@
 		"oF": 2,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/ma_theme\/static\/fonts\/Slider-Regular.ttf.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ma_theme\/static\/fonts\/Slider-Regular.ttf.eot",
+		"oF": 0
+		},
+	"\/ma_theme\/static\/fonts\/Slider-Regular.ttf.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/ma_theme\/static\/fonts\/Slider-Regular.ttf.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/ma_theme\/static\/fonts\/Slider-Regular.ttf.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ma_theme\/static\/fonts\/Slider-Regular.ttf.woff",
+		"oF": 0
 		},
 	"\/ma_theme\/static\/style.css": {
 		"aP": 1,
@@ -2193,89 +2209,17 @@
 		"oAP": "\/site\/__pycache__\/publishconf.cpython-35.pyc",
 		"oF": 0
 		},
-	"\/site\/content\/1-prologue.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/site\/content\/1-prologue.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/site\/content\/extra\/.nojekyll": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/site\/content\/extra\/.nojekyll",
+	"\/site\/content": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/docs\/content",
 		"oF": 0
-		},
-	"\/site\/content\/extra\/CNAME": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/site\/content\/extra\/CNAME",
-		"oF": 0
-		},
-	"\/site\/content\/extra\/feed.xml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/site\/content\/extra\/feed.xml",
-		"oF": 0
-		},
-	"\/site\/content\/pages\/about.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/site\/content\/pages\/about.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
 		},
 	"\/site\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/site\/index.html",
 		"oF": 0
-		},
-	"\/site\/LICENSE.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/site\/LICENSE.html",
-		"oF": 0
-		},
-	"\/site\/LICENSE.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/site\/LICENSE.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
 		},
 	"\/site\/Makefile": {
 		"ft": 8192,
@@ -2294,30 +2238,6 @@
 		"oA": 2,
 		"oAP": "\/site\/publishconf.py",
 		"oF": 0
-		},
-	"\/site\/README.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/site\/README.html",
-		"oF": 0
-		},
-	"\/site\/README.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/site\/README.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
 		}
 	},
 "hooks": [
@@ -4247,7 +4167,7 @@
 	"languageDefaultsUserDefined": [
 		],
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules, \/docs",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules, \/docs, \/site\/content",
 	"sourceFolderName": "site",
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {

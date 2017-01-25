@@ -1,5 +1,17 @@
 .page {
   @extend %content;
+  
+  a { @extend %content-link; }
+  
+  &__title { 
+    @extend %item-title; 
+    padding-bottom: 0.4em;
+    border-bottom: 1px solid $text;
+  }
+  
+  &__body {
+    @extend %content-inner;
+  }
 }
 
 @media (min-width: 600px) and (min-height: 600px) {
