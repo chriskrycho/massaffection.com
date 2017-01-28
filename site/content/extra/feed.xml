@@ -4,14 +4,14 @@
         <title>Mass Affection</title>
         <link>http://www.massaffection.com</link>
         <description>A husband and wife play-through of the Mass Effect games. Laughter, romance, and hijinks ensue.</description>
-        <generator>Feeder 3 3.4(2912); Mac OS X Version 10.12.2 (Build 16C67) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.4(2912); Mac OS X Version 10.12.3 (Build 16D32) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2017 Chris and Jaimie Krycho</copyright>
         <managingEditor>chris@chriskrycho.com (Chris Krycho)</managingEditor>
         <webMaster>chris@chriskrycho.com (Chris Krycho)</webMaster>
-        <pubDate>Sun, 22 Jan 2017 19:03:31 -0500</pubDate>
-        <lastBuildDate>Sun, 22 Jan 2017 19:03:32 -0500</lastBuildDate>
+        <pubDate>Sat, 28 Jan 2017 17:10:35 -0500</pubDate>
+        <lastBuildDate>Sat, 28 Jan 2017 17:10:36 -0500</lastBuildDate>
         <image>
             <url>http://cdn.massaffection.com/cover.jpg</url>
             <title>Mass Affection</title>
@@ -64,7 +64,7 @@
 </ul>
 ]]></description>
             <pubDate>Sun, 22 Jan 2017 19:00:00 -0500</pubDate>
-            <enclosure url="http://dts.podtrac.com/redirect.mp3/cdn.massaffection.com/1-prologue.mp3" length="24796654" type="audio/mpeg"/>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/massaffection-cdn.objects-us-west-1.dream.io/1-prologue.mp3" length="24796654" type="audio/mpeg"/>
             <guid isPermaLink="false">260FCE49-23E4-408A-81EA-0060B462FF40</guid>
             <itunes:subtitle>An introduction to the podcast, and the mission on Eden Prime!</itunes:subtitle>
             <itunes:summary><![CDATA[An introduction to the podcast, and the mission on Eden Prime!
