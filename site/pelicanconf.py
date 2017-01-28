@@ -1,17 +1,29 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
+
+from copy import copy
+from pathlib import Path
+import re
+import sys
+
+# Setup path to enable local helpers.
+sys.path.append(str(Path(__file__).parent))
+
+import helpers
+
 
 AUTHOR = 'Chris Krycho'
 SITENAME = 'Mass Affection'
-SITE_DESCRIPTION = 'A husband and wife play-through of the Mass Effect games. Laughter, romance, and hijinks ensue. Biweekly episodes discussing plot, character, gameplay—the whole gamut!'
+SITE_DESCRIPTION = '''
+A husband and wife play-through of the Mass Effect games. Laughter, romance, \
+and hijinks ensue. Biweekly episodes discussing plot, character, gameplay—the \
+whole gamut!'''
 SITEURL = ''
 
 CDN_DOMAIN = 'cdn.massaffection.com'
 CDN_URL = 'http://' + CDN_DOMAIN
 CDN_TLS_URL = 'https://massaffection-cdn.objects-us-west-1.dream.io'
 
-LOGO_URL = CDN_URL + '/cover.jpg'
+LOGO_URL = CDN_TLS_URL + '/cover.jpg'
 
 PATH = 'content'
 
@@ -60,16 +72,21 @@ AUTHOR_FEED_RSS = None
 
 DEFAULT_PAGINATION = 12  # roughly 3 months. Ish.
 
+EMBED_DIR_NAME = 'embed'
 STATIC_PATHS = ['extra/CNAME',
                 'extra/favicon.ico',
                 'extra/.nojekyll',
                 'extra/feed.xml',
+                EMBED_DIR_NAME,
                 ]
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
                        'extra/favicon.ico': {'path': 'favicon.ico'},
                        'extra/feed.xml': {'path': 'feed.xml'},
                        'extra/.nojekyll': {'path': '.nojekyll'},
                        }
+
+ARTICLE_EXCLUDES = [EMBED_DIR_NAME]
+PAGE_EXCLUDES = [EMBED_DIR_NAME]
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
@@ -81,3 +98,26 @@ MARKDOWN = {
         'markdown.extensions.meta': {},
     },
 }
+
+
+# Generate embed items for every episode.
+site_dir = Path(__file__).parent
+content_dir = site_dir / 'content'
+all_content_paths = list(content_dir.glob('*.md'))
+podcast_paths = [p for p in all_content_paths if helpers.is_podcast(p)]
+embeds = {
+    p.name: helpers.embed(
+        p.with_suffix('.mp3').name, 
+        LOGO_URL,
+        CDN_TLS_URL) for p in podcast_paths
+}
+embed_dir = content_dir / EMBED_DIR_NAME
+
+helpers.check_embed_dir(embed_dir)
+print('\ngenerating embed files at {}:\n'.format(str(embed_dir)))
+for name, embed in embeds.items():
+    fpath = (embed_dir / name).with_suffix('.html')
+    print('  - {}'.format(name))
+    with fpath.open('w') as fd:
+        fd.write(embed)
+print()

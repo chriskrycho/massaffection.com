@@ -1,18 +1,39 @@
 {% extends 'base.html' %}
 
+{% set title = page.title|striptags ~ ' – ' ~ SITENAME %}
+
 {% block title %}
-{{page.title}} – {{SITENAME}}
+  {{title}}
 {% endblock %}
 
 {% block meta %}
-<meta property='og:url' content='{{ SITEURL }}/{{ page.url }}' />
-<meta property='og:title' content='{{ page.title|striptags }}' />
-{% if page.description %}
-<meta property='og:description' content='{{ page.description|striptags }}' />    
-{% endif %}
-<meta property='og:type' content='article' />
-<meta property='og:image' content='{{LOGO}}' />
-<meta property='og:audio' content='{{ SITEURL }}/{{mp3}}'/>
+  <meta property='og:url' content='{{SITEURL}}/{{page.url}}' />
+  <meta property='og:title' content='{{title}}' />
+  <meta property='og:type' content='article' />
+
+  <meta name='twitter:title' content='{{title}}' />
+  <meta name='twitter:card' content='summary_large_image' />
+  <meta name='twitter:site' content='@mass_affection' />
+  
+  {% if page.description %}
+    {% set description = page.description|striptags %}
+    <meta property='og:description' content='{{description}}' />    
+    <meta name='twitter:description' content='{{description}}' />
+  {% else %}
+    <meta property='og:description' content='{{SITE_DESCRIPTION}}' />
+    <meta name='twitter:description' content='{{SITE_DESCRIPTION}}' />
+  {% endif %}
+  {% if page.image is defined %}
+    <meta property='og:image' content='{{page.image}}' />
+    <meta name='twitter:image' content='{{page.image}}' />
+    <meta name='twitter:image:alt' content='Illustrative content for the page.' />
+  {% else %}
+    <meta property='og:image' content='{{LOGO_URL}}' />
+    <meta name='twitter:image' content='{{LOGO_URL}}' />
+    <meta name='twitter:image:alt' content='Mass Affection logo with SR-1 Normandy art' />
+  {% endif %}
+
+
 {% endblock %}
 
 {% block content %}

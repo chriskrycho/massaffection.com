@@ -5,32 +5,39 @@
 {% else %}
     {% set item = None %}
 {% endif %}
-{% set isHome = output_file == "index.html" %}
-{% set isAbout = output_file == "about/index.html" %}
+{% set isHome = output_file == 'index.html' %}
+{% set isAbout = output_file == 'about/index.html' %}
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8">
+  <meta charset='utf-8'>
   <title>{% block title %}
     {{SITENAME}}
   {% endblock %}</title>
 
   {% block meta %}
-  <meta property="og:url" content="{{ SITEURL }}" />
-  <meta property="og:title" content="{{ SITENAME }}" />
-  <meta property="og:description" content="{{ SITE_DESCRIPTION }}" />
-  <meta property="og:image" content="{{ LOGO }}" />
-  <meta property="og:type" content="website" />
+    <meta property='og:url' content='{{SITEURL}}' />
+    <meta property='og:title' content='{{SITENAME}}' />
+    <meta property='og:description' content='{{SITE_DESCRIPTION}}' />
+    <meta property='og:image' content='{{LOGO_URL}}' />
+    <meta property='og:type' content='website' />
+
+    <meta name='twitter:card' content='summary_large_image' />
+    <meta name='twitter:site' content='@mass_affection' />
+    <meta name='twitter:title' content='{{SITENAME}}' />
+    <meta name='twitter:description' content='{{SITE_DESCRIPTION}}' />
+    <meta name='twitter:image' content='{{LOGO_URL}}' />
+    <meta name='twitter:image:alt' content='Mass Affection logo with SR-1 Normandy art' />
   {% endblock %}
 
-  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <meta name='viewport' content='width=device-width,initial-scale=1.0'>
 
-  <link href="/favicon.png" type="image/png" rel="icon">
-  <link href="/favicon.ico" type="image/ico" rel="icon">
+  <link href='/favicon.png' type='image/png' rel='icon'>
+  <link href='/favicon.ico' type='image/ico' rel='icon'>
 
   {# CSS #}
-  <link rel="stylesheet" type="text/css" href="/style.css" charset="utf-8">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+  <link rel='stylesheet' type='text/css' href='/style.css' charset='utf-8'>
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css'>
 </head>
 <body>
   {% include 'components/main-nav.html' %}

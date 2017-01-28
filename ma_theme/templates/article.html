@@ -1,23 +1,42 @@
 {% extends 'base.html' %}
 
+{% set title = article.title|striptags ~ ' – ' ~ SITENAME %}
+
 {% block title %}
-{%include 'helpers/article_title.html' %} – {{SITENAME}}
+  {%include 'helpers/article_title.html' %} – {{SITENAME}}
 {% endblock %}
 
 {% block meta %}
-<meta property='og:url' content='{{ SITEURL }}/{{ article.url }}' />
-<meta property='og:title' content='{{ article.title|striptags }}' />
-{% if article.description %}
-<meta property='og:description' content='{{ article.description|striptags }}' />    
-{% endif %}
-<meta property='og:type' content='article' />
-{% if article.image is defined %}
-<meta property='og:image' content='{{article.image}}' />
-{% else %}
-<meta property='og:image' content='{{LOGO}}' />
-{% endif %}
-<meta property='og:audio' content={% include 'helpers/secure_audio.html' %}/>
-<meta property='og:audio:type' content='audio/mp3' />
+  <meta property='og:url' content='{{ SITEURL }}/{{ article.url }}' />
+  <meta property='og:title' content='{{ article.title|striptags }}' />
+  <meta property='og:type' content='article' />
+
+  <meta name='twitter:title' content='{{title}}' />
+  <meta name='twitter:card' content='summary_large_image' />
+  <meta name='twitter:site' content='@mass_affection' />
+
+  {% if article.description %}
+    {% set description = article.description|striptags %}
+    <meta property='og:description' content='{{description}}' />    
+    <meta name='twitter:description' content='{{description}}' />
+  {% else %}
+    <meta property='og:description' content='{{SITE_DESCRIPTION}}' />
+    <meta name='twitter:description' content='{{SITE_DESCRIPTION}}' />
+  {% endif %}
+  {% if article.image is defined %}
+    <meta property='og:image' content='{{article.image}}' />
+    <meta name='twitter:image' content='{{article.image}}' />
+    <meta name='twitter:image:alt' content='Illustrative content for the article.' />
+  {% else %}
+    <meta property='og:image' content='{{LOGO_URL}}' />
+    <meta name='twitter:image' content='{{LOGO_URL}}' />
+    <meta name='twitter:image:alt' content='Mass Affection logo with SR-1 Normandy art' />
+  {% endif %}
+  <meta property='og:audio' content={% include 'helpers/secure_audio.html' %}/>
+  <meta property='og:audio:type' content='audio/mpeg' />
+  <meta property='twitter:player' content={{SITEURL ~ '/embed/' ~ 'player.html'}}
+  <meta property='twitter:player:stream' content={% include 'helpers/secure_audio.html' %} />
+  <meta property='twitter:player:stream:content-type' content='audio/mpeg' />
 {% endblock %}
 
 {% block content %}
