@@ -11,8 +11,12 @@
 <meta property='og:description' content='{{ article.description|striptags }}' />    
 {% endif %}
 <meta property='og:type' content='article' />
+{% if article.image is defined %}
+<meta property='og:image' content='{{article.image}}' />
+{% else %}
 <meta property='og:image' content='{{LOGO}}' />
-<meta property='og:audio' content='{{ SITEURL }}/{{mp3}}'/>
+{% endif %}
+<meta property='og:audio' content={% include 'helpers/secure_audio.html' %}/>
 <meta property='og:audio:type' content='audio/mp3' />
 {% endblock %}
 

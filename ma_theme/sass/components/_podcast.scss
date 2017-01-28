@@ -5,8 +5,8 @@
   
   &__audio {
     width: 100%;
+    $vertical: 0.4em;
     padding: {
-      $vertical: 0.4em;
       top: $vertical;
       bottom: $vertical;
     }
@@ -43,8 +43,8 @@
     @extend %expanded-content-margin;
     
     &__audio {
+      $vertical: 1em;
       padding: {
-        $vertical: 1em;
         top: $vertical;
         bottom: $vertical;
       }

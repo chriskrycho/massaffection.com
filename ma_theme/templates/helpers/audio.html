@@ -1,7 +1,4 @@
 {% set mp3_file_name = article.slug ~ '.mp3' %}
-{% set podtrac_url = 'http://dts.podtrac.com/redirect.mp3' %}
+{% set podtrac_url = 'https://dts.podtrac.com/redirect.mp3' %}
 {% set full_url = podtrac_url ~ '/' ~ CDN_DOMAIN ~ '/' ~ mp3_file_name %}
-
-<audio title={{article.title}} class='podcast__audio' controls preload='metadata'>
-  <source src={{full_url | safe}}>
-</audio>
+{{full_url | safe}}

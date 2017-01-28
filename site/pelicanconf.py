@@ -8,7 +8,8 @@ SITE_DESCRIPTION = 'A husband and wife play-through of the Mass Effect games. La
 SITEURL = ''
 
 CDN_DOMAIN = 'cdn.massaffection.com'
-CDN_URL = '//' + CDN_DOMAIN
+CDN_URL = 'http://' + CDN_DOMAIN
+CDN_TLS_URL = 'https://massaffection-cdn.objects-us-west-1.dream.io'
 
 LOGO_URL = CDN_URL + '/cover.jpg'
 

@@ -3,6 +3,7 @@ Description: An introduction to the podcast, and the mission on Eden Prime!
 Date: 2017-01-22 19:00
 Author: Chris and Jaimie Krycho
 Category: Mass Effect
+Image: http://cdn.massaffection.com/shepard.jpg
 
 ## Show Notes
 
