@@ -74,13 +74,13 @@ DEFAULT_PAGINATION = 12  # roughly 3 months. Ish.
 
 EMBED_DIR_NAME = 'embed'
 STATIC_PATHS = ['extra/CNAME',
-                'extra/favicon.ico',
+                'extra/favicon.png',
                 'extra/.nojekyll',
                 'extra/feed.xml',
                 EMBED_DIR_NAME,
                 ]
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
-                       'extra/favicon.ico': {'path': 'favicon.ico'},
+                       'extra/favicon.png': {'path': 'favicon.png'},
                        'extra/feed.xml': {'path': 'feed.xml'},
                        'extra/.nojekyll': {'path': '.nojekyll'},
                        }
