@@ -1,3 +1,3 @@
 {% set mp3_file_name = article.slug ~ '.mp3' %}
-{% set full_url = CDN_TLS_URL ~ '/' ~ mp3_file_name %}
+{% set full_url = CDN_URL ~ '/' ~ mp3_file_name %}
 {{full_url | safe}}

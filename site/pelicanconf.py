@@ -19,11 +19,10 @@ and hijinks ensue. Biweekly episodes discussing plot, character, gameplay—the 
 whole gamut!'''
 SITEURL = ''
 
-CDN_DOMAIN = 'cdn.massaffection.com'
-CDN_URL = 'http://' + CDN_DOMAIN
-CDN_TLS_URL = 'https://massaffection-cdn.objects-us-west-1.dream.io'
+CDN_DOMAIN = 'massaffection-cdn.objects-us-west-1.dream.io'
+CDN_URL = 'https://' + CDN_DOMAIN
 
-LOGO_URL = CDN_TLS_URL + '/cover.jpg'
+LOGO_URL = CDN_URL + '/cover.jpg'
 
 PATH = 'content'
 
@@ -109,7 +108,7 @@ embeds = {
     p.name: helpers.embed(
         p.with_suffix('.mp3').name, 
         LOGO_URL,
-        CDN_TLS_URL) for p in podcast_paths
+        CDN_URL) for p in podcast_paths
 }
 embed_dir = content_dir / EMBED_DIR_NAME
 
