@@ -34,7 +34,7 @@
   {% endif %}
   <meta property='og:audio' content={% include 'helpers/secure_audio.html' %}/>
   <meta property='og:audio:type' content='audio/mpeg' />
-  <meta property='twitter:player' content={{SITEURL ~ '/embed/' ~ 'player.html'}}
+  <meta property='twitter:player' content={{SITEURL ~ '/embed/' ~ article.slug ~ '.html' }}
   <meta property='twitter:player:stream' content={% include 'helpers/secure_audio.html' %} />
   <meta property='twitter:player:stream:content-type' content='audio/mpeg' />
 {% endblock %}
