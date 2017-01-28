@@ -76,13 +76,18 @@ STATIC_PATHS = ['extra/CNAME',
                 'extra/favicon.png',
                 'extra/.nojekyll',
                 'extra/feed.xml',
+                'extra/challenge',
                 EMBED_DIR_NAME,
                 ]
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
-                       'extra/favicon.png': {'path': 'favicon.png'},
-                       'extra/feed.xml': {'path': 'feed.xml'},
-                       'extra/.nojekyll': {'path': '.nojekyll'},
-                       }
+EXTRA_PATH_METADATA = {
+    'extra/CNAME': {'path': 'CNAME'},
+    'extra/favicon.png': {'path': 'favicon.png'},
+    'extra/feed.xml': {'path': 'feed.xml'},
+    'extra/.nojekyll': {'path': '.nojekyll'},
+    'extra/challenge': {
+        'path': '.well-known/acme-challenge/FefZs6qlDnBWZrEDvbIejRQzA14_CzqaJo8OS5nDBZg',
+    },
+}
 
 ARTICLE_EXCLUDES = [EMBED_DIR_NAME]
 PAGE_EXCLUDES = [EMBED_DIR_NAME]
