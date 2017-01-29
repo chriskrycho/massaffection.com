@@ -87,6 +87,8 @@ EXTRA_PATH_METADATA = {
     'extra/.nojekyll': {'path': '.nojekyll'},
     'extra/challenge': {
         'path': '.well-known/acme-challenge/OyLLMakXI6WnReHGiLYqy5GwhsaS2ot_gbLNBnJpDF0.html',
+    },
+    'extra/challenge-www': {
         'path': '.well-known/acme-challenge/AesnLB6GRuIwCjQzpRycjkrDXhJxvUlJtMS56yT-KHI.html'
     },
 }
