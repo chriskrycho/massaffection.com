@@ -85,7 +85,7 @@ EXTRA_PATH_METADATA = {
     'extra/feed.xml': {'path': 'feed.xml'},
     'extra/.nojekyll': {'path': '.nojekyll'},
     'extra/challenge': {
-        'path': '.well-known/acme-challenge/AesnLB6GRuIwCjQzpRycjkrDXhJxvUlJtMS56yT-KHI.html',
+        'path': '.well-known/acme-challenge/RJk2md2jM2NfpNLUDansTcukzsLGikaoVtNsK4CU76c.html',
     },
 }
 
