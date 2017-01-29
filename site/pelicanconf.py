@@ -86,10 +86,10 @@ EXTRA_PATH_METADATA = {
     'extra/feed.xml': {'path': 'feed.xml'},
     'extra/.nojekyll': {'path': '.nojekyll'},
     'extra/challenge': {
-        'path': '.well-known/acme-challenge/-qpEpguBtp4UwzrF0RAA-riX_wpSWlxto0PTUejyg6o.html',
+        'path': '.well-known/acme-challenge/24xjmayWxZGoTkqjcjRgk3uQne3mSUKghtkhtX4IYCc',
     },
     'extra/challenge-www': {
-        'path': '.well-known/acme-challenge/AesnLB6GRuIwCjQzpRycjkrDXhJxvUlJtMS56yT-KHI.html'
+        'path': '.well-known/acme-challenge/AesnLB6GRuIwCjQzpRycjkrDXhJxvUlJtMS56yT-KHI'
     },
 }
 
