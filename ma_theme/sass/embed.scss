@@ -11,8 +11,8 @@ html, body { margin: 0; padding: 0; }
   &__image {
     display: block;
     width: 100%; height: 100%;
-    max-height: calc(100vw - 2em);
-    max-width: calc(100vh - 2em);
+    max-height: calc(100vw - 120px);
+    max-width: calc(100vh - 120px);
     margin: {
       left: auto;
       right: auto;
@@ -22,8 +22,8 @@ html, body { margin: 0; padding: 0; }
   &__interface {
     display: block;
     width: 100%;
-    max-width: calc(100vh - 2em);
-    top: 600px;
+    max-width: calc(100vh - 120px);
+    height: 120px;
     margin: {
       left: auto;
       right: auto;
