@@ -1,13 +1,13 @@
 <nav class='main-nav'>
   <ul class='main-nav__list'>
     <li class='main-nav__item main-nav__item--home {% if isHome %}main-nav__item--current{% endif %}'>
-      <a href='/' class='main-nav__link {% if isHome %}main-nav__link--current{% endif %}'>
+      <a href='{{SITEURL}}/' class='main-nav__link {% if isHome %}main-nav__link--current{% endif %}'>
         <i class='fa fa-fw fa-home main-nav__icon'></i>
         <span class='main-nav__text main-nav__text--home'>Home</span>
       </a>
     </li>
     <li class='main-nav__item main-nav__item--about {% if isAbout %}main-nav__item--current{% endif %}'>
-      <a href='/about/' class='main-nav__link {% if isAbout %}main-nav__link--current{% endif %}'>
+      <a href='{{SITEURL}}/about/' class='main-nav__link {% if isAbout %}main-nav__link--current{% endif %}'>
         <i class='fa fa-fw fa-user main-nav__icon'></i>
         <span class='main-nav__text'>About</span>
       </a>
