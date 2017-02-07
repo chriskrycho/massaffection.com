@@ -18,6 +18,9 @@ Image: http://cdn.massaffection.com/shepard.jpg
     - [Keith David](https://en.wikipedia.org/wiki/Keith_David) (Anderson)
 - [_Doctor Who_](http://www.bbc.co.uk/programmes/b006q2x0)
     - [Companions](https://en.wikipedia.org/wiki/Companion_(Doctor_Who))
+- [Fred Johnson](http://expanse.wikia.com/wiki/Fred_Johnson_(Books)) in [_The Expanse_](http://www.syfy.com/theexpanse)
+- [Vole](https://en.wikipedia.org/wiki/Vole)
+
 
 ## Interact!
 

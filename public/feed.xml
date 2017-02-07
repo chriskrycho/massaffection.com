@@ -4,14 +4,14 @@
         <title>Mass Affection</title>
         <link>http://www.massaffection.com</link>
         <description>A husband and wife play-through of the Mass Effect games. Laughter, romance, and hijinks ensue.</description>
-        <generator>Feeder 3 3.4(2912); Mac OS X Version 10.12.3 (Build 16D32) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.4.1(2922); Mac OS X Version 10.12.3 (Build 16D32) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2017 Chris and Jaimie Krycho</copyright>
         <managingEditor>chris@chriskrycho.com (Chris Krycho)</managingEditor>
         <webMaster>chris@chriskrycho.com (Chris Krycho)</webMaster>
-        <pubDate>Sat, 28 Jan 2017 17:10:35 -0500</pubDate>
-        <lastBuildDate>Sat, 28 Jan 2017 17:10:36 -0500</lastBuildDate>
+        <pubDate>Mon, 06 Feb 2017 21:36:03 -0500</pubDate>
+        <lastBuildDate>Mon, 06 Feb 2017 21:36:03 -0500</lastBuildDate>
         <image>
             <url>http://cdn.massaffection.com/cover.jpg</url>
             <title>Mass Affection</title>
@@ -34,8 +34,46 @@
             <itunes:category text="Video Games"/>
         </itunes:category>
         <item>
-            <title>1: Prologue</title>
-            <link>http://www.massaffection.com/</link>
+            <title>ME: 2 – The Citadel</title>
+            <link>https://www.massaffection.com/mass-effect/2-the-citadel/</link>
+            <description><![CDATA[<p>The Council, meeting almost all the rest of our crew, and space fashion!</p>
+<h2>Show Notes</h2>
+<p><img src="http://cdn.massaffection.com/normandy-citadel.jpg" alt="The _Normandy_ approaching the Citadel" title="Normandy Citadel approach screenshot" /></p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Star_Wars:_Knights_of_the_Old_Republic"><em>Knights of the Old Republic</em></a></li>
+<li><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterAlignment">Character alignment</a> – as described on TVTropes.com, and originating in <em>Dungeons and Dragons</em>. Fair warning: if you click into TVTropes, you're apt to get sucked in for a while.
+<ul>
+<li><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ChaoticGood">Chaotic good</a></li>
+<li><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/LawfulGood">Lawful good</a></li>
+</ul>
+</li>
+<li>On villains monologuing: <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilGloating">Evil Gloating</a> (TVTropes again; you have been warned!)</li>
+</ul>
+<h2>Interact!</h2>
+<ul>
+<li><a href="https://www.patreon.com/massaffection">Patreon</a></li>
+<li><a href="https://twitter.com/mass_affection">@mass_affection</a></li>
+<li><a href="mailto:hello@massaffection.com">hello@massaffection.com</a></li>
+</ul>
+]]></description>
+            <pubDate>Mon, 06 Feb 2017 21:30:00 -0500</pubDate>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/massaffection-cdn.objects-us-west-1.dream.io/2-the-citadel.mp3" length="30588674" type="audio/mpeg"/>
+            <guid isPermaLink="false">587FD167-55EA-4840-9946-538F4C2C2F7D</guid>
+            <itunes:subtitle>The Council, meeting almost all the rest of our crew, and space fashion!</itunes:subtitle>
+            <itunes:summary><![CDATA[The Council, meeting almost all the rest of our crew, and space fashion!
+
+Interact!
+
+* Patreon.com/massaffection
+
+* @mass_affection
+
+* hello@massaffection.com]]></itunes:summary>
+            <itunes:duration>35:13</itunes:duration>
+        </item>
+        <item>
+            <title>ME: 1 – Prologue</title>
+            <link>https://www.massaffection.com/mass-effect/1-prologue/</link>
             <description><![CDATA[<p>An introduction to the podcast, and the mission on Eden Prime!</p>
 <h2>Show Notes</h2>
 <p><img src="http://cdn.massaffection.com/shepard.jpg" alt="Our Shepard" title="Shepard screenshot" /></p>
