@@ -2,25 +2,27 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
     <channel>
         <title>Mass Affection</title>
-        <link>http://www.massaffection.com</link>
-        <description>A husband and wife play-through of the Mass Effect games. Laughter, romance, and hijinks ensue.</description>
-        <generator>Feeder 3 3.4.1(2922); Mac OS X Version 10.12.3 (Build 16D32) http://reinventedsoftware.com/feeder/</generator>
+        <link>https://www.massaffection.com</link>
+        <description>A husband and wife play-through of the Mass Effect games. Laughter, romance, and hijinks ensue. Biweekly episodes discussing plot, character, gameplay—the whole gamut!</description>
+        <generator>Feeder 3 3.4.2(2930); Mac OS X Version 10.12.3 (Build 16D32) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2017 Chris and Jaimie Krycho</copyright>
         <managingEditor>chris@chriskrycho.com (Chris Krycho)</managingEditor>
         <webMaster>chris@chriskrycho.com (Chris Krycho)</webMaster>
-        <pubDate>Mon, 06 Feb 2017 21:36:03 -0500</pubDate>
-        <lastBuildDate>Mon, 06 Feb 2017 21:36:03 -0500</lastBuildDate>
+        <pubDate>Mon, 20 Feb 2017 08:46:44 -0500</pubDate>
+        <lastBuildDate>Mon, 20 Feb 2017 08:46:44 -0500</lastBuildDate>
         <image>
             <url>http://cdn.massaffection.com/cover.jpg</url>
             <title>Mass Affection</title>
-            <link>http://www.massaffection.com</link>
+            <link>https://www.massaffection.com</link>
             <width>144</width>
             <height>144</height>
+            <description>A husband and wife play-through of the Mass Effect games. Laughter, romance, and hijinks ensue. Biweekly episodes discussing plot, character, gameplay—the whole gamut!</description>
         </image>
         <atom:link href="http://www.massaffection.com/feed.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Chris and Jaimie Krycho</itunes:author>
+        <itunes:subtitle>A husband and wife play-through of the Mass Effect games. Laughter, romance, and hijinks ensue.</itunes:subtitle>
         <itunes:summary><![CDATA[A husband and wife play-through of the Mass Effect games. Laughter, romance, and hijinks ensue. Biweekly episodes discussing plot, character, gameplay—the whole gamut!]]></itunes:summary>
         <itunes:keywords>games,mass effect,video games,couple,romance,playthrough</itunes:keywords>
         <itunes:image href="http://cdn.massaffection.com/cover.jpg"/>
@@ -33,6 +35,55 @@
         <itunes:category text="Games &amp; Hobbies">
             <itunes:category text="Video Games"/>
         </itunes:category>
+        <item>
+            <title>ME: 3 – Liara</title>
+            <link>https://www.massaffection.com/mass-effect/3-liara/</link>
+            <description><![CDATA[<p>Finding our favorite delightfully awkward and nerdy blue alien woman.</p>
+<h2>Show Notes</h2>
+<p><img src="http://cdn.massaffection.com/liara.jpg" alt="Liara discussing her predicament with Shepard" title="Liara on Therum: screenshot" /></p>
+<ul>
+<li>Chris kept saying "spaceography" because he couldn't remember the word <a href="https://en.wikipedia.org/wiki/Celestial_cartography">astrography</a>.</li>
+<li><a href="https://www.nasa.gov/subject/6889/exoplanets/">Exoplanets</a></li>
+<li><a href="https://www.halowaypoint.com/en-us">Halo</a></li>
+<li><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CutsceneIncompetence">Cutscene Incompetence</a> (TVTropes)</li>
+<li>Jaimie described meeting Rear Admiral Mikhailovich as "a little spice in the tasty stew that is <em>Mass Effect</em>"; she was referencing a post Chris wrote about art a few years ago: <a href="http://2012-2013.chriskrycho.com/art/and-the-stew-tastes-good/">"And the Stew Tastes Good"</a></li>
+</ul>
+<h2>Interact!</h2>
+<ul>
+<li><a href="https://www.patreon.com/massaffection">Patreon</a></li>
+<li><a href="https://twitter.com/mass_affection">@mass_affection</a></li>
+<li><a href="mailto:hello@massaffection.com">hello@massaffection.com</a></li>
+</ul>
+]]></description>
+            <pubDate>Mon, 20 Feb 2017 09:00:00 -0500</pubDate>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/massaffection-cdn.objects-us-west-1.dream.io/3-liara.mp3" length="31423900" type="audio/mpeg"/>
+            <guid isPermaLink="false">37349765-61EB-4BA4-A712-CD88D27C63CB</guid>
+            <itunes:subtitle>Finding our favorite delightfully awkward and nerdy blue alien woman.</itunes:subtitle>
+            <itunes:summary><![CDATA[Finding our favorite delightfully awkward and nerdy blue alien woman.
+
+
+Show Notes
+
+* Chris kept saying "spaceography" because he couldn't remember the word astrography.
+
+* Exoplanets: https://www.nasa.gov/subject/6889/exoplanets/
+
+* Halo: https://www.halowaypoint.com/en-us
+
+* Cutscene Incompetence (TVTropes): http://tvtropes.org/pmwiki/pmwiki.php/Main/CutsceneIncompetence
+
+* Jaimie described meeting Rear Admiral Mikhailovich as "a little spice in the tasty stew that is Mass Effect"; she was referencing a post Chris wrote about art a few years ago: "And the Stew Tastes Good": http://2012-2013.chriskrycho.com/art/and-the-stew-tastes-good/
+
+
+Interact!
+
+* Patreon.com/massaffection
+
+* twitter.com/mass_affection
+
+* hello@massaffection.com]]></itunes:summary>
+            <itunes:duration>36:12</itunes:duration>
+        </item>
         <item>
             <title>ME: 2 – The Citadel</title>
             <link>https://www.massaffection.com/mass-effect/2-the-citadel/</link>
