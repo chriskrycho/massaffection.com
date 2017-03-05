@@ -10,6 +10,8 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
+RSS_FEED_SUMMARY_ONLY = False
+
 SITEURL = 'https://www.massaffection.com'
 RELATIVE_URLS = False
 

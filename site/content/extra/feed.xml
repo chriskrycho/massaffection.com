@@ -10,8 +10,8 @@
         <copyright>2017 Chris and Jaimie Krycho</copyright>
         <managingEditor>chris@chriskrycho.com (Chris Krycho)</managingEditor>
         <webMaster>chris@chriskrycho.com (Chris Krycho)</webMaster>
-        <pubDate>Mon, 20 Feb 2017 08:46:44 -0500</pubDate>
-        <lastBuildDate>Mon, 20 Feb 2017 08:46:44 -0500</lastBuildDate>
+        <pubDate>Sun, 05 Mar 2017 16:21:10 -0500</pubDate>
+        <lastBuildDate>Sun, 05 Mar 2017 16:21:10 -0500</lastBuildDate>
         <image>
             <url>http://cdn.massaffection.com/cover.jpg</url>
             <title>Mass Affection</title>
@@ -35,6 +35,43 @@
         <itunes:category text="Games &amp; Hobbies">
             <itunes:category text="Video Games"/>
         </itunes:category>
+        <item>
+            <title>ME: 4 – Noveria</title>
+            <link>https://www.massaffection.com/mass-effect/4-noveria/</link>
+            <description><![CDATA[<p><img src="http://cdn.massaffection.com/noveria.jpg" alt="Benezia blasting Shepard in a cutscene" title="Benezia fighting: screenshot" /></p>
+<h2>Show Notes</h2>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Tower_of_Hanoi">Towers of Hanoi</a></li>
+<li>Ender series
+<ul>
+<li><a href="http://www.alibris.com/Enders-Game-Orson-Scott-Card/book/2043006"><em>Ender's Game</em></a> – notably, itself originally a short story</li>
+<li><a href="http://www.alibris.com/Speaker-for-the-Dead-Orson-Scott-Card/book/6249657"><em>Speaker for the Dead</em></a></li>
+</ul>
+</li>
+<li>"Named character" and Alestia: see <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/NominalImportance">Nominal Importance at TV Tropes</a></li>
+<li>"Lampshade" from "hang a lampshade on it" (see <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging">TV Tropes</a>)</li>
+</ul>
+<h2>Interact!</h2>
+<ul>
+<li><a href="https://www.patreon.com/massaffection">Patreon</a></li>
+<li><a href="https://twitter.com/mass_affection">@mass_affection</a></li>
+<li><a href="mailto:hello@massaffection.com">hello@massaffection.com</a></li>
+</ul>
+]]></description>
+            <pubDate>Sun, 05 Mar 2017 16:25:00 -0500</pubDate>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/massaffection-cdn.objects-us-west-1.dream.io/4-noveria.mp3" length="32572386" type="audio/mpeg"/>
+            <guid isPermaLink="false">89A3EAFA-B0B7-4C18-AA6A-09B7DD86466F</guid>
+            <itunes:subtitle>Fighting/talking to rachni and Liara's mom, and sci-fi and storytelling remixes</itunes:subtitle>
+            <itunes:summary><![CDATA[Fighting/talking to rachni and Liara's mom, and sci-fi and storytelling remixes
+
+## Interact!
+
+- .patreon.com/massaffection
+- twitter.com/mass_affection
+- hello@massaffection.com
+]]></itunes:summary>
+            <itunes:duration>32:53</itunes:duration>
+        </item>
         <item>
             <title>ME: 3 – Liara</title>
             <link>https://www.massaffection.com/mass-effect/3-liara/</link>

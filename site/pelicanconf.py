@@ -111,7 +111,7 @@ MARKDOWN = {
 # Generate embed items for every episode.
 site_dir = Path(__file__).parent
 content_dir = site_dir / 'content'
-all_content_paths = list(content_dir.glob('*.md'))
+all_content_paths = list(content_dir.glob('**/*.md'))
 podcast_paths = [p for p in all_content_paths if helpers.is_podcast(p)]
 embeds = {
     p.name: helpers.embed(
