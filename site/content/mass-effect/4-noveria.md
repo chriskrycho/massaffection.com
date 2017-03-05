@@ -1,5 +1,5 @@
 Title: 4 – Noveria
-Description: Fighting/talking to rachni and Liara's mom, and sci-fi and storytelling remixes
+Description: "Fighting/talking to rachni and Benezia, and sci-fi and storytelling remixes"
 Date: 2017-03-03 16:25
 Author: Chris and Jaimie Krycho
 Category: Mass Effect
