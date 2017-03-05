@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 
-@import 'helpers/content';
+@import 'mixins/content';
 
 @import 'components/colophon';
 @import 'components/main-nav';

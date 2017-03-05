@@ -1,19 +1,19 @@
 .page {
-  @extend %content;
+  @include content;
   
-  a { @extend %content-link; }
+  a { @include content-link; }
   
   &__title { 
-    @extend %item-title; 
+    @include item-title; 
     padding-bottom: 0.4em;
     border-bottom: 1px solid $text;
   }
   
   &__body {
-    @extend %content-inner;
+    @include content-inner;
   }
 }
 
 @media (min-width: 600px) and (min-height: 600px) {
-  .page { @extend %expanded-content-margin; }
+  .page { @include expanded-content-margin; }
 }

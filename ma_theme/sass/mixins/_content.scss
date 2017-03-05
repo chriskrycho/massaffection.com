@@ -1,4 +1,4 @@
-%content-link {
+@mixin content-link {
   display: inline-block;
   text-decoration: none;
   color: $word-pink;
@@ -17,7 +17,7 @@
   }
 }
 
-%content {
+@mixin content {
   margin: {
     top: $fsp;
     left: auto;
@@ -32,7 +32,7 @@
   background: $background;
 }
 
-%content-inner {
+@mixin content-inner {
   padding-top: $fsp;
   
   & > * {
@@ -79,7 +79,7 @@
   }
 }
 
-%item-title {
+@mixin item-title {
   text-align: center;
   font: {
     family: $title-stack;
@@ -88,11 +88,9 @@
   margin-bottom: 0.4em;
 }
 
-@media (min-width: 600px) and (min-height: 600px) {
-  %expanded-content-margin {
-    margin: {
-      top: $fs1;
-      bottom: $fs1;
-    }  
-  }
+@mixin expanded-content-margin {
+  margin: {
+    top: $fs1 + $fsp;
+    bottom: $fs1;
+  }  
 }

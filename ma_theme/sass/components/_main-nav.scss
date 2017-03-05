@@ -2,13 +2,14 @@ $item-border: 3px;
 
 .main-nav {
   width: 100%;
-  color: $text;
+
+  // TODO: sticky when sticky exists
 
   &__list {
     list-style: none;
-    width: 100%;
     background-color: $background;
-    $color: $text;
+    color: $text;
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;

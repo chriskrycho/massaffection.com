@@ -6,9 +6,9 @@
   @for $star from $start through $end {
     $size: #{random($max-size)}px;
     $shadow-size: #{random($max-size * 2)}px;
-    $red: random-star-color($range-from-white: 50);
-    $blue: random-star-color($range-from-white: 25);
-    $green: random-star-color($range-from-white: 50);
+    $red: random-star-color($range-from-white: 67);
+    $blue: random-star-color($range-from-white: 67);
+    $green: random-star-color($range-from-white: 67);
     $color: rgb($red, $blue, $green);
     
     &:nth-child(#{$star}) {
@@ -40,8 +40,7 @@
   bottom: 0;
   left: 0;
   right: 0;
-
-  background: linear-gradient(to left, transparent 0%, $space-pink 50%, transparent 100%);
+  background: radial-gradient(circle at 50% 0, $space-pink 0%, transparent 67%);
 
   &__star {
     position: absolute;
@@ -56,5 +55,29 @@
     @include stars($start: 941, $end: 980, $max-size: 5, $duration: 1800);
     @include stars($start: 981, $end: 990, $max-size: 7, $duration: 480);
     @include stars($start: 991, $end: 1000, $max-size: 7, $duration: 1120);
+
+    @media (max-width: 400px) {
+      &--second {
+        display: none;
+      }
+    }
+
+    @media (max-width: 600px) {
+      &--third {
+        display: none;
+      }
+    }
+
+    @media (max-width: 800px) {
+      &--fourth {
+        display: none;
+      }
+    }
+
+    @media (max-width: 1000px) {
+      &--fifth {
+        display: none;
+      }
+    }
   }
 }

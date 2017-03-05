@@ -1,5 +1,9 @@
 <div class='stars'>
   {% for n in range(1000) %}
-    <div class='stars__star'></div>
+    <div class='stars__star 
+                {% if n % 2 == 0 %}stars__star--second {% endif %}
+                {% if n % 3 == 0 %}stars__star--third {% endif %}
+                {% if n % 3 == 0 %}stars__star--fourth {% endif %}
+                {% if n % 5 == 0 %}stars__star--fifth{% endif %}'></div>
   {% endfor %}
 </div>

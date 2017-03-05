@@ -1,7 +1,7 @@
 .podcast {
-  @extend %content;
+  @include content;
   
-  a { @extend %content-link; }
+  a { @include content-link; }
   
   &__audio {
     width: 100%;
@@ -25,7 +25,7 @@
 
   &__metadata-item { display: inline-block; }
   
-  &__notes { @extend %content-inner; }
+  &__notes { @include content-inner; }
   
   &__subtitle {
     text-align: center; 
@@ -33,14 +33,14 @@
     margin-bottom: $fsp;
   }
 
-  &__title { @extend %item-title; }
+  &__title { @include item-title; }
   
   &__notes {}
 }
 
 @media (min-width: 600px) and (min-height: 600px) {
   .podcast {
-    @extend %expanded-content-margin;
+    @include expanded-content-margin;
     
     &__audio {
       $vertical: 1em;

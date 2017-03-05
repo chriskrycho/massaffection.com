@@ -1,5 +1,5 @@
 .site-header {
-  @extend %content;
+  @include content;
 
   &__site-name {}
   
@@ -56,7 +56,7 @@
 
 @media (min-width: 600px) and (min-height: 600px) {
   .site-header {
-    @extend %expanded-content-margin;
+    @include expanded-content-margin;
     font-size: $fs1;
 
     &__image {
