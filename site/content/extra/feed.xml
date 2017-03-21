@@ -10,8 +10,8 @@
         <copyright>2017 Chris and Jaimie Krycho</copyright>
         <managingEditor>chris@chriskrycho.com (Chris Krycho)</managingEditor>
         <webMaster>chris@chriskrycho.com (Chris Krycho)</webMaster>
-        <pubDate>Sun, 05 Mar 2017 16:21:10 -0500</pubDate>
-        <lastBuildDate>Sun, 05 Mar 2017 16:21:10 -0500</lastBuildDate>
+        <pubDate>Mon, 20 Mar 2017 20:32:25 -0400</pubDate>
+        <lastBuildDate>Mon, 20 Mar 2017 20:32:25 -0400</lastBuildDate>
         <image>
             <url>http://cdn.massaffection.com/cover.jpg</url>
             <title>Mass Affection</title>
@@ -35,6 +35,29 @@
         <itunes:category text="Games &amp; Hobbies">
             <itunes:category text="Video Games"/>
         </itunes:category>
+        <item>
+            <title>Andromeda: 0 – Trailer Thoughts</title>
+            <link>https://www.massaffection.com/andromeda/0-trailer-thoughts/</link>
+            <description><![CDATA[<p><img src="http://cdn.massaffection.com/andromeda-cover.jpg" alt="_Mass Effect: Andromeda_" title="Promo art for Andromeda" /></p>
+<h2>Show Notes</h2>
+<ul>
+<li><a href="http://www.shamusyoung.com/twentysidedtale/?p=27792">Shamus Young's retrospective</a></li>
+<li><a href="https://youtu.be/lx9sPQpjgjU?t=105">ME2 trailer: "We will fight for the lost…" :beat: \<make out scene></a></li>
+</ul>
+<h2>Interact!</h2>
+<ul>
+<li><a href="https://www.patreon.com/massaffection">Patreon</a></li>
+<li><a href="https://twitter.com/mass_affection">@mass_affection</a></li>
+<li><a href="mailto:hello@massaffection.com">hello@massaffection.com</a></li>
+</ul>
+]]></description>
+            <pubDate>Mon, 20 Mar 2017 20:30:00 -0400</pubDate>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/massaffection-cdn.objects-us-west-1.dream.io/0-trailer-thoughts.mp3" length="38624001" type="audio/mpeg"/>
+            <guid isPermaLink="false">20177BC0-9DE8-401F-909B-418A9D06BE11</guid>
+            <itunes:subtitle>Thoughts on Andromeda from the various trailers.</itunes:subtitle>
+            <itunes:summary><![CDATA[Thoughts on Andromeda from the various trailers.]]></itunes:summary>
+            <itunes:duration>26:07</itunes:duration>
+        </item>
         <item>
             <title>ME: 4 – Noveria</title>
             <link>https://www.massaffection.com/mass-effect/4-noveria/</link>
