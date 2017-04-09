@@ -4,14 +4,14 @@
         <title>Mass Affection</title>
         <link>https://www.massaffection.com</link>
         <description>A husband and wife play-through of the Mass Effect games. Laughter, romance, and hijinks ensue. Biweekly episodes discussing plot, character, gameplay—the whole gamut!</description>
-        <generator>Feeder 3 3.4.2(2930); Mac OS X Version 10.12.3 (Build 16D32) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.4.3(2936); Mac OS X Version 10.12.4 (Build 16E195) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2017 Chris and Jaimie Krycho</copyright>
         <managingEditor>chris@chriskrycho.com (Chris Krycho)</managingEditor>
         <webMaster>chris@chriskrycho.com (Chris Krycho)</webMaster>
-        <pubDate>Mon, 20 Mar 2017 20:32:25 -0400</pubDate>
-        <lastBuildDate>Mon, 20 Mar 2017 20:32:25 -0400</lastBuildDate>
+        <pubDate>Sun, 09 Apr 2017 16:29:55 -0400</pubDate>
+        <lastBuildDate>Sun, 09 Apr 2017 16:29:55 -0400</lastBuildDate>
         <image>
             <url>http://cdn.massaffection.com/cover.jpg</url>
             <title>Mass Affection</title>
@@ -35,6 +35,29 @@
         <itunes:category text="Games &amp; Hobbies">
             <itunes:category text="Video Games"/>
         </itunes:category>
+        <item>
+            <title>5 – Feros</title>
+            <link>https://www.massaffection.com/mass-effect/5-feros/</link>
+            <description><![CDATA[<p>Bad corporations and plant-based… body horror?</p>
+<p><img src="http://cdn.massaffection.com/thorian.jpg" alt="The Thorian" title="screen capture of the Thorian" /></p>
+<h2>Show Notes</h2>
+<ul>
+<li><a href="https://www.etsy.com/listing/512028457/mass-effect-earrings-renegade-and">Paragon and Renegade earrings</a></li>
+</ul>
+<h2>Interact!</h2>
+<ul>
+<li><a href="https://www.patreon.com/massaffection">Patreon</a></li>
+<li><a href="https://twitter.com/mass_affection">@mass_affection</a></li>
+<li><a href="mailto:hello@massaffection.com">hello@massaffection.com</a></li>
+</ul>
+]]></description>
+            <pubDate>Sun, 09 Apr 2017 16:30:00 -0400</pubDate>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/massaffection-cdn.objects-us-west-1.dream.io/5-feros.mp3" length="29231979" type="audio/mpeg"/>
+            <guid isPermaLink="false">0B415FC5-70BF-4B0C-B87A-75AF9F368798</guid>
+            <itunes:subtitle>Bad corporations and plant-based… body horror?</itunes:subtitle>
+            <itunes:summary><![CDATA[Bad corporations and plant-based… body horror?]]></itunes:summary>
+            <itunes:duration>29:24</itunes:duration>
+        </item>
         <item>
             <title>Andromeda: 0 – Trailer Thoughts</title>
             <link>https://www.massaffection.com/andromeda/0-trailer-thoughts/</link>
