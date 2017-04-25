@@ -10,8 +10,8 @@
         <copyright>2017 Chris and Jaimie Krycho</copyright>
         <managingEditor>chris@chriskrycho.com (Chris Krycho)</managingEditor>
         <webMaster>chris@chriskrycho.com (Chris Krycho)</webMaster>
-        <pubDate>Sun, 09 Apr 2017 16:29:55 -0400</pubDate>
-        <lastBuildDate>Sun, 09 Apr 2017 16:29:55 -0400</lastBuildDate>
+        <pubDate>Mon, 24 Apr 2017 21:58:53 -0400</pubDate>
+        <lastBuildDate>Mon, 24 Apr 2017 21:58:54 -0400</lastBuildDate>
         <image>
             <url>http://cdn.massaffection.com/cover.jpg</url>
             <title>Mass Affection</title>
@@ -35,6 +35,39 @@
         <itunes:category text="Games &amp; Hobbies">
             <itunes:category text="Video Games"/>
         </itunes:category>
+        <item>
+            <title>6 – Virmire</title>
+            <link>https://www.massaffection.com/mass-effect/6-virmire/</link>
+            <description><![CDATA[<p><img src="http://cdn.massaffection.com/saren-virmire.jpg" alt="Fighting Saren" /></p>
+<h2>Show Notes</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=nieLAD6YS3w">Moronic Mako Driving</a></li>
+<li>"Thanoptis" and "Thanopsis": Jaimie was thinking of <a href="https://en.wikipedia.org/wiki/Thanatopsis">"Thanatopsis", by William Cullen Bryant</a>.</li>
+<li>TVTropes on monologuing
+<ul>
+<li><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeechesAndMonologues">Speeches and Monologues</a> (the overview page for <em>all</em> the kinds of monologuing)</li>
+<li><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilGloating">Evil gloating</a> -- also a master list of specific kinds of evil gloating</li>
+<li><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveNoChanceToSurvive">You Have No Chance To Survive</a> -- Sovereign's specific variation</li>
+</ul>
+</li>
+<li><a href="http://blog.triblive.com/chipped-ice/wp-content/uploads/sites/6/2016/12/Trap-game.jpg">"It's a trap"</a></li>
+<li><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CutsceneIncompetence">Cutscene Incompetence</a> (TVTropes)</li>
+<li><a href="https://www.youtube.com/watch?v=lLCEUpIg8rE">Freeeeedoooooom</a> (warning: a bit gruesome, though all offscreen)</li>
+<li><a href="https://www.youtube.com/watch?v=RF7KgS6UZ4I">"Hold the line!" speech</a></li>
+</ul>
+<h2>Interact!</h2>
+<ul>
+<li><a href="https://www.patreon.com/massaffection">Patreon</a></li>
+<li><a href="https://twitter.com/mass_affection">@mass_affection</a></li>
+<li><a href="mailto:hello@massaffection.com">hello@massaffection.com</a></li>
+</ul>
+]]></description>
+            <pubDate>Mon, 24 Apr 2017 22:00:00 -0400</pubDate>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/massaffection-cdn.objects-us-west-1.dream.io/6-virmire.mp3" length="43406322" type="audio/mpeg"/>
+            <guid isPermaLink="false">7241F5D1-6271-4460-B1F6-74950B39F704</guid>
+            <itunes:summary><![CDATA[Persuasion at the barrel of a sniper rifle, or, Shepard is “better than a fleet”!]]></itunes:summary>
+            <itunes:duration>44:10</itunes:duration>
+        </item>
         <item>
             <title>5 – Feros</title>
             <link>https://www.massaffection.com/mass-effect/5-feros/</link>
