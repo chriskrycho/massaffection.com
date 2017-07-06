@@ -4,14 +4,14 @@
         <title>Mass Affection</title>
         <link>https://www.massaffection.com</link>
         <description>A husband and wife play-through of the Mass Effect games. Laughter, romance, and hijinks ensue. Biweekly episodes discussing plot, character, gameplay—the whole gamut!</description>
-        <generator>Feeder 3 3.4.4(2944); Mac OS X Version 10.12.5 (Build 16F73) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.4.5(2950); Mac OS X Version 10.12.5 (Build 16F73) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2017 Chris and Jaimie Krycho</copyright>
         <managingEditor>chris@chriskrycho.com (Chris Krycho)</managingEditor>
         <webMaster>chris@chriskrycho.com (Chris Krycho)</webMaster>
-        <pubDate>Mon, 19 Jun 2017 19:53:53 -0400</pubDate>
-        <lastBuildDate>Mon, 19 Jun 2017 19:53:54 -0400</lastBuildDate>
+        <pubDate>Wed, 05 Jul 2017 21:16:01 -0400</pubDate>
+        <lastBuildDate>Wed, 05 Jul 2017 21:16:02 -0400</lastBuildDate>
         <image>
             <url>http://cdn.massaffection.com/cover.jpg</url>
             <title>Mass Affection</title>
@@ -36,7 +36,34 @@
             <itunes:category text="Video Games"/>
         </itunes:category>
         <item>
-            <title>7 – Finale</title>
+            <title>ME2: 1 – Opening</title>
+            <link>https://www.massaffection.com/mass-effect/1-opening/</link>
+            <description><![CDATA[<p>Cerberus between games, the prologue, and the opening.</p>
+<h2>Show Notes</h2>
+<p><img src="http://cdn.massaffection.com/illusive-man.jpg" alt="The &quot;Illusive Man&quot;" /></p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Retroactive_continuity">"retcon"</a> -- "retroactive continuity"</li>
+<li><a href="https://en.wikipedia.org/wiki/Nouveau_riche">"new money"</a></li>
+<li><a href="http://www.nbc.com/chuck?nbc=1"><em>Chuck</em></a></li>
+<li><a href="https://en.wikipedia.org/wiki/Little_black_dress">"little black dress"</a></li>
+</ul>
+<h2>Interact!</h2>
+<ul>
+<li><a href="https://www.patreon.com/massaffection">Patreon</a></li>
+<li><a href="https://twitter.com/mass_affection">@mass_affection</a></li>
+<li><a href="mailto:hello@massaffection.com">hello@massaffection.com</a></li>
+</ul>
+<p><img src="http://cdn.massaffection.com/me2-shepard.jpg" alt="ME2 Imported Shepard" /></p>
+]]></description>
+            <pubDate>Wed, 05 Jul 2017 21:15:46 -0400</pubDate>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/massaffection-cdn.objects-us-west-1.dream.io/1-opening.mp3" length="36428460" type="audio/mpeg"/>
+            <guid isPermaLink="false">7381D20B-22D4-4E1B-896A-02C2CDBA3287</guid>
+            <itunes:subtitle>Cerberus between games, the prologue, and the opening.</itunes:subtitle>
+            <itunes:summary><![CDATA[Cerberus between games, the prologue, and the opening.]]></itunes:summary>
+            <itunes:duration>36:54</itunes:duration>
+        </item>
+        <item>
+            <title>ME: 7 – Finale</title>
             <link>https://www.massaffection.com/mass-effect/7-finale/</link>
             <description><![CDATA[<p><img src="http://cdn.massaffection.com/citadel-attack.jpg" alt="Fighting Saren" /></p>
 <h2>Show Notes</h2>
@@ -56,7 +83,7 @@
             <itunes:duration>39:16</itunes:duration>
         </item>
         <item>
-            <title>6 – Virmire</title>
+            <title>ME: 6 – Virmire</title>
             <link>https://www.massaffection.com/mass-effect/6-virmire/</link>
             <description><![CDATA[<p><img src="http://cdn.massaffection.com/saren-virmire.jpg" alt="Fighting Saren" /></p>
 <h2>Show Notes</h2>
@@ -89,7 +116,7 @@
             <itunes:duration>44:10</itunes:duration>
         </item>
         <item>
-            <title>5 – Feros</title>
+            <title>ME: 5 – Feros</title>
             <link>https://www.massaffection.com/mass-effect/5-feros/</link>
             <description><![CDATA[<p>Bad corporations and plant-based… body horror?</p>
 <p><img src="http://cdn.massaffection.com/thorian.jpg" alt="The Thorian" title="screen capture of the Thorian" /></p>
