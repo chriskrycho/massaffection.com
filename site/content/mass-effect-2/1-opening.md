@@ -14,4 +14,11 @@ Image: http://cdn.massaffection.com/illusive-man.jpg
 - [_Chuck_](http://www.nbc.com/chuck?nbc=1)
 - ["little black dress"](https://en.wikipedia.org/wiki/Little_black_dress)
 
+## Interact!
+
+- [Patreon](https://www.patreon.com/massaffection)
+- [@mass_affection](https://twitter.com/mass_affection)
+- [hello@massaffection.com](mailto:hello@massaffection.com)
+
 ![ME2 Imported Shepard](http://cdn.massaffection.com/me2-shepard.jpg)
+
