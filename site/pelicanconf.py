@@ -72,8 +72,7 @@ AUTHOR_FEED_RSS = None
 DEFAULT_PAGINATION = 12  # roughly 3 months. Ish.
 
 EMBED_DIR_NAME = 'embed'
-STATIC_PATHS = ['extra/CNAME',
-                'extra/favicon.png',
+STATIC_PATHS = ['extra/favicon.png',
                 'extra/.nojekyll',
                 'extra/feed.xml',
                 'extra/challenge',
@@ -81,7 +80,6 @@ STATIC_PATHS = ['extra/CNAME',
                 EMBED_DIR_NAME,
                 ]
 EXTRA_PATH_METADATA = {
-    'extra/CNAME': {'path': 'CNAME'},
     'extra/favicon.png': {'path': 'favicon.png'},
     'extra/feed.xml': {'path': 'feed.xml'},
     'extra/.nojekyll': {'path': '.nojekyll'},
