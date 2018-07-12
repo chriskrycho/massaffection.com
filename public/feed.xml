@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
     <channel>
         <title>Mass Affection</title>
         <link>https://www.massaffection.com</link>
         <description>A husband and wife play-through of the Mass Effect games. Laughter, romance, and hijinks ensue. Biweekly episodes discussing plot, character, gameplay—the whole gamut!</description>
-        <generator>Feeder 3 3.4.5(2950); Mac OS X Version 10.12.5 (Build 16F73) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.5.11(3080); Mac OS X Version 10.13.5 (Build 17F77) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2017 Chris and Jaimie Krycho</copyright>
         <managingEditor>chris@chriskrycho.com (Chris Krycho)</managingEditor>
         <webMaster>chris@chriskrycho.com (Chris Krycho)</webMaster>
-        <pubDate>Wed, 05 Jul 2017 21:16:01 -0400</pubDate>
-        <lastBuildDate>Wed, 05 Jul 2017 21:16:02 -0400</lastBuildDate>
+        <pubDate>Wed, 11 Jul 2018 21:27:21 -0600</pubDate>
+        <lastBuildDate>Wed, 11 Jul 2018 21:27:22 -0600</lastBuildDate>
         <image>
             <url>http://cdn.massaffection.com/cover.jpg</url>
             <title>Mass Affection</title>
@@ -23,7 +23,7 @@
         <atom:link href="http://www.massaffection.com/feed.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Chris and Jaimie Krycho</itunes:author>
         <itunes:subtitle>A husband and wife play-through of the Mass Effect games. Laughter, romance, and hijinks ensue.</itunes:subtitle>
-        <itunes:summary><![CDATA[A husband and wife play-through of the Mass Effect games. Laughter, romance, and hijinks ensue. Biweekly episodes discussing plot, character, gameplay—the whole gamut!]]></itunes:summary>
+        <itunes:summary>A husband and wife play-through of the Mass Effect games. Laughter, romance, and hijinks ensue. Biweekly episodes discussing plot, character, gameplay—the whole gamut!</itunes:summary>
         <itunes:keywords>games,mass effect,video games,couple,romance,playthrough</itunes:keywords>
         <itunes:image href="http://cdn.massaffection.com/cover.jpg"/>
         <itunes:explicit>clean</itunes:explicit>
@@ -35,6 +35,35 @@
         <itunes:category text="Games &amp; Hobbies">
             <itunes:category text="Video Games"/>
         </itunes:category>
+        <itunes:type>serial</itunes:type>
+        <item>
+            <title>ME2: 2 – Freedom's Progress</title>
+            <description><![CDATA[<p>A ghost town with wolf noises, meeting Tali again, talking to TIM, and PLOT!!! reasons.</p>
+<h2>Show Notes</h2>
+<p><img src="http://cdn.massaffection.com/veetor.jpg" alt="Veetor" /></p>
+<ul>
+<li><a href="http://hamiltonmusical.com"><em>Hamilton</em></a></li>
+<li><a href="https://www.merriam-webster.com/dictionary/bionic">bionic</a>: "having normal biological capability or performance enhanced by or as if by electronic or electromechanical devices"</li>
+<li><a href="https://newrustacean.com">New Rustacean, Chris' other podcast</a></li>
+<li><a href="https://krycho.com/were-in/">blog post about moving to Colorado</a></li>
+</ul>
+<h2>Interact!</h2>
+<ul>
+<li><a href="https://www.patreon.com/massaffection">Patreon</a></li>
+<li><a href="https://twitter.com/mass_affection">@mass_affection</a></li>
+<li><a href="mailto:hello@massaffection.com">hello@massaffection.com</a></li>
+</ul>
+]]></description>
+            <pubDate>Wed, 11 Jul 2018 21:27:14 -0600</pubDate>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/massaffection-cdn.objects-us-west-1.dream.io/2-freedoms-progress.mp3" length="32339944" type="audio/mpeg"/>
+            <guid isPermaLink="false">53345952-345A-4580-8600-65F08C9C670C</guid>
+            <itunes:subtitle>A ghost town with wolf noises, meeting Tali again, talking to TIM, and PLOT!!! reasons.</itunes:subtitle>
+            <itunes:summary>A ghost town with wolf noises, meeting Tali again, talking to TIM, and PLOT!!! reasons.</itunes:summary>
+            <itunes:duration>33:09</itunes:duration>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
         <item>
             <title>ME2: 1 – Opening</title>
             <link>https://www.massaffection.com/mass-effect/1-opening/</link>
@@ -55,12 +84,15 @@
 </ul>
 <p><img src="http://cdn.massaffection.com/me2-shepard.jpg" alt="ME2 Imported Shepard" /></p>
 ]]></description>
-            <pubDate>Wed, 05 Jul 2017 21:15:46 -0400</pubDate>
+            <pubDate>Wed, 05 Jul 2017 19:15:46 -0600</pubDate>
             <enclosure url="http://dts.podtrac.com/redirect.mp3/massaffection-cdn.objects-us-west-1.dream.io/1-opening.mp3" length="36428460" type="audio/mpeg"/>
             <guid isPermaLink="false">7381D20B-22D4-4E1B-896A-02C2CDBA3287</guid>
             <itunes:subtitle>Cerberus between games, the prologue, and the opening.</itunes:subtitle>
-            <itunes:summary><![CDATA[Cerberus between games, the prologue, and the opening.]]></itunes:summary>
+            <itunes:summary>Cerberus between games, the prologue, and the opening.</itunes:summary>
             <itunes:duration>36:54</itunes:duration>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
             <title>ME: 7 – Finale</title>
@@ -75,12 +107,15 @@
 <h2>Bonus "Screenshot"</h2>
 <p><img src="http://cdn.massaffection.com/me1-hero-shot.jpg" alt="Hero shot" /></p>
 ]]></description>
-            <pubDate>Mon, 19 Jun 2017 20:00:00 -0400</pubDate>
+            <pubDate>Mon, 19 Jun 2017 18:00:00 -0600</pubDate>
             <enclosure url="http://dts.podtrac.com/redirect.mp3/massaffection-cdn.objects-us-west-1.dream.io/7-finale.mp3" length="57565123" type="audio/mpeg"/>
             <guid isPermaLink="false">30E4C339-46A6-4252-AD1B-70D9A82CB1AB</guid>
             <itunes:subtitle>Ilos, the Conduit, and the final confrontation with Sovereign!</itunes:subtitle>
-            <itunes:summary><![CDATA[Ilos, the Conduit, and the final confrontation with Sovereign!]]></itunes:summary>
+            <itunes:summary>Ilos, the Conduit, and the final confrontation with Sovereign!</itunes:summary>
             <itunes:duration>39:16</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>7</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
             <title>ME: 6 – Virmire</title>
@@ -109,11 +144,14 @@
 <li><a href="mailto:hello@massaffection.com">hello@massaffection.com</a></li>
 </ul>
 ]]></description>
-            <pubDate>Mon, 24 Apr 2017 22:00:00 -0400</pubDate>
+            <pubDate>Mon, 24 Apr 2017 20:00:00 -0600</pubDate>
             <enclosure url="http://dts.podtrac.com/redirect.mp3/massaffection-cdn.objects-us-west-1.dream.io/6-virmire.mp3" length="43406322" type="audio/mpeg"/>
             <guid isPermaLink="false">7241F5D1-6271-4460-B1F6-74950B39F704</guid>
-            <itunes:summary><![CDATA[Persuasion at the barrel of a sniper rifle, or, Shepard is “better than a fleet”!]]></itunes:summary>
+            <itunes:summary>Persuasion at the barrel of a sniper rifle, or, Shepard is “better than a fleet”!</itunes:summary>
             <itunes:duration>44:10</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>6</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
             <title>ME: 5 – Feros</title>
@@ -131,12 +169,15 @@
 <li><a href="mailto:hello@massaffection.com">hello@massaffection.com</a></li>
 </ul>
 ]]></description>
-            <pubDate>Sun, 09 Apr 2017 16:30:00 -0400</pubDate>
+            <pubDate>Sun, 09 Apr 2017 14:30:00 -0600</pubDate>
             <enclosure url="http://dts.podtrac.com/redirect.mp3/massaffection-cdn.objects-us-west-1.dream.io/5-feros.mp3" length="29231979" type="audio/mpeg"/>
             <guid isPermaLink="false">0B415FC5-70BF-4B0C-B87A-75AF9F368798</guid>
             <itunes:subtitle>Bad corporations and plant-based… body horror?</itunes:subtitle>
-            <itunes:summary><![CDATA[Bad corporations and plant-based… body horror?]]></itunes:summary>
+            <itunes:summary>Bad corporations and plant-based… body horror?</itunes:summary>
             <itunes:duration>29:24</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>5</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
             <title>Andromeda: 0 – Trailer Thoughts</title>
@@ -154,12 +195,13 @@
 <li><a href="mailto:hello@massaffection.com">hello@massaffection.com</a></li>
 </ul>
 ]]></description>
-            <pubDate>Mon, 20 Mar 2017 20:30:00 -0400</pubDate>
+            <pubDate>Mon, 20 Mar 2017 18:30:00 -0600</pubDate>
             <enclosure url="http://dts.podtrac.com/redirect.mp3/massaffection-cdn.objects-us-west-1.dream.io/0-trailer-thoughts.mp3" length="38624001" type="audio/mpeg"/>
             <guid isPermaLink="false">20177BC0-9DE8-401F-909B-418A9D06BE11</guid>
             <itunes:subtitle>Thoughts on Andromeda from the various trailers.</itunes:subtitle>
-            <itunes:summary><![CDATA[Thoughts on Andromeda from the various trailers.]]></itunes:summary>
+            <itunes:summary>Thoughts on Andromeda from the various trailers.</itunes:summary>
             <itunes:duration>26:07</itunes:duration>
+            <itunes:episodeType>bonus</itunes:episodeType>
         </item>
         <item>
             <title>ME: 4 – Noveria</title>
@@ -184,19 +226,22 @@
 <li><a href="mailto:hello@massaffection.com">hello@massaffection.com</a></li>
 </ul>
 ]]></description>
-            <pubDate>Sun, 05 Mar 2017 16:25:00 -0500</pubDate>
+            <pubDate>Sun, 05 Mar 2017 14:25:00 -0700</pubDate>
             <enclosure url="http://dts.podtrac.com/redirect.mp3/massaffection-cdn.objects-us-west-1.dream.io/4-noveria.mp3" length="32572386" type="audio/mpeg"/>
             <guid isPermaLink="false">89A3EAFA-B0B7-4C18-AA6A-09B7DD86466F</guid>
             <itunes:subtitle>Fighting/talking to rachni and Liara's mom, and sci-fi and storytelling remixes</itunes:subtitle>
-            <itunes:summary><![CDATA[Fighting/talking to rachni and Liara's mom, and sci-fi and storytelling remixes
+            <itunes:summary>Fighting/talking to rachni and Liara's mom, and sci-fi and storytelling remixes
 
 ## Interact!
 
 - .patreon.com/massaffection
 - twitter.com/mass_affection
 - hello@massaffection.com
-]]></itunes:summary>
+</itunes:summary>
             <itunes:duration>32:53</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
             <title>ME: 3 – Liara</title>
@@ -218,11 +263,11 @@
 <li><a href="mailto:hello@massaffection.com">hello@massaffection.com</a></li>
 </ul>
 ]]></description>
-            <pubDate>Mon, 20 Feb 2017 09:00:00 -0500</pubDate>
+            <pubDate>Mon, 20 Feb 2017 07:00:00 -0700</pubDate>
             <enclosure url="http://dts.podtrac.com/redirect.mp3/massaffection-cdn.objects-us-west-1.dream.io/3-liara.mp3" length="31423900" type="audio/mpeg"/>
             <guid isPermaLink="false">37349765-61EB-4BA4-A712-CD88D27C63CB</guid>
             <itunes:subtitle>Finding our favorite delightfully awkward and nerdy blue alien woman.</itunes:subtitle>
-            <itunes:summary><![CDATA[Finding our favorite delightfully awkward and nerdy blue alien woman.
+            <itunes:summary>Finding our favorite delightfully awkward and nerdy blue alien woman.
 
 
 Show Notes
@@ -244,8 +289,11 @@ Interact!
 
 * twitter.com/mass_affection
 
-* hello@massaffection.com]]></itunes:summary>
+* hello@massaffection.com</itunes:summary>
             <itunes:duration>36:12</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
             <title>ME: 2 – The Citadel</title>
@@ -270,11 +318,11 @@ Interact!
 <li><a href="mailto:hello@massaffection.com">hello@massaffection.com</a></li>
 </ul>
 ]]></description>
-            <pubDate>Mon, 06 Feb 2017 21:30:00 -0500</pubDate>
+            <pubDate>Mon, 06 Feb 2017 19:30:00 -0700</pubDate>
             <enclosure url="http://dts.podtrac.com/redirect.mp3/massaffection-cdn.objects-us-west-1.dream.io/2-the-citadel.mp3" length="30588674" type="audio/mpeg"/>
             <guid isPermaLink="false">587FD167-55EA-4840-9946-538F4C2C2F7D</guid>
             <itunes:subtitle>The Council, meeting almost all the rest of our crew, and space fashion!</itunes:subtitle>
-            <itunes:summary><![CDATA[The Council, meeting almost all the rest of our crew, and space fashion!
+            <itunes:summary>The Council, meeting almost all the rest of our crew, and space fashion!
 
 Interact!
 
@@ -282,8 +330,11 @@ Interact!
 
 * @mass_affection
 
-* hello@massaffection.com]]></itunes:summary>
+* hello@massaffection.com</itunes:summary>
             <itunes:duration>35:13</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
             <title>ME: 1 – Prologue</title>
@@ -315,11 +366,11 @@ Interact!
 <li><a href="mailto:hello@massaffection.com">hello@massaffection.com</a></li>
 </ul>
 ]]></description>
-            <pubDate>Sun, 22 Jan 2017 19:00:00 -0500</pubDate>
+            <pubDate>Sun, 22 Jan 2017 17:00:00 -0700</pubDate>
             <enclosure url="http://dts.podtrac.com/redirect.mp3/massaffection-cdn.objects-us-west-1.dream.io/1-prologue.mp3" length="24796654" type="audio/mpeg"/>
             <guid isPermaLink="false">260FCE49-23E4-408A-81EA-0060B462FF40</guid>
             <itunes:subtitle>An introduction to the podcast, and the mission on Eden Prime!</itunes:subtitle>
-            <itunes:summary><![CDATA[An introduction to the podcast, and the mission on Eden Prime!
+            <itunes:summary>An introduction to the podcast, and the mission on Eden Prime!
 
 
 Show Notes
@@ -349,8 +400,11 @@ Interact!
 
 * @mass_affection
 
-* hello@massaffection.com]]></itunes:summary>
+* hello@massaffection.com</itunes:summary>
             <itunes:duration>28:13</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
         </item>
     </channel>
 </rss>
