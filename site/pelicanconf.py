@@ -24,9 +24,7 @@ CDN_URL = 'https://' + CDN_DOMAIN
 
 LOGO_URL = CDN_URL + '/cover.jpg'
 
-PATH = 'content'
-
-TIMEZONE = 'America/New_York'
+TIMEZONE = 'America/Denver'
 DEFAULT_DATE_FORMAT = "%B %d, %Y"
 DEFAULT_LANG = 'en'
 
@@ -75,20 +73,12 @@ EMBED_DIR_NAME = 'embed'
 STATIC_PATHS = ['extra/favicon.png',
                 'extra/.nojekyll',
                 'extra/feed.xml',
-                'extra/challenge',
-                'extra/challenge-www',
                 EMBED_DIR_NAME,
                 ]
 EXTRA_PATH_METADATA = {
     'extra/favicon.png': {'path': 'favicon.png'},
     'extra/feed.xml': {'path': 'feed.xml'},
     'extra/.nojekyll': {'path': '.nojekyll'},
-    'extra/challenge': {
-        'path': '.well-known/acme-challenge/24xjmayWxZGoTkqjcjRgk3uQne3mSUKghtkhtX4IYCc',
-    },
-    'extra/challenge-www': {
-        'path': '.well-known/acme-challenge/AesnLB6GRuIwCjQzpRycjkrDXhJxvUlJtMS56yT-KHI'
-    },
 }
 
 ARTICLE_EXCLUDES = [EMBED_DIR_NAME]
@@ -126,4 +116,4 @@ for name, embed in embeds.items():
     print('  - {}'.format(name))
     with fpath.open('w') as fd:
         fd.write(embed)
-print()
+
