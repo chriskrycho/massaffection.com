@@ -3,9 +3,9 @@ Description: Thoughts on Andromeda from the various trailers.
 Date: 2017-03-20 20:30
 Author: Chris and Jaimie Krycho
 Category: Andromeda
-Image: http://cdn.massaffection.com/andromeda-cover.jpg
+Image: https://f001.backblazeb2.com/file/massaffection/andromeda-cover.jpg
 
-![_Mass Effect: Andromeda_](http://cdn.massaffection.com/andromeda-cover.jpg "Promo art for Andromeda")
+![_Mass Effect: Andromeda_](https://f001.backblazeb2.com/file/massaffection/andromeda-cover.jpg "Promo art for Andromeda")
 
 ## Show Notes
 

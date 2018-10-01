@@ -20,7 +20,7 @@ and hijinks ensue. Biweekly episodes discussing plot, character, gameplay—the 
 whole gamut!'''
 SITEURL = ''
 
-CDN_DOMAIN = 'f001.backblazeb2.com/file/winningslowly'
+CDN_DOMAIN = 'f001.backblazeb2.com/file/massaffection'
 CDN_URL = 'https://' + CDN_DOMAIN
 
 LOGO_URL = CDN_URL + '/cover.jpg'

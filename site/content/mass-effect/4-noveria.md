@@ -3,9 +3,9 @@ Description: Fighting/talking to rachni and Benezia, and sci-fi and storytelling
 Date: 2017-03-03 16:25
 Author: Chris and Jaimie Krycho
 Category: Mass Effect
-Image: http://cdn.massaffection.com/noveria.jpg
+Image: https://f001.backblazeb2.com/file/massaffection/noveria.jpg
 
-![Benezia blasting Shepard in a cutscene](http://cdn.massaffection.com/noveria.jpg "Benezia fighting: screenshot")
+![Benezia blasting Shepard in a cutscene](https://f001.backblazeb2.com/file/massaffection/noveria.jpg "Benezia fighting: screenshot")
 
 ## Show Notes
 
