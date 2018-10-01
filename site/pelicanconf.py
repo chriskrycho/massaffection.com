@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*- #
 
 from copy import copy
 from pathlib import Path
@@ -19,7 +20,7 @@ and hijinks ensue. Biweekly episodes discussing plot, character, gameplay—the 
 whole gamut!'''
 SITEURL = ''
 
-CDN_DOMAIN = 'massaffection-cdn.objects-us-west-1.dream.io'
+CDN_DOMAIN = 'f001.backblazeb2.com/file/winningslowly'
 CDN_URL = 'https://' + CDN_DOMAIN
 
 LOGO_URL = CDN_URL + '/cover.jpg'

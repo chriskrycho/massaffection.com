@@ -1,6 +1,0 @@
-pages:
-  script:
-  - echo "Yay\!"
-  artifacts:
-    paths:
-    - public/
