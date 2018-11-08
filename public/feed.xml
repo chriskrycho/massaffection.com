@@ -4,14 +4,14 @@
         <title>Mass Affection</title>
         <link>https://www.massaffection.com</link>
         <description>A husband and wife play-through of the Mass Effect games. Laughter, romance, and hijinks ensue. Biweekly episodes discussing plot, character, gameplay—the whole gamut!</description>
-        <generator>Feeder 3 3.5.11(3080); Mac OS X Version 10.13.5 (Build 17F77) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.6.1(3174); Mac OS X Version 10.14.1 (Build 18B75) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2017 Chris and Jaimie Krycho</copyright>
         <managingEditor>chris@chriskrycho.com (Chris Krycho)</managingEditor>
         <webMaster>chris@chriskrycho.com (Chris Krycho)</webMaster>
-        <pubDate>Wed, 11 Jul 2018 21:27:21 -0600</pubDate>
-        <lastBuildDate>Wed, 11 Jul 2018 21:27:22 -0600</lastBuildDate>
+        <pubDate>Wed, 07 Nov 2018 20:02:37 -0700</pubDate>
+        <lastBuildDate>Wed, 07 Nov 2018 20:02:38 -0700</lastBuildDate>
         <image>
             <url>https://f001.backblazeb2.com/file/massaffection/cover.jpg</url>
             <title>Mass Affection</title>
@@ -36,6 +36,35 @@
             <itunes:category text="Video Games"/>
         </itunes:category>
         <itunes:type>serial</itunes:type>
+        <item>
+            <title>ME2: 3 – First Recruitments and Omega</title>
+            <description><![CDATA[<p>We talk about the Normandy 2's crew, Omega and Aria, and recruiting Mordin and Garrus.</p>
+<h2>Show Notes</h2>
+<p><img src="https://f001.backblazeb2.com/file/massaffection/omega.jpg" alt="Omega" /></p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Male_gaze">“male gaze”</a></li>
+<li><a href="https://www.youtube.com/watch?v=296GRzyN2t4">Jayne Cobb's chain of command</a></li>
+<li><a href="https://www.youtube.com/watch?v=pI-fiGUjAPY">Hero of Canton</a></li>
+<li><a href="https://www.youtube.com/watch?v=nfWlot6h_JM">Taylor Swift “Shake It Off”</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Trinity_(The_Matrix)">Trinity in <em>The Matrix</em></a></li>
+<li><a href="https://en.wikipedia.org/wiki/Space_opera">“Space opera”</a></li>
+</ul>
+<h2>Interact!</h2>
+<ul>
+<li><a href="https://www.patreon.com/massaffection">Patreon</a></li>
+<li><a href="https://twitter.com/mass_affection">@mass_affection</a></li>
+<li><a href="mailto:hello@massaffection.com">hello@massaffection.com</a></li>
+</ul>
+]]></description>
+            <pubDate>Wed, 07 Nov 2018 20:02:33 -0700</pubDate>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/f001.backblazeb2.com/file/massaffection/3-first-recruitments-and-omega.mp3" length="34407919" type="audio/mpeg"/>
+            <guid isPermaLink="false">50F7270D-67ED-4B0A-A5C6-718C9849C4E0</guid>
+            <itunes:summary>We talk about the Normandy 2's crew, Omega and Aria, and recruiting Mordin and Garrus.</itunes:summary>
+            <itunes:duration>35:18</itunes:duration>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
         <item>
             <title>ME2: 2 – Freedom's Progress</title>
             <description><![CDATA[<p>A ghost town with wolf noises, meeting Tali again, talking to TIM, and PLOT!!! reasons.</p>
