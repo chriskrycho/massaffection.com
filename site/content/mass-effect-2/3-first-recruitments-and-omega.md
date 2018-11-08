@@ -1,6 +1,6 @@
 Title: 3 – First Recruitments and Omega
 Description: We talk about the Normandy 2's crew, Omega and Aria, and recruiting Mordin and Garrus.
-Date: 2018-07-11 21:30
+Date: 2018-11-07 20:00
 Author: Chris and Jaimie Krycho
 Category: Mass Effect 2
 Image: https://f001.backblazeb2.com/file/massaffection/omega.jpg
