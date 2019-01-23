@@ -4,14 +4,14 @@
         <title>Mass Affection</title>
         <link>https://www.massaffection.com</link>
         <description>A husband and wife play-through of the Mass Effect games. Laughter, romance, and hijinks ensue. Biweekly episodes discussing plot, character, gameplay—the whole gamut!</description>
-        <generator>Feeder 3 3.6.1(3174); Mac OS X Version 10.14.1 (Build 18B75) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.6.3(3192); Mac OS X Version 10.14.2 (Build 18C54) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2017 Chris and Jaimie Krycho</copyright>
         <managingEditor>chris@chriskrycho.com (Chris Krycho)</managingEditor>
         <webMaster>chris@chriskrycho.com (Chris Krycho)</webMaster>
-        <pubDate>Wed, 07 Nov 2018 20:02:37 -0700</pubDate>
-        <lastBuildDate>Wed, 07 Nov 2018 20:02:38 -0700</lastBuildDate>
+        <pubDate>Tue, 22 Jan 2019 21:21:01 -0700</pubDate>
+        <lastBuildDate>Tue, 22 Jan 2019 21:21:02 -0700</lastBuildDate>
         <image>
             <url>https://f001.backblazeb2.com/file/massaffection/cover.jpg</url>
             <title>Mass Affection</title>
@@ -36,6 +36,42 @@
             <itunes:category text="Video Games"/>
         </itunes:category>
         <itunes:type>serial</itunes:type>
+        <item>
+            <title>ME2: 4 – Kasumi</title>
+            <description><![CDATA[<p>We talk about how Kasumi is bad at parties but is creepily good at knowing Shepard's measurements, and also about a gunfight and the problems with hoods.</p>
+<p><img src="https://f001.backblazeb2.com/file/massaffection/kasumi.png" alt="Kasumi" /></p>
+<h2>Show Notes</h2>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion#Newton's_first_law">Newton's First Law</a>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=hLpgxry542M">the referenced sequence in the game</a></li>
+</ul>
+</li>
+<li><a href="https://en.wikipedia.org/wiki/Little_black_dress">LBD</a> (yes, again!)</li>
+<li><a href="https://www.alibris.com/booksearch?keyword=andromeda%20strain"><cite>Andromeda Strain</cite></a> by Michael Crighton</li>
+<li><a href="https://fanlore.org/wiki/Headcanon">headcanon</a>
+<ul>
+<li><a href="https://xkcd.com/1401/">XKCD "headcannon"</a></li>
+</ul>
+</li>
+</ul>
+<h2>Interact!</h2>
+<ul>
+<li><a href="https://www.patreon.com/massaffection">Patreon</a></li>
+<li><a href="https://twitter.com/mass_affection">@mass_affection</a></li>
+<li><a href="mailto:hello@massaffection.com">hello@massaffection.com</a></li>
+</ul>
+]]></description>
+            <pubDate>Tue, 22 Jan 2019 21:20:56 -0700</pubDate>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/f001.backblazeb2.com/file/massaffection/4-kasumi.mp3" length="22792787" type="audio/mpeg"/>
+            <guid isPermaLink="false">6F22C234-75F2-4A19-83CE-1277D79986E0</guid>
+            <itunes:subtitle>We talk about how Kasumi is bad at parties but is creepily good at knowing Shepard's measurements, and also about a gunfight and the problems with hoods.</itunes:subtitle>
+            <itunes:summary>We talk about how Kasumi is bad at parties but is creepily good at knowing Shepard's measurements, and also about a gunfight and the problems with hoods.</itunes:summary>
+            <itunes:duration>23:12</itunes:duration>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
         <item>
             <title>ME2: 3 – First Recruitments and Omega</title>
             <description><![CDATA[<p>We talk about the Normandy 2's crew, Omega and Aria, and recruiting Mordin and Garrus.</p>
