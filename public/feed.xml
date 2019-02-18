@@ -4,14 +4,14 @@
         <title>Mass Affection</title>
         <link>https://www.massaffection.com</link>
         <description>A husband and wife play-through of the Mass Effect games. Laughter, romance, and hijinks ensue. Biweekly episodes discussing plot, character, gameplay—the whole gamut!</description>
-        <generator>Feeder 3 3.6.3(3192); Mac OS X Version 10.14.2 (Build 18C54) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.6.3(3192); Mac OS X Version 10.14.3 (Build 18D109) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2017 Chris and Jaimie Krycho</copyright>
         <managingEditor>chris@chriskrycho.com (Chris Krycho)</managingEditor>
         <webMaster>chris@chriskrycho.com (Chris Krycho)</webMaster>
-        <pubDate>Tue, 22 Jan 2019 21:21:01 -0700</pubDate>
-        <lastBuildDate>Tue, 22 Jan 2019 21:21:02 -0700</lastBuildDate>
+        <pubDate>Mon, 18 Feb 2019 16:38:27 -0700</pubDate>
+        <lastBuildDate>Mon, 18 Feb 2019 16:38:27 -0700</lastBuildDate>
         <image>
             <url>https://f001.backblazeb2.com/file/massaffection/cover.jpg</url>
             <title>Mass Affection</title>
@@ -36,6 +36,42 @@
             <itunes:category text="Video Games"/>
         </itunes:category>
         <itunes:type>serial</itunes:type>
+        <item>
+            <title>ME2: 5 – Jack</title>
+            <description><![CDATA[<p>Recruiting “The Convict”—or, as Jaimie summarized it:</p>
+<blockquote>
+<p>If you talk to people enough and steal their credits… everyone will love you.</p>
+</blockquote>
+<p><img src="https://f001.backblazeb2.com/file/massaffection/jack.jpg" alt="Jack" /></p>
+<h2>Show Notes</h2>
+<ul>
+<li><a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/EvilGloating?from=Main.Monologuing">Monologuing (TV Tropes)</a></li>
+<li><a href="https://www.youtube.com/watch?v=udKE1ksKWDE">I’m always angry</a></li>
+<li>“SMH”: “shaking my head”</li>
+<li><a href="https://en.wikipedia.org/wiki/Little_black_dress">LBD</a> (yes, again!)</li>
+<li><a href="https://fanlore.org/wiki/Headcanon">headcanon</a>
+<ul>
+<li><a href="https://xkcd.com/1401/">XKCD "headcannon"</a></li>
+</ul>
+</li>
+</ul>
+<h2>Interact!</h2>
+<ul>
+<li><a href="https://www.patreon.com/massaffection">Patreon</a></li>
+<li><a href="https://twitter.com/mass_affection">@mass_affection</a></li>
+<li><a href="mailto:hello@massaffection.com">hello@massaffection.com</a></li>
+</ul>
+]]></description>
+            <pubDate>Mon, 18 Feb 2019 16:45:00 -0700</pubDate>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/f001.backblazeb2.com/file/massaffection/5-jack.mp3" length="32111516" type="audio/mpeg"/>
+            <guid isPermaLink="false">B78ED871-7EFA-45E7-9982-2F1DAC15DB55</guid>
+            <itunes:subtitle>Recruiting “The Convict”—“If you talk to people enough and steal their credits… everyone will love you.”</itunes:subtitle>
+            <itunes:summary>Recruiting “The Convict”—“If you talk to people enough and steal their credits… everyone will love you.”</itunes:summary>
+            <itunes:duration>32:55</itunes:duration>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>5</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
         <item>
             <title>ME2: 4 – Kasumi</title>
             <description><![CDATA[<p>We talk about how Kasumi is bad at parties but is creepily good at knowing Shepard's measurements, and also about a gunfight and the problems with hoods.</p>
