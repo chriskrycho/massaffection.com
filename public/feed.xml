@@ -4,14 +4,14 @@
         <title>Mass Affection</title>
         <link>https://www.massaffection.com</link>
         <description>A husband and wife play-through of the Mass Effect games. Laughter, romance, and hijinks ensue. Biweekly episodes discussing plot, character, gameplay—the whole gamut!</description>
-        <generator>Feeder 3 3.6.3(3192); Mac OS X Version 10.14.3 (Build 18D109) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.6.4(3196); Mac OS X Version 10.14.4 (Build 18E226) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2017 Chris and Jaimie Krycho</copyright>
         <managingEditor>chris@chriskrycho.com (Chris Krycho)</managingEditor>
         <webMaster>chris@chriskrycho.com (Chris Krycho)</webMaster>
-        <pubDate>Mon, 18 Feb 2019 16:38:27 -0700</pubDate>
-        <lastBuildDate>Mon, 18 Feb 2019 16:38:27 -0700</lastBuildDate>
+        <pubDate>Wed, 03 Apr 2019 20:49:19 -0600</pubDate>
+        <lastBuildDate>Wed, 03 Apr 2019 20:49:19 -0600</lastBuildDate>
         <image>
             <url>https://f001.backblazeb2.com/file/massaffection/cover.jpg</url>
             <title>Mass Affection</title>
@@ -36,6 +36,37 @@
             <itunes:category text="Video Games"/>
         </itunes:category>
         <itunes:type>serial</itunes:type>
+        <item>
+            <title>ME2: 6 – Grunt</title>
+            <description><![CDATA[<p>Recruiting “The Convict”—or, Jaimie is sleepy and this mission was not well-written.</p>
+<figure>
+<img src="https://f001.backblazeb2.com/file/massaffection/grunt.jpg" alt="Grunt" /><figcaption>Grunt</figcaption>
+</figure>
+<h2 id="show-notes">Show Notes</h2>
+<ul>
+<li><cite>The Expanse</cite>
+<ul>
+<li><a href="https://www.orbitbooks.net/expanse-books-james-s-a-corey/">books</a></li>
+<li><a href="https://www.syfy.com/theexpanse">TV series</a></li>
+</ul></li>
+</ul>
+<h2 id="interact">Interact!</h2>
+<ul>
+<li><a href="https://www.patreon.com/massaffection">Patreon</a></li>
+<li><a href="https://twitter.com/mass_affection">@mass_affection</a></li>
+<li><a href="mailto:hello@massaffection.com">hello@massaffection.com</a></li>
+</ul>
+]]></description>
+            <pubDate>Wed, 03 Apr 2019 20:30:00 -0600</pubDate>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/f001.backblazeb2.com/file/massaffection/6-grunt.mp3" length="18959661" type="audio/mpeg"/>
+            <guid isPermaLink="false">796C1D57-A47E-4CBF-9692-0140F7853E2F</guid>
+            <itunes:subtitle>Recruiting “The Warlord”—or, Jaimie is sleepy and this mission was not well-written.</itunes:subtitle>
+            <itunes:summary>Recruiting “The Warlord”—or, Jaimie is sleepy and this mission was not well-written.</itunes:summary>
+            <itunes:duration>19:12</itunes:duration>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>6</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
         <item>
             <title>ME2: 5 – Jack</title>
             <description><![CDATA[<p>Recruiting “The Convict”—or, as Jaimie summarized it:</p>
