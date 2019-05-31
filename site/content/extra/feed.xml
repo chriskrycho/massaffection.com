@@ -4,14 +4,14 @@
         <title>Mass Affection</title>
         <link>https://www.massaffection.com</link>
         <description>A husband and wife play-through of the Mass Effect games. Laughter, romance, and hijinks ensue. Biweekly episodes discussing plot, character, gameplay—the whole gamut!</description>
-        <generator>Feeder 3 3.6.4(3196); Mac OS X Version 10.14.4 (Build 18E226) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.6.7(3212); Mac OS X Version 10.14.5 (Build 18F132) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2017 Chris and Jaimie Krycho</copyright>
         <managingEditor>chris@chriskrycho.com (Chris Krycho)</managingEditor>
         <webMaster>chris@chriskrycho.com (Chris Krycho)</webMaster>
-        <pubDate>Wed, 03 Apr 2019 20:49:19 -0600</pubDate>
-        <lastBuildDate>Wed, 03 Apr 2019 20:49:19 -0600</lastBuildDate>
+        <pubDate>Thu, 30 May 2019 22:32:59 -0600</pubDate>
+        <lastBuildDate>Thu, 30 May 2019 22:32:59 -0600</lastBuildDate>
         <image>
             <url>https://f001.backblazeb2.com/file/massaffection/cover.jpg</url>
             <title>Mass Affection</title>
@@ -36,6 +36,53 @@
             <itunes:category text="Video Games"/>
         </itunes:category>
         <itunes:type>serial</itunes:type>
+        <item>
+            <title>ME2: 7: Horizon</title>
+            <description><![CDATA[<p>Thor-Collector bug time! (This is a really weird crossover…)</p>
+<p><img src="https://f001.backblazeb2.com/file/massaffection/horizon.jpg" alt="Horizon" /></p>
+<p>In which we meet and fight Collectors, argue with a guy in a shed, and argue with Kaidan. Also, Chris cannot talk to save his life in this episode, and Jaimie is reveling in it.</p>
+<h2>Show Notes</h2>
+<ul>
+<li><a href="https://www.theincomparable.com">The Incomparable</a>
+<ul>
+<li><cite>Episode I: The Phantom Menace</cite>
+<ul>
+<li><a href="https://www.theincomparable.com/theincomparable/136/">Part 1: We Waited 16 Years For This?</a></li>
+<li><a href="https://www.theincomparable.com/theincomparable/137/">Part 2: Go Wash a Droid</a></li>
+</ul>
+</li>
+<li><cite>Episode II: Attack of the Clones</cite>
+<ul>
+<li><a href="https://www.theincomparable.com/theincomparable/182/">Part 1: Full Fledged Force Mullet</a></li>
+<li><a href="https://www.theincomparable.com/theincomparable/183/">Part 2: How I Sold Your Mother</a></li>
+</ul>
+</li>
+<li><cite>Episode III: Revenge of the Sith</cite>
+<ul>
+<li><a href="https://www.theincomparable.com/theincomparable/237/">Part 1: Force Denier</a></li>
+<li><a href="https://www.theincomparable.com/theincomparable/238/">Part 2: Caucus with the Sith</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2>Interact!</h2>
+<ul>
+<li><a href="https://www.patreon.com/massaffection" rel="payment">Patreon</a></li>
+<li><a href="https://twitter.com/mass_affection">@mass_affection</a></li>
+<li><a href="mailto:hello@massaffection.com">hello@massaffection.com</a></li>
+</ul>
+]]></description>
+            <pubDate>Thu, 30 May 2019 22:30:00 -0600</pubDate>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/f001.backblazeb2.com/file/massaffection/7-horizon.mp3" length="24637778" type="audio/mpeg"/>
+            <guid isPermaLink="false">DEE0593D-AF25-491F-8E97-B6F0F2A75A29</guid>
+            <itunes:subtitle>Thor-Collector bug time! (This is a really weird crossover…)</itunes:subtitle>
+            <itunes:summary>Thor-Collector bug time! (This is a really weird crossover…)</itunes:summary>
+            <itunes:duration>25:07</itunes:duration>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>7</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
         <item>
             <title>ME2: 6 – Grunt</title>
             <description><![CDATA[<p>Recruiting “The Convict”—or, Jaimie is sleepy and this mission was not well-written.</p>
