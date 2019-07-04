@@ -4,14 +4,14 @@
         <title>Mass Affection</title>
         <link>https://www.massaffection.com</link>
         <description>A husband and wife play-through of the Mass Effect games. Laughter, romance, and hijinks ensue. Biweekly episodes discussing plot, character, gameplay—the whole gamut!</description>
-        <generator>Feeder 3 3.6.7(3212); Mac OS X Version 10.14.5 (Build 18F132) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.6.9(3228); Mac OS X Version 10.14.5 (Build 18F132) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2017 Chris and Jaimie Krycho</copyright>
         <managingEditor>chris@chriskrycho.com (Chris Krycho)</managingEditor>
         <webMaster>chris@chriskrycho.com (Chris Krycho)</webMaster>
-        <pubDate>Thu, 30 May 2019 22:32:59 -0600</pubDate>
-        <lastBuildDate>Thu, 30 May 2019 22:32:59 -0600</lastBuildDate>
+        <pubDate>Wed, 03 Jul 2019 22:55:44 -0600</pubDate>
+        <lastBuildDate>Wed, 03 Jul 2019 22:55:45 -0600</lastBuildDate>
         <image>
             <url>https://f001.backblazeb2.com/file/massaffection/cover.jpg</url>
             <title>Mass Affection</title>
@@ -37,7 +37,30 @@
         </itunes:category>
         <itunes:type>serial</itunes:type>
         <item>
-            <title>ME2: 7: Horizon</title>
+            <title>ME2: 8 – Arrival</title>
+            <description><![CDATA[<p>An abject failure of story-telling, in every possible way.</p>
+<p><img src="https://f001.backblazeb2.com/file/massaffection/arrival.jpg" alt="Arrival" /></p>
+<p>Jaimie makes bad puns and does a mean Kasumi impression. Chris rants about the horrible, no good, very bad ethics on display here. Both of them rant about the bad writing and the putting-the-characters-on-rails decisions the story team made.</p>
+<p>…but hey, at least there's a Hackett appearance?</p>
+<h2>Interact!</h2>
+<ul>
+<li><a href="https://www.patreon.com/massaffection" rel="payment">Patreon</a></li>
+<li><a href="https://twitter.com/mass_affection">@mass_affection</a></li>
+<li><a href="mailto:hello@massaffection.com">hello@massaffection.com</a></li>
+</ul>
+]]></description>
+            <pubDate>Wed, 03 Jul 2019 23:00:00 -0600</pubDate>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/f001.backblazeb2.com/file/massaffection/8-arrival.mp3" length="38871727" type="audio/mpeg"/>
+            <guid isPermaLink="false">3D45374E-C0FB-46B7-A43D-DB0A16B1B259</guid>
+            <itunes:subtitle>An abject failure of story-telling, in every possible way.</itunes:subtitle>
+            <itunes:summary>An abject failure of story-telling, in every possible way.</itunes:summary>
+            <itunes:duration>38:33</itunes:duration>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>8</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>ME2: 7 – Horizon</title>
             <description><![CDATA[<p>Thor-Collector bug time! (This is a really weird crossover…)</p>
 <p><img src="https://f001.backblazeb2.com/file/massaffection/horizon.jpg" alt="Horizon" /></p>
 <p>In which we meet and fight Collectors, argue with a guy in a shed, and argue with Kaidan. Also, Chris cannot talk to save his life in this episode, and Jaimie is reveling in it.</p>

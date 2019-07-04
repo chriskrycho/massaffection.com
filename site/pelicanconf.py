@@ -68,7 +68,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-DEFAULT_PAGINATION = 12  # roughly 3 months. Ish.
+DEFAULT_PAGINATION = 0
 
 EMBED_DIR_NAME = 'embed'
 STATIC_PATHS = ['extra/favicon.png',
