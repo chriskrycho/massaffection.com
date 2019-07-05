@@ -3,13 +3,13 @@ Description: Recruiting “The Convict”—“If you talk to people enough and 
 Date: 2019-02-18 16:45
 Author: Chris and Jaimie Krycho
 Category: Mass Effect 2
-Image: https://f001.backblazeb2.com/file/massaffection/jack.jpg
+Image: https://cdn.massaffection.com/file/massaffection/jack.jpg
 
 Recruiting “The Convict”—or, as Jaimie summarized it:
 
 > If you talk to people enough and steal their credits… everyone will love you.
 
-![Jack](https://f001.backblazeb2.com/file/massaffection/jack.jpg)
+![Jack](https://cdn.massaffection.com/file/massaffection/jack.jpg)
 
 ## Show Notes
 

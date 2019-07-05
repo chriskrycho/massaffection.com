@@ -3,11 +3,11 @@ Description: Finding our favorite delightfully awkward and nerdy blue alien woma
 Date: 2017-02-20 09:00
 Author: Chris and Jaimie Krycho
 Category: Mass Effect
-Image: https://f001.backblazeb2.com/file/massaffection/liara.jpg
+Image: https://cdn.massaffection.com/file/massaffection/liara.jpg
 
 ## Show Notes
 
-![Liara discussing her predicament with Shepard](https://f001.backblazeb2.com/file/massaffection/liara.jpg "Liara on Therum: screenshot")
+![Liara discussing her predicament with Shepard](https://cdn.massaffection.com/file/massaffection/liara.jpg "Liara on Therum: screenshot")
 
 - Chris kept saying "spaceography" because he couldn't remember the word [astrography](https://en.wikipedia.org/wiki/Celestial_cartography).
 - [Exoplanets](https://www.nasa.gov/subject/6889/exoplanets/)

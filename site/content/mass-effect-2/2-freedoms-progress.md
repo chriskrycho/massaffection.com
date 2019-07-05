@@ -3,11 +3,11 @@ Description: A ghost town with wolf noises, meeting Tali again, talking to TIM, 
 Date: 2018-07-11 21:30
 Author: Chris and Jaimie Krycho
 Category: Mass Effect 2
-Image: https://f001.backblazeb2.com/file/massaffection/veetor.jpg
+Image: https://cdn.massaffection.com/file/massaffection/veetor.jpg
 
 ## Show Notes
 
-![Veetor](https://f001.backblazeb2.com/file/massaffection/veetor.jpg)
+![Veetor](https://cdn.massaffection.com/file/massaffection/veetor.jpg)
 
 - [_Hamilton_](http://hamiltonmusical.com)
 - [bionic](https://www.merriam-webster.com/dictionary/bionic): "having normal biological capability or performance enhanced by or as if by electronic or electromechanical devices"

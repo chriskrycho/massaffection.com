@@ -3,11 +3,11 @@ Description: Thor-Collector bug time! (This is a really weird crossover…)
 Date: 2019-05-30 22:30
 Author: Chris and Jaimie Krycho
 Category: Mass Effect 2
-Image: https://f001.backblazeb2.com/file/massaffection/horizon.jpg
+Image: https://cdn.massaffection.com/file/massaffection/horizon.jpg
 
 Thor-Collector bug time! (This is a really weird crossover…)
 
-![Horizon](https://f001.backblazeb2.com/file/massaffection/horizon.jpg)
+![Horizon](https://cdn.massaffection.com/file/massaffection/horizon.jpg)
 
 In which we meet and fight Collectors, argue with a guy in a shed, and argue with Kaidan. Also, Chris cannot talk to save his life in this episode, and Jaimie is reveling in it.
 

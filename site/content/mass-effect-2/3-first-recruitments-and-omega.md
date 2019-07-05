@@ -3,13 +3,13 @@ Description: We talk about the Normandy 2's crew, Omega and Aria, and recruiting
 Date: 2018-11-07 20:00
 Author: Chris and Jaimie Krycho
 Category: Mass Effect 2
-Image: https://f001.backblazeb2.com/file/massaffection/omega.jpg
+Image: https://cdn.massaffection.com/file/massaffection/omega.jpg
 
 We talk about the Normandy 2's crew, Omega and Aria, and recruiting Mordin and Garrus.
 
 ## Show Notes
 
-![Omega](https://f001.backblazeb2.com/file/massaffection/omega.jpg)
+![Omega](https://cdn.massaffection.com/file/massaffection/omega.jpg)
 
 * [“male gaze”](https://en.wikipedia.org/wiki/Male_gaze)
 - [Jayne Cobb's chain of command](https://www.youtube.com/watch?v=296GRzyN2t4)

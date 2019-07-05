@@ -3,11 +3,11 @@ Description: Recruiting “The Warlord”—or, Jaimie is sleepy and this missio
 Date: 2019-04-03 20:30
 Author: Chris and Jaimie Krycho
 Category: Mass Effect 2
-Image: https://f001.backblazeb2.com/file/massaffection/grunt.jpg
+Image: https://cdn.massaffection.com/file/massaffection/grunt.jpg
 
 Recruiting “The Convict”—or, Jaimie is sleepy and this mission was not well-written.
 
-![Grunt](https://f001.backblazeb2.com/file/massaffection/grunt.jpg)
+![Grunt](https://cdn.massaffection.com/file/massaffection/grunt.jpg)
 
 ## Show Notes
 

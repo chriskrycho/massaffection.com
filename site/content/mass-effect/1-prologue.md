@@ -3,11 +3,11 @@ Description: An introduction to the podcast, and the mission on Eden Prime!
 Date: 2017-01-22 19:00
 Author: Chris and Jaimie Krycho
 Category: Mass Effect
-Image: https://f001.backblazeb2.com/file/massaffection/shepard.jpg
+Image: https://cdn.massaffection.com/file/massaffection/shepard.jpg
 
 ## Show Notes
 
-![Our Shepard](https://f001.backblazeb2.com/file/massaffection/shepard.jpg "Shepard screenshot")
+![Our Shepard](https://cdn.massaffection.com/file/massaffection/shepard.jpg "Shepard screenshot")
 
 - Media OS: our name (probably picked up from *somewhere*, but we don't know where) for the operating systems you see on television and in movies---which are *nothing* like real operating systems.
 - [Opening music](https://soundcloud.com/chriskrycho/mass-affection-theme)

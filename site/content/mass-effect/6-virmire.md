@@ -3,9 +3,9 @@ Description: Persuasion at the barrel of a sniper rifle, or, Shepard is “bette
 Date: 2017-04-24 22:00
 Author: Chris and Jaimie Krycho
 Category: Mass Effect
-Image: https://f001.backblazeb2.com/file/massaffection/saren-virmire.jpg
+Image: https://cdn.massaffection.com/file/massaffection/saren-virmire.jpg
 
-![Fighting Saren](https://f001.backblazeb2.com/file/massaffection/saren-virmire.jpg)
+![Fighting Saren](https://cdn.massaffection.com/file/massaffection/saren-virmire.jpg)
 
 ## Show Notes
 

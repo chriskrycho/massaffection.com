@@ -3,9 +3,9 @@ Description: Bad corporations and plant-based… body horror?
 Date: 2017-04-09 16:30
 Author: Chris and Jaimie Krycho
 Category: Mass Effect
-Image: https://f001.backblazeb2.com/file/massaffection/thorian.jpg
+Image: https://cdn.massaffection.com/file/massaffection/thorian.jpg
 
-![The Thorian](https://f001.backblazeb2.com/file/massaffection/thorian.jpg "screen capture of the Thorian")
+![The Thorian](https://cdn.massaffection.com/file/massaffection/thorian.jpg "screen capture of the Thorian")
 
 ## Show Notes
 

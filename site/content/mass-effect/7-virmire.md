@@ -3,9 +3,9 @@ Description: Ilos, the Conduit, and the final confrontation with Sovereign!
 Date: 2017-06-19 20:00
 Author: Chris and Jaimie Krycho
 Category: Mass Effect
-Image: https://f001.backblazeb2.com/file/massaffection/citadel-attack.jpg
+Image: https://cdn.massaffection.com/file/massaffection/citadel-attack.jpg
 
-![Fighting Saren](https://f001.backblazeb2.com/file/massaffection/citadel-attack.jpg)
+![Fighting Saren](https://cdn.massaffection.com/file/massaffection/citadel-attack.jpg)
 
 ## Show Notes
 
@@ -15,4 +15,4 @@ Image: https://f001.backblazeb2.com/file/massaffection/citadel-attack.jpg
 
 ## Bonus "Screenshot"
 
-![Hero shot](https://f001.backblazeb2.com/file/massaffection/me1-hero-shot.jpg)
+![Hero shot](https://cdn.massaffection.com/file/massaffection/me1-hero-shot.jpg)
